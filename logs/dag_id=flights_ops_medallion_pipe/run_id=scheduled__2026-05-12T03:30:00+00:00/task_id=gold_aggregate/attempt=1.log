@@ -1,0 +1,32 @@
+[2026-05-12T04:00:15.593+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-12T04:00:15.612+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: flights_ops_medallion_pipe.gold_aggregate scheduled__2026-05-12T03:30:00+00:00 [queued]>
+[2026-05-12T04:00:15.617+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: flights_ops_medallion_pipe.gold_aggregate scheduled__2026-05-12T03:30:00+00:00 [queued]>
+[2026-05-12T04:00:15.617+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-05-12T04:00:15.624+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): gold_aggregate> on 2026-05-12 03:30:00+00:00
+[2026-05-12T04:00:15.630+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', '***_ops_medallion_pipe', 'gold_aggregate', 'scheduled__2026-05-12T03:30:00+00:00', '--job-id', '87', '--raw', '--subdir', 'DAGS_FOLDER/flight-pipeline.py', '--cfg-path', '/tmp/tmp5gwool5j']
+[2026-05-12T04:00:15.631+0000] {standard_task_runner.py:91} INFO - Job 87: Subtask gold_aggregate
+[2026-05-12T04:00:15.632+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=3123) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-05-12T04:00:15.632+0000] {standard_task_runner.py:64} INFO - Started process 3138 to run task
+[2026-05-12T04:00:15.659+0000] {task_command.py:426} INFO - Running <TaskInstance: flights_ops_medallion_pipe.gold_aggregate scheduled__2026-05-12T03:30:00+00:00 [running]> on host 78d4856cd6c9
+[2026-05-12T04:00:15.707+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='***_ops_medallion_pipe' AIRFLOW_CTX_TASK_ID='gold_aggregate' AIRFLOW_CTX_EXECUTION_DATE='2026-05-12T03:30:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-05-12T03:30:00+00:00'
+[2026-05-12T04:00:15.707+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-12T04:00:15.732+0000] {logging_mixin.py:188} INFO -       icao24  origin_country  velocity  on_ground
+0     80162d           India    238.71      False
+1     aa8c39   United States    239.92      False
+2     408120  United Kingdom    199.34      False
+3     408121  United Kingdom      3.09       True
+4     39de4d          France      2.83       True
+...      ...             ...       ...        ...
+5641  abc0e4   United States    160.07      False
+5642  4b1900     Switzerland     71.79      False
+5643  a4e5ea   United States     52.02      False
+5644  a6d83c   United States    211.37      False
+5645  e94c88         Bolivia    260.83      False
+
+[5646 rows x 4 columns]
+[2026-05-12T04:00:15.732+0000] {python.py:237} INFO - Done. Returned value was: None
+[2026-05-12T04:00:15.732+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-12T04:00:15.738+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=***_ops_medallion_pipe, task_id=gold_aggregate, run_id=scheduled__2026-05-12T03:30:00+00:00, execution_date=20260512T033000, start_date=20260512T040015, end_date=20260512T040015
+[2026-05-12T04:00:15.765+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2026-05-12T04:00:15.775+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-05-12T04:00:15.776+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

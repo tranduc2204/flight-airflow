@@ -1,0 +1,41 @@
+[2026-05-11T23:41:34.972+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-11T23:41:34.994+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: flights_ops_medallion_pipe.bronze_ingest manual__2026-05-11T23:41:32.919084+00:00 [queued]>
+[2026-05-11T23:41:34.999+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: flights_ops_medallion_pipe.bronze_ingest manual__2026-05-11T23:41:32.919084+00:00 [queued]>
+[2026-05-11T23:41:34.999+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-05-11T23:41:35.008+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): bronze_ingest> on 2026-05-11 23:41:32.919084+00:00
+[2026-05-11T23:41:35.012+0000] {standard_task_runner.py:64} INFO - Started process 1473 to run task
+[2026-05-11T23:41:35.013+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', '***_ops_medallion_pipe', 'bronze_ingest', 'manual__2026-05-11T23:41:32.919084+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/flight-pipeline.py', '--cfg-path', '/tmp/tmp3o0_24r3']
+[2026-05-11T23:41:35.015+0000] {standard_task_runner.py:91} INFO - Job 38: Subtask bronze_ingest
+[2026-05-11T23:41:35.047+0000] {task_command.py:426} INFO - Running <TaskInstance: flights_ops_medallion_pipe.bronze_ingest manual__2026-05-11T23:41:32.919084+00:00 [running]> on host 78d4856cd6c9
+[2026-05-11T23:41:35.102+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='***_ops_medallion_pipe' AIRFLOW_CTX_TASK_ID='bronze_ingest' AIRFLOW_CTX_EXECUTION_DATE='2026-05-11T23:41:32.919084+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-11T23:41:32.919084+00:00'
+[2026-05-11T23:41:35.103+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-11T23:41:40.131+0000] {logging_mixin.py:188} INFO - 
+
+ xem giá trị timestamp:  20260511234140
+[2026-05-11T23:41:40.131+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-11T23:41:40.131+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/scripts/bronze/bronze_ingest.py", line 18, in run_bronze_ingestion
+    path.parent.mkdir(parents=True, exist_ok=True)
+    ^^^^
+UnboundLocalError: cannot access local variable 'path' where it is not associated with a value
+[2026-05-11T23:41:40.138+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=***_ops_medallion_pipe, task_id=bronze_ingest, run_id=manual__2026-05-11T23:41:32.919084+00:00, execution_date=20260511T234132, start_date=20260511T234134, end_date=20260511T234140
+[2026-05-11T23:41:40.148+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 38 for task bronze_ingest (cannot access local variable 'path' where it is not associated with a value; 1473)
+[2026-05-11T23:41:40.191+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 1
+[2026-05-11T23:41:40.201+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-05-11T23:41:40.202+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

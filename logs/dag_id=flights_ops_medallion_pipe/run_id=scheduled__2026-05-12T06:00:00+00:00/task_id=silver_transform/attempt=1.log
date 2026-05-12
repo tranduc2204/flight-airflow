@@ -1,0 +1,34 @@
+[2026-05-12T06:30:08.537+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-12T06:30:08.560+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: flights_ops_medallion_pipe.silver_transform scheduled__2026-05-12T06:00:00+00:00 [queued]>
+[2026-05-12T06:30:08.565+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: flights_ops_medallion_pipe.silver_transform scheduled__2026-05-12T06:00:00+00:00 [queued]>
+[2026-05-12T06:30:08.565+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-05-12T06:30:08.573+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): silver_transform> on 2026-05-12 06:00:00+00:00
+[2026-05-12T06:30:08.580+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', '***_ops_medallion_pipe', 'silver_transform', 'scheduled__2026-05-12T06:00:00+00:00', '--job-id', '120', '--raw', '--subdir', 'DAGS_FOLDER/flight-pipeline.py', '--cfg-path', '/tmp/tmpj4q10q0c']
+[2026-05-12T06:30:08.581+0000] {standard_task_runner.py:91} INFO - Job 120: Subtask silver_transform
+[2026-05-12T06:30:08.582+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=4211) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-05-12T06:30:08.582+0000] {standard_task_runner.py:64} INFO - Started process 4225 to run task
+[2026-05-12T06:30:08.613+0000] {task_command.py:426} INFO - Running <TaskInstance: flights_ops_medallion_pipe.silver_transform scheduled__2026-05-12T06:00:00+00:00 [running]> on host 78d4856cd6c9
+[2026-05-12T06:30:08.672+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='***_ops_medallion_pipe' AIRFLOW_CTX_TASK_ID='silver_transform' AIRFLOW_CTX_EXECUTION_DATE='2026-05-12T06:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-05-12T06:00:00+00:00'
+[2026-05-12T06:30:08.673+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-12T06:30:08.714+0000] {logging_mixin.py:188} INFO -       icao24 origin_country  velocity  on_ground
+0     39de4e         France    223.71      False
+1     4b1817    Switzerland      0.06       True
+2     4b1819    Switzerland      0.06       True
+3     80162d          India    141.31      False
+4     80162a          India    122.36      False
+...      ...            ...       ...        ...
+5538  75824e    Philippines    185.39      False
+5539  a79531  United States    134.27      False
+5540  a6d83c  United States    243.05      False
+5541  c067ae         Canada    195.24      False
+5542  c00734         Canada    219.63      False
+
+[5543 rows x 4 columns]
+[2026-05-12T06:30:08.731+0000] {logging_mixin.py:188} INFO - check bronze_fileL:  /opt/airflow/data/bronze/flight_20260512063005.json
+[2026-05-12T06:30:08.731+0000] {logging_mixin.py:188} INFO - check biến execution date:  20260512
+[2026-05-12T06:30:08.732+0000] {python.py:237} INFO - Done. Returned value was: None
+[2026-05-12T06:30:08.732+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-12T06:30:08.739+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=***_ops_medallion_pipe, task_id=silver_transform, run_id=scheduled__2026-05-12T06:00:00+00:00, execution_date=20260512T060000, start_date=20260512T063008, end_date=20260512T063008
+[2026-05-12T06:30:08.755+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2026-05-12T06:30:08.771+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-05-12T06:30:08.772+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

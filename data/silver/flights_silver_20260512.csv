@@ -1,0 +1,5519 @@
+icao24,origin_country,velocity,on_ground
+39de4e,France,214.9,False
+80162d,India,235.9,False
+80162a,India,145.62,False
+aa8c39,United States,0.0,True
+7c6b2f,Australia,216.17,False
+39de4b,France,219.5,False
+39de4a,France,130.82,False
+408124,United Kingdom,233.69,False
+39de4d,France,210.5,False
+7c6b2b,Australia,136.02,False
+88044d,Thailand,229.4,False
+801641,India,236.35,False
+abd9d9,United States,235.45,False
+39de58,France,206.48,False
+801640,India,230.23,False
+440da5,Austria,218.73,False
+880453,Thailand,232.01,False
+39de51,France,219.92,False
+39de53,France,145.15,False
+7c35f0,Australia,34.61,False
+39de55,France,282.25,False
+39de54,France,213.38,False
+4b1803,Switzerland,232.12,False
+4b1805,Switzerland,198.63,False
+4b1806,Switzerland,0.0,True
+80163c,India,226.11,False
+4b1800,Switzerland,58.12,False
+4b1802,Switzerland,232.74,False
+7c6b31,Australia,233.46,False
+7c6b30,Australia,223.27,False
+c822c6,New Zealand,120.63,False
+aa8c0e,United States,34.99,False
+4952ca,Portugal,217.36,False
+7c6b39,Australia,200.37,False
+4952cc,Portugal,233.48,False
+7c6b38,Australia,156.02,False
+880441,Thailand,107.01,False
+80163f,India,214.48,False
+aa69f9,United States,193.85,False
+7c6b19,Australia,144.17,False
+801616,India,232.26,False
+aaa6e4,United States,279.68,False
+801623,India,75.11,False
+801621,India,226.02,False
+4952d1,Portugal,1.29,True
+801622,India,225.85,False
+851914,Japan,238.4,False
+80160f,India,245.12,False
+403dd9,United Kingdom,47.43,False
+4b181a,Switzerland,11.32,True
+4b181c,Switzerland,41.16,True
+80161c,India,239.89,False
+7c2ebe,Australia,0.9,True
+4952c2,Portugal,164.41,False
+4952c3,Portugal,235.56,False
+4952c4,Portugal,7.2,True
+39de46,France,258.97,False
+407a05,United Kingdom,259.6,False
+801631,India,135.2,False
+440db0,Austria,200.18,False
+39de47,France,201.63,False
+801634,India,199.03,False
+39de49,France,227.08,False
+ab63d7,United States,263.23,False
+407a06,United Kingdom,248.6,False
+a77ed1,United States,44.7,False
+7c6b17,Australia,168.18,False
+440db8,Austria,7.2,True
+39de40,France,236.77,False
+39de42,France,186.44,False
+39de41,France,240.36,False
+4b180a,Switzerland,209.19,False
+39de43,France,242.99,False
+80166c,India,73.05,False
+ac2f83,United States,254.6,False
+3c6668,Germany,14.4,True
+8a02d6,Indonesia,184.72,False
+44028c,Austria,186.64,False
+3c6667,Germany,102.95,False
+511188,Estonia,197.47,False
+aad012,United States,278.95,False
+c822ed,New Zealand,125.08,False
+4acb01,Sweden,238.25,False
+48d210,Poland,63.36,False
+4acb02,Sweden,218.73,False
+3c664f,Germany,0.0,True
+4acb04,Sweden,186.6,False
+ac83ad,United States,5.14,False
+51116f,Estonia,64.95,False
+4bc8c7,Turkey,56.19,False
+a7b057,United States,252.92,False
+4bc8c1,Turkey,208.92,False
+80167c,India,114.85,False
+3c6677,Germany,185.78,False
+511171,Estonia,224.71,False
+511172,Estonia,197.65,False
+0a00c4,Algeria,118.17,False
+801699,India,231.34,False
+3c6672,Germany,12.86,True
+4bc8d6,Turkey,187.57,False
+3c6675,Germany,2.06,True
+a58e1e,United States,223.01,False
+80164e,India,237.98,False
+47b217,Norway,219.05,False
+471eff,Hungary,148.86,False
+60111c,Kyrgyzstan,34.96,False
+471efc,Hungary,221.57,False
+801663,India,2.57,True
+40812e,United Kingdom,145.69,False
+801662,India,232.53,False
+801667,India,260.18,False
+ac3688,United States,0.0,True
+801666,India,204.04,False
+40812d,United Kingdom,51.29,False
+44029f,Austria,63.67,False
+511195,Estonia,142.84,False
+abfc71,United States,121.48,False
+80165a,India,181.7,False
+511194,Estonia,232.89,False
+7c6b3c,Australia,0.0,True
+3f76b9,Germany,55.69,False
+801671,India,215.64,False
+3455da,Spain,0.0,True
+a94b50,United States,118.75,False
+4712a9,Hungary,72.59,False
+4acb42,Sweden,141.5,False
+4acb44,Sweden,205.86,False
+e80211,Chile,238.72,False
+e80210,Chile,240.56,False
+3c65a3,Germany,252.63,False
+4b187b,Switzerland,244.32,False
+a9a214,United States,40.46,False
+4b187e,Switzerland,249.11,False
+e80214,Chile,238.65,False
+3c65ae,Germany,104.77,False
+3455d7,Spain,206.0,False
+440248,Austria,256.89,False
+3455d9,Spain,245.61,False
+4b1886,Switzerland,86.95,False
+3c65c3,Germany,1.29,True
+3c65c1,Germany,64.61,False
+ac7159,United States,262.37,False
+a05776,United States,247.71,False
+4b1880,Switzerland,242.46,False
+44023f,Austria,177.72,False
+3c5ee6,Germany,163.1,False
+861f5e,Japan,229.98,False
+3c5ee5,Germany,168.63,False
+4bc8cf,Turkey,179.71,False
+4acb23,Sweden,218.51,False
+3c65d2,Germany,208.73,False
+3c65d1,Germany,254.55,False
+3c65c6,Germany,195.91,False
+3c65c5,Germany,0.0,True
+3c65c4,Germany,224.88,False
+3c65c8,Germany,232.19,False
+a94b2e,United States,112.31,False
+3c5ee3,Germany,60.3,False
+3c5ee1,Germany,187.96,False
+3c5ef8,Germany,195.0,False
+3c65cf,Germany,70.39,False
+80169d,India,261.06,False
+3c65cd,Germany,31.9,True
+3c5ef6,Germany,134.58,False
+80169e,India,205.06,False
+a127bb,United States,237.55,False
+46b82a,Greece,0.0,True
+46b82d,Greece,178.49,False
+3c65e1,Germany,268.23,False
+46b82b,Greece,205.22,False
+3c5eed,Germany,250.71,False
+3c65d7,Germany,246.68,False
+c0226c,Canada,270.42,False
+3c65d5,Germany,110.9,False
+0d11ed,Mexico,244.98,False
+7c237c,Australia,63.96,False
+3c65ca,Germany,252.07,False
+478854,Norway,271.51,False
+440219,Austria,122.4,False
+43ee55,United Kingdom,76.66,False
+46b831,Greece,241.47,False
+46b832,Greece,68.99,False
+46b830,Greece,197.1,False
+44020c,Austria,207.83,False
+46b833,Greece,200.82,False
+44020a,Austria,124.49,False
+440209,Austria,241.11,False
+a101c3,United States,225.93,False
+a6189c,United States,210.24,False
+861f00,Japan,237.11,False
+8851e1,Thailand,226.64,False
+46b821,Greece,169.48,False
+46b825,Greece,1.29,True
+46b822,Greece,237.82,False
+46b828,Greece,189.04,False
+46b826,Greece,224.56,False
+aaf610,United States,86.95,False
+861f1a,Japan,203.91,False
+440237,Austria,228.73,False
+ae0193,United States,228.18,False
+44022b,Austria,14.4,True
+3fb3d7,Germany,66.26,False
+ac2f37,United States,238.81,False
+440224,Austria,218.29,False
+a94b08,United States,251.56,False
+47b0e7,Norway,237.69,False
+aa9f76,United States,245.2,False
+aa931d,United States,131.18,False
+a58de0,United States,252.07,False
+758368,Philippines,198.8,False
+aa441c,United States,3.09,True
+4aca9a,Sweden,260.18,False
+8014a7,India,139.45,False
+7cf9db,Australia,141.49,False
+7cf9e8,Australia,159.66,False
+4a09b2,Romania,197.55,False
+c8244e,New Zealand,43.81,False
+7cf9e1,Australia,125.73,False
+a2cd61,United States,204.52,False
+861e9a,Japan,258.4,False
+c8244c,New Zealand,112.88,False
+7c362d,Australia,65.48,False
+4aca83,Sweden,245.21,False
+4aca86,Sweden,199.6,False
+7cf9d9,Australia,132.24,False
+4aca85,Sweden,237.02,False
+ab5d52,United States,1.54,True
+4aca87,Sweden,247.68,False
+e07585,Argentina,146.33,False
+75832f,Philippines,128.13,False
+8a0486,Indonesia,227.61,False
+ab5d58,United States,214.46,False
+7c7ca2,Australia,53.03,False
+4aca93,Sweden,0.0,True
+4aca92,Sweden,0.0,True
+4aca95,Sweden,239.57,False
+4aca99,Sweden,229.47,False
+4aca98,Sweden,241.3,False
+84d28e,Japan,203.77,False
+34448d,Spain,192.62,False
+4aca8a,Sweden,266.91,False
+4aca8d,Sweden,241.49,False
+75833b,Philippines,237.6,False
+75833a,Philippines,245.89,False
+4aca8e,Sweden,142.22,False
+86d5fa,Japan,189.31,False
+8014e8,India,228.66,False
+8014e9,India,107.01,False
+8014e6,India,225.17,False
+a27197,United States,221.25,False
+86d5c3,Japan,200.49,False
+861e70,Japan,232.37,False
+ac7112,United States,224.41,False
+c81d9d,New Zealand,214.19,False
+861e78,Japan,271.07,False
+e49ef0,Brazil,238.85,False
+e49ef1,Brazil,243.46,False
+7c1c95,Australia,134.72,False
+471f8e,Hungary,8.75,True
+38137a,France,0.0,True
+4400f3,Austria,233.28,False
+758335,Philippines,205.43,False
+344481,Spain,262.88,False
+8014f7,India,223.72,False
+392068,France,44.35,False
+485994,Kingdom of the Netherlands,60.1,False
+485991,Kingdom of the Netherlands,45.38,False
+8014f2,India,91.06,False
+8014f0,India,223.48,False
+4400eb,Austria,208.61,False
+a39d9b,United States,0.0,True
+471f9e,Hungary,158.99,False
+758305,Philippines,205.32,False
+39dce8,France,45.34,False
+758304,Philippines,173.4,False
+8014c0,India,235.4,False
+3838a5,France,59.65,False
+471f81,Hungary,245.23,False
+86d5e0,Japan,192.55,False
+8a0449,Indonesia,224.84,False
+8014bb,India,267.29,False
+471f6f,Hungary,190.7,False
+a3914c,United States,38.52,False
+48597e,Kingdom of the Netherlands,195.06,False
+e48ba7,Brazil,263.96,False
+471f6b,Hungary,8.23,True
+48597d,Kingdom of the Netherlands,214.2,False
+495304,Portugal,266.05,False
+3b7b7d,France,58.57,False
+8a042d,Indonesia,64.83,False
+a4d7e4,United States,236.34,False
+86cee7,Japan,172.45,False
+344459,Spain,237.6,False
+7c499c,Australia,120.66,False
+471f68,Hungary,5.92,True
+471f69,Hungary,232.45,False
+4a2022,Romania,205.12,False
+a0a6c5,United States,0.0,True
+3c6745,Germany,215.16,False
+3c6744,Germany,129.24,False
+471f66,Hungary,237.31,False
+440cff,Austria,261.82,False
+3c6743,Germany,178.07,False
+7c6a8d,Australia,0.0,True
+3c6749,Germany,155.24,False
+408086,United Kingdom,229.44,False
+3c17ce,Germany,0.0,True
+471f62,Hungary,279.94,False
+a9044e,United States,137.05,False
+c87f01,New Zealand,2.57,True
+3c6741,Germany,229.58,False
+344445,Spain,238.57,False
+a043c8,United States,28.96,False
+471f78,Hungary,226.01,False
+3c6759,Germany,195.8,False
+471f71,Hungary,184.32,False
+471f75,Hungary,252.46,False
+3c674a,Germany,11.32,True
+440cf8,Austria,237.68,False
+c2bcc9,Canada,69.78,False
+c0701b,Canada,58.28,False
+3c6753,Germany,211.91,False
+471f5c,Hungary,111.75,False
+3c6752,Germany,64.79,False
+3c6751,Germany,11.83,True
+3c675a,Germany,246.35,False
+408066,United Kingdom,154.07,False
+471f41,Hungary,134.33,False
+3c674e,Germany,70.96,False
+3c674d,Germany,210.84,False
+c87f25,New Zealand,62.49,False
+a59601,United States,264.94,False
+8014fa,India,152.71,False
+40804d,United Kingdom,239.19,False
+3c5431,Germany,161.43,False
+7c6a5e,Australia,1.54,False
+4520aa,Bulgaria,252.99,False
+c81ca7,New Zealand,35.77,False
+408059,United Kingdom,240.85,False
+408053,United Kingdom,132.58,False
+abb2fe,United States,226.21,False
+408051,United Kingdom,191.9,False
+c08372,Canada,152.32,False
+34440a,Spain,214.23,False
+a7b13b,United States,212.25,False
+a189f2,United States,246.04,False
+c87f37,New Zealand,51.66,False
+469c30,Greece,42.82,False
+7809d9,China,105.15,False
+344417,Spain,151.11,False
+ae622d,United States,2.77,False
+4400d6,Austria,254.22,False
+40803f,United Kingdom,128.78,False
+40803c,United Kingdom,210.57,False
+440cbd,Austria,215.87,False
+440cbe,Austria,246.98,False
+440cc1,Austria,189.36,False
+344409,Spain,291.54,False
+801600,India,68.13,False
+0d1202,Mexico,164.19,False
+c87f40,New Zealand,156.18,False
+471f35,Hungary,0.0,True
+440cab,Austria,0.06,True
+440cac,Austria,110.58,False
+a82aa0,United States,176.66,False
+471f38,Hungary,247.39,False
+a163f2,United States,206.29,False
+801603,India,113.92,False
+3c6718,Germany,270.08,False
+471f32,Hungary,202.17,False
+a82aa8,United States,70.93,False
+801608,India,195.97,False
+7c3616,Australia,55.41,False
+7c4947,Australia,74.44,False
+801613,India,223.63,False
+75839f,Philippines,208.39,False
+4951ee,Portugal,271.35,False
+471f02,Hungary,149.12,False
+471f03,Hungary,172.16,False
+471f00,Hungary,223.35,False
+471f06,Hungary,277.03,False
+a7612a,United States,131.77,False
+40809a,United Kingdom,3.13,False
+a22318,United States,276.59,False
+3c670a,Germany,269.66,False
+3c670f,Germany,268.41,False
+488182,Poland,198.69,False
+4008ae,United Kingdom,247.26,False
+4008b3,United Kingdom,204.81,False
+7809fa,China,244.56,False
+4008b1,United Kingdom,184.81,False
+40808b,United Kingdom,253.47,False
+0d121b,Mexico,219.42,False
+0d121d,Mexico,204.85,False
+c81ce4,New Zealand,36.53,False
+7c4922,Australia,118.62,False
+4951cb,Portugal,79.98,False
+aa9440,United States,0.0,True
+3c6589,Germany,159.16,False
+a7d6a8,United States,0.45,True
+447852,Austria,32.87,False
+e48c03,Brazil,222.11,False
+e48c05,Brazil,210.19,False
+a72640,United States,156.04,False
+40822e,United Kingdom,212.21,False
+a83f30,United States,85.89,False
+ac2412,United States,230.04,False
+8a01dd,Indonesia,70.88,False
+3c6583,Germany,214.0,False
+3c6588,Germany,127.88,False
+407b55,United Kingdom,263.94,False
+ac97d0,United States,27.16,False
+80175f,India,233.48,False
+7c23c9,Australia,35.08,False
+3c658d,Germany,61.91,False
+3c658c,Germany,131.43,False
+3c658b,Germany,14.4,True
+3c658e,Germany,236.54,False
+7c7f6b,Australia,144.72,False
+7c6c53,Australia,147.56,False
+02a1a3,Tunisia,227.1,False
+500360,San Marino,0.0,True
+800441,India,200.92,False
+02a1a4,Tunisia,207.0,False
+a5d319,United States,257.96,False
+a05819,United States,80.11,False
+ac97e4,United States,8.75,True
+7c6c56,Australia,219.82,False
+39d314,France,271.25,False
+73925b,Israel,43.01,False
+39d317,France,272.1,False
+408229,United Kingdom,213.78,False
+39d312,France,211.86,False
+c0853f,Canada,0.06,True
+801744,India,9.77,True
+801745,India,98.26,False
+40820f,United Kingdom,239.72,False
+801742,India,86.46,False
+ad574f,United States,235.83,False
+43eed2,United Kingdom,1.03,True
+4690fa,Greece,9.26,True
+c08538,Canada,99.67,False
+399678,France,59.0,False
+47bf9d,Norway,246.76,False
+c821ba,New Zealand,128.17,False
+801752,India,269.09,False
+39d30d,France,238.99,False
+39d30f,France,243.07,False
+8852e3,Thailand,257.6,False
+490689,Portugal,102.17,False
+c81ace,New Zealand,35.65,False
+3c6548,Germany,91.76,False
+e49329,Brazil,240.56,False
+4690e5,Greece,223.52,False
+7cb035,Australia,0.32,True
+3c7878,Germany,214.16,False
+4690e4,Greece,128.34,False
+3c7879,Germany,143.37,False
+4b5da7,Switzerland,7.46,True
+4690e1,Greece,201.44,False
+4b5da5,Switzerland,3.6,True
+407b8b,United Kingdom,256.99,False
+407b8e,United Kingdom,229.45,False
+3c4b31,Germany,244.57,False
+407b8f,United Kingdom,191.45,False
+3e8b02,Germany,193.34,False
+3c4b27,Germany,267.1,False
+408280,United Kingdom,81.29,False
+3c4b28,Germany,280.4,False
+39e68b,France,148.98,False
+3c6544,Germany,190.93,False
+3c6543,Germany,230.37,False
+0d10f0,Mexico,235.99,False
+348049,Spain,202.41,False
+4690f9,Greece,92.32,False
+3430cd,Spain,257.19,False
+3c654d,Germany,25.21,True
+7c6c95,Australia,3.34,True
+7c6c94,Australia,240.31,False
+7c6c92,Australia,224.34,False
+3c6551,Germany,159.81,False
+407b84,United Kingdom,47.72,False
+ad3d4e,United States,196.54,False
+4690ea,Greece,217.88,False
+7c6c99,Australia,209.36,False
+408262,United Kingdom,258.04,False
+39e684,France,162.2,False
+408260,United Kingdom,247.84,False
+800448,India,219.67,False
+7618cc,Pakistan,86.61,False
+a85931,United States,209.94,False
+39e687,France,8.23,True
+3c4b49,Germany,242.85,False
+ab048d,United States,243.75,False
+4b5dc1,Switzerland,13.89,True
+801788,India,182.35,False
+4a2aac,Romania,256.67,False
+aaca75,United States,4.63,True
+407b70,United Kingdom,260.86,False
+c821f8,New Zealand,101.17,False
+c02eb9,Canada,200.67,False
+80177c,India,218.01,False
+80177e,India,106.07,False
+80044d,India,226.5,False
+39e693,France,197.23,False
+408251,United Kingdom,161.04,False
+39e695,France,225.93,False
+3c656f,Germany,253.59,False
+800463,India,302.03,False
+40823c,United Kingdom,253.2,False
+40823d,United Kingdom,273.49,False
+801792,India,234.69,False
+ada5ee,United States,225.61,False
+44a0b9,Belgium,46.21,False
+782078,China,254.41,False
+0a004a,Algeria,217.25,False
+7c7f08,Australia,99.71,False
+8a0301,Indonesia,126.29,False
+3443d3,Spain,198.34,False
+c01040,Canada,116.59,False
+3c64a2,Germany,210.11,False
+a4a095,United States,123.73,False
+a03235,United States,192.86,False
+c0103e,Canada,106.5,False
+4aca06,Sweden,238.29,False
+3c64a6,Germany,208.24,False
+4aca08,Sweden,217.63,False
+4aca07,Sweden,204.7,False
+4aca09,Sweden,240.14,False
+ade252,United States,261.74,False
+a2e806,United States,235.74,False
+0a0049,Algeria,208.32,False
+3c64ae,Germany,113.15,False
+adf578,United States,166.13,False
+4080ea,United Kingdom,101.05,False
+4aca12,Sweden,119.69,False
+4aca15,Sweden,229.96,False
+4aca0b,Sweden,248.61,False
+4aca0d,Sweden,3.6,True
+4080f7,United Kingdom,164.35,False
+4aca0c,Sweden,235.39,False
+4bb4f4,Turkey,229.61,False
+4bb4f0,Turkey,214.89,False
+0a008c,Algeria,188.04,False
+0a008d,Algeria,160.87,False
+4aca65,Sweden,262.69,False
+a70c67,United States,454.93,False
+4aca69,Sweden,197.59,False
+7c7f52,Australia,53.23,False
+7c7f54,Australia,39.57,False
+8016a5,India,214.11,False
+a40e41,United States,14.4,True
+8016a9,India,114.11,False
+a34ee1,United States,59.38,False
+8016b1,India,220.22,False
+4aca73,Sweden,219.78,False
+4aca72,Sweden,224.86,False
+7c49da,Australia,162.3,False
+4aca74,Sweden,254.09,False
+a9b62a,United States,254.35,False
+4bb4ee,Turkey,220.31,False
+a83f63,United States,230.25,False
+76b866,Singapore,232.77,False
+4aca6b,Sweden,67.92,False
+c01c52,Canada,272.78,False
+4aca6a,Sweden,163.7,False
+3dd576,Germany,44.67,False
+8016b7,India,146.15,False
+4aca6c,Sweden,62.84,False
+8016b8,India,146.4,False
+4aca6f,Sweden,0.0,True
+4aca6e,Sweden,103.41,False
+02a1ae,Tunisia,209.82,False
+a1b535,United States,270.67,False
+02a1ab,Tunisia,171.98,False
+a880b0,United States,76.76,False
+846a16,Japan,141.29,False
+471fa9,Hungary,216.49,False
+02a1b4,Tunisia,196.94,False
+7c7f32,Australia,49.39,False
+471fa7,Hungary,183.66,False
+02a1b1,Tunisia,270.01,False
+c083f2,Canada,152.32,False
+70810a,Lao People's Democratic Republic,156.46,False
+8687bc,Japan,161.06,False
+471fad,Hungary,169.63,False
+76b86c,Singapore,248.27,False
+841ab7,Japan,50.55,False
+471fae,Hungary,4.37,True
+4aca50,Sweden,222.04,False
+4aca53,Sweden,5.92,True
+aa44cd,United States,231.29,False
+847114,Japan,205.87,False
+0d118f,Mexico,165.35,False
+8015c5,India,68.75,False
+8015c6,India,208.82,False
+a4bef6,United States,263.66,False
+8015bc,India,146.1,False
+3c64fa,Germany,238.53,False
+4080a4,United Kingdom,246.95,False
+47b1dc,Norway,222.26,False
+8015d3,India,208.92,False
+3b31ff,France,0.0,True
+a45bd7,United States,221.77,False
+8015cb,India,207.13,False
+a64e69,United States,158.96,False
+39d1a8,France,61.5,False
+ab4b34,United States,255.41,False
+47b1e8,Norway,83.21,False
+494144,Portugal,212.49,False
+494143,Portugal,262.86,False
+c04958,Canada,51.35,False
+7c110a,Australia,152.53,False
+7c6aa0,Australia,46.54,False
+a69bcd,United States,221.64,False
+46da6c,Greece,132.13,False
+ad8b16,United States,48.77,False
+c083b2,Canada,152.32,False
+8015a8,India,196.29,False
+8015a5,India,232.55,False
+702c25,Bangladesh,146.32,False
+a9a399,United States,241.01,False
+a9a397,United States,248.26,False
+39e4ac,France,63.53,False
+4a08e9,Romania,230.53,False
+4080f1,United Kingdom,258.18,False
+a057c7,United States,0.06,True
+4080db,United Kingdom,227.64,False
+4080df,United Kingdom,0.64,True
+4080de,United Kingdom,253.78,False
+4b0eb6,Switzerland,116.74,False
+494116,Portugal,177.57,False
+8002cd,India,146.0,False
+769105,Singapore,0.45,True
+769103,Singapore,226.37,False
+769102,Singapore,258.15,False
+4080e3,United Kingdom,226.83,False
+4080e2,United Kingdom,231.04,False
+885308,Thailand,0.0,False
+494118,Portugal,6.17,True
+0d115a,Mexico,0.0,True
+885301,Thailand,235.95,False
+a39289,United States,0.0,True
+4080e0,United Kingdom,114.69,False
+7c0a5d,Australia,17.84,False
+ad8b20,United States,231.15,False
+7c6af9,Australia,134.98,False
+873312,Japan,182.11,False
+75843f,Philippines,115.79,False
+7c6aec,Australia,138.55,False
+75843e,Philippines,231.49,False
+86d6c8,Japan,2.31,True
+782175,China,240.48,False
+781a7a,China,259.13,False
+7c6aef,Australia,130.84,False
+8015e4,India,236.75,False
+4080bf,United Kingdom,265.85,False
+8015e5,India,229.62,False
+34324f,Spain,187.07,False
+3981e3,France,41.87,False
+34324e,Spain,7.72,True
+a83ea0,United States,67.2,False
+aa580e,United States,1.54,True
+3c4acd,Germany,271.16,False
+c81c9e,New Zealand,75.65,False
+a2bb83,United States,239.68,False
+4080c1,United Kingdom,208.15,False
+4080c2,United Kingdom,8.75,True
+4b0ebc,Switzerland,62.97,False
+463aea,Finland,64.09,False
+758436,Philippines,6.43,True
+782189,China,232.47,False
+8015f7,India,198.62,False
+ad9e73,United States,248.47,False
+4080ad,United Kingdom,243.64,False
+7c6ad5,Australia,56.18,False
+8a0311,Indonesia,203.73,False
+88530a,Thailand,270.43,False
+8015ef,India,174.44,False
+4a08ea,Romania,218.65,False
+3c64ef,Germany,260.9,False
+3c64ee,Germany,155.12,False
+4a08ed,Romania,225.89,False
+885313,Thailand,229.06,False
+7c6acd,Australia,47.04,False
+4009c5,United Kingdom,94.83,False
+ad3c78,United States,250.56,False
+4bc854,Turkey,220.75,False
+4009c7,United Kingdom,191.39,False
+4bc852,Turkey,214.03,False
+4009c6,United Kingdom,235.45,False
+4401e9,Austria,259.37,False
+4bc84f,Turkey,210.97,False
+4401e8,Austria,264.64,False
+4bc84c,Turkey,125.0,False
+4b15d7,Switzerland,265.7,False
+4bc84a,Turkey,194.98,False
+4401e4,Austria,213.86,False
+4401d1,Austria,212.39,False
+a33d09,United States,40.95,False
+3c6635,Germany,72.08,False
+702c8a,Bangladesh,54.26,False
+0d111b,Mexico,146.13,False
+a99b83,United States,254.95,False
+7103da,Saudi Arabia,0.0,False
+702066,Bangladesh,12.11,False
+0d112d,Mexico,205.36,False
+3c6648,Germany,226.25,False
+408183,United Kingdom,224.72,False
+4b15ef,Switzerland,205.34,False
+408184,United Kingdom,230.99,False
+c06a7a,Canada,281.8,False
+70204a,Bangladesh,99.4,False
+45ba07,Denmark,103.23,False
+842250,Japan,210.64,False
+3c6643,Germany,257.18,False
+344545,Spain,123.76,False
+3c6658,Germany,213.27,False
+3c6657,Germany,9.26,True
+0d113b,Mexico,235.53,False
+3c6659,Germany,109.01,False
+4401dc,Austria,246.09,False
+0d1151,Mexico,252.12,False
+861ede,Japan,206.19,False
+3d49de,Germany,117.85,False
+40815b,United Kingdom,195.99,False
+40815c,United Kingdom,235.98,False
+841b6a,Japan,140.05,False
+3c6653,Germany,222.27,False
+4401f7,Austria,210.52,False
+c06a80,Canada,227.81,False
+4bc88d,Turkey,197.12,False
+4bc88a,Turkey,213.12,False
+87339a,Japan,190.68,False
+4787b3,Norway,222.81,False
+4bc896,Turkey,188.89,False
+8518ae,Japan,220.43,False
+3946e5,France,225.91,False
+8518d0,Japan,208.88,False
+39d305,France,226.67,False
+39d307,France,173.22,False
+39d308,France,226.15,False
+39d309,France,138.18,False
+a9fe42,United States,102.44,False
+39d300,France,248.44,False
+39d301,France,0.0,False
+e49295,Brazil,238.2,False
+a5d2f9,United States,253.17,False
+7103d6,Saudi Arabia,152.29,False
+4bc883,Turkey,209.48,False
+841b28,Japan,205.99,False
+702c6a,Bangladesh,8.13,False
+ac48d3,United States,133.76,False
+4787a0,Norway,238.33,False
+4bc893,Turkey,239.17,False
+4bb562,Turkey,226.04,False
+8a0394,Indonesia,248.73,False
+73806e,Israel,165.46,False
+73806d,Israel,220.44,False
+73806c,Israel,171.65,False
+3c6469,Germany,11.32,True
+3c6468,Germany,112.06,False
+a36661,United States,229.03,False
+a3c975,United States,169.79,False
+73806f,Israel,198.32,False
+801878,India,6.43,True
+400880,United Kingdom,64.78,False
+7583fa,Philippines,241.28,False
+400879,United Kingdom,203.45,False
+7820a3,China,151.92,False
+3c6467,Germany,9.26,True
+a8690a,United States,93.86,False
+aaed17,United States,0.0,True
+4a91fa,Sweden,188.87,False
+4068f5,United Kingdom,249.77,False
+4068f6,United Kingdom,219.98,False
+440090,Austria,153.74,False
+3c6474,Germany,191.64,False
+3c6473,Germany,66.53,False
+4b5d9b,Switzerland,0.0,True
+4b5d9a,Switzerland,0.0,True
+7c37fe,Australia,28.11,False
+a58c35,United States,209.27,False
+49f00e,Czech Republic,11.83,True
+738061,Israel,172.05,False
+c058d5,Canada,269.25,False
+738060,Israel,234.9,False
+4bb475,Turkey,262.37,False
+738064,Israel,191.8,False
+738063,Israel,203.27,False
+738069,Israel,0.0,False
+738068,Israel,176.63,False
+a3c98d,United States,266.16,False
+0d0e4b,Mexico,236.56,False
+7583e4,Philippines,163.84,False
+3c6484,Germany,228.87,False
+a58c2e,United States,65.85,False
+80184e,India,6.94,True
+3c6482,Germany,169.15,False
+3c6489,Germany,79.24,False
+3c6487,Germany,230.2,False
+50024b,San Marino,215.69,False
+73805a,Israel,213.38,False
+44009e,Austria,266.19,False
+31e0df,Italy,41.16,False
+3c648a,Germany,1.03,True
+80052d,India,184.91,False
+ac340a,United States,234.91,False
+46f0a7,Greece,10.29,True
+39b9e8,France,61.39,False
+3c648d,Germany,190.63,False
+3c648c,Germany,233.22,False
+a449cb,United States,237.64,False
+738072,Israel,281.55,False
+738075,Israel,275.66,False
+738074,Israel,237.36,False
+7820d7,China,413.04,False
+3c6490,Germany,209.17,False
+3c6496,Germany,177.07,False
+3c6498,Germany,224.85,False
+702087,Bangladesh,221.56,False
+3c6424,Germany,176.39,False
+80057c,India,212.84,False
+3c6429,Germany,116.59,False
+86d996,Japan,263.51,False
+a8e132,United States,123.98,False
+c820ae,New Zealand,88.62,False
+3c4a13,Germany,9.26,True
+adb723,United States,260.49,False
+440057,Austria,88.86,False
+7c6178,Australia,3.25,False
+3c4a11,Germany,197.36,False
+4b1615,Switzerland,246.64,False
+3c4a10,Germany,244.26,False
+440065,Austria,223.2,False
+7820e7,China,235.64,False
+00a120,South Africa,87.76,False
+46f0a2,Greece,3.6,True
+71f0bc,Republic of Korea,96.75,False
+a410b3,United States,128.36,False
+46f0a3,Greece,16.46,True
+46f0a0,Greece,8.23,True
+440c96,Austria,171.47,False
+478684,Norway,43.04,False
+7c6d9e,Australia,229.62,False
+7c6d9d,Australia,214.41,False
+3453cc,Spain,260.21,False
+7c6d9c,Australia,223.61,False
+a04e00,United States,237.74,False
+a4cf10,United States,48.58,False
+151dd3,Russian Federation,75.34,False
+87c003,Japan,107.05,False
+738050,Israel,207.32,False
+440047,Austria,109.77,False
+4869ff,Kingdom of the Netherlands,213.71,False
+738054,Israel,143.56,False
+440053,Austria,252.05,False
+43ec6d,United Kingdom,211.34,False
+440052,Austria,75.36,False
+738051,Israel,181.86,False
+3c4a14,Germany,210.17,False
+440051,Austria,246.3,False
+738058,Israel,226.45,False
+738056,Israel,171.72,False
+738055,Israel,196.87,False
+3c6433,Germany,68.04,True
+7c6d8e,Australia,121.16,False
+3c6449,Germany,245.12,False
+3c6448,Germany,191.58,False
+44006c,Austria,217.13,False
+3c6447,Germany,241.01,False
+abfa24,United States,223.72,False
+452060,Bulgaria,42.12,False
+70209a,Bangladesh,229.96,False
+4b161f,Switzerland,205.18,False
+151dfa,Russian Federation,331.76,False
+151dfb,Russian Federation,240.43,False
+a1b0c6,United States,84.76,False
+ad675f,United States,219.86,False
+400896,United Kingdom,128.76,False
+7583a1,Philippines,151.22,False
+3c6441,Germany,0.32,True
+4b161a,Switzerland,31.9,True
+aaa4dc,United States,233.74,False
+3c6443,Germany,232.39,False
+3c6442,Germany,245.02,False
+7c6d7c,Australia,170.66,False
+80189b,India,91.01,False
+3acdff,France,7.46,True
+4b1620,Switzerland,179.59,False
+151df9,Russian Federation,239.72,False
+7c6d7f,Australia,228.69,False
+440075,Austria,0.0,True
+0d0e29,Mexico,148.05,False
+7c6d94,Australia,8.75,True
+800584,India,95.4,False
+a0ec98,United States,201.05,False
+7cc43c,Australia,6.69,False
+70209b,Bangladesh,142.31,False
+00c77d,South Africa,187.26,False
+7c6d99,Australia,75.17,False
+e0b04f,Argentina,233.98,False
+86d8cc,Japan,205.92,False
+a11eb4,United States,232.51,False
+c02023,Canada,261.38,False
+a11eb7,United States,0.0,True
+a0b81d,United States,218.75,False
+8a0663,Indonesia,51.22,False
+c02029,Canada,219.24,False
+c820f4,New Zealand,130.28,False
+a9bf60,United States,250.63,False
+758533,Philippines,103.51,False
+440c58,Austria,199.06,False
+758530,Philippines,131.83,False
+440005,Austria,221.58,False
+874846,Japan,149.46,False
+71f214,Republic of Korea,121.89,False
+80059d,India,139.88,False
+758502,Philippines,120.12,False
+c03372,Canada,87.55,False
+ae1232,United States,263.15,False
+440033,Austria,110.58,False
+a4b065,United States,235.24,False
+440c6f,Austria,196.31,False
+440c83,Austria,240.6,False
+4869c1,Kingdom of the Netherlands,210.8,False
+aa9d6e,United States,296.85,False
+0c4353,Dominican Republic,236.21,False
+a5e391,United States,42.18,False
+aa3ae4,United States,249.41,False
+abc591,United States,275.51,False
+c0202d,Canada,8.23,True
+00acab,South Africa,175.98,False
+c02039,Canada,219.24,False
+a138b8,United States,0.0,True
+44001c,Austria,206.56,False
+478610,Norway,68.25,False
+44001b,Austria,0.0,True
+8960f6,United Arab Emirates,204.14,False
+495170,Portugal,0.0,True
+8960f9,United Arab Emirates,214.49,False
+7c6d39,Australia,216.63,False
+7c6d2f,Australia,0.0,True
+4b1699,Switzerland,6.43,True
+7c6d2b,Australia,0.0,True
+7c6d2a,Australia,0.0,True
+500213,San Marino,217.25,False
+8960ef,United Arab Emirates,226.34,False
+49514c,Portugal,263.92,False
+49514d,Portugal,165.05,False
+acf89f,United States,252.32,False
+49514f,Portugal,0.45,True
+7c6d30,Australia,217.19,False
+47c1f7,Norway,242.66,False
+49514a,Portugal,5.14,True
+8960fa,United Arab Emirates,162.12,False
+7c6d31,Australia,222.47,False
+a4c34c,United States,272.01,False
+495150,Portugal,0.0,True
+495153,Portugal,142.93,False
+a96f11,United States,150.12,False
+a5e339,United States,11.32,True
+a5d007,United States,259.17,False
+84bb06,Japan,221.25,False
+495145,Portugal,238.6,False
+7c6d24,Australia,166.96,False
+a97608,United States,222.34,False
+495148,Portugal,188.62,False
+440c31,Austria,215.28,False
+440c32,Austria,156.06,False
+4b169a,Switzerland,201.61,False
+440c34,Austria,260.83,False
+440c35,Austria,221.61,False
+440c36,Austria,183.89,False
+aa8a07,United States,253.11,False
+440c38,Austria,190.28,False
+ab2728,United States,239.84,False
+a6034a,United States,151.98,False
+344297,Spain,279.16,False
+e4919f,Brazil,229.85,False
+4246b2,United Kingdom,232.31,False
+782234,China,206.11,False
+4246b5,United Kingdom,179.54,False
+4b0289,Switzerland,180.87,False
+5001d4,San Marino,223.62,False
+4246b4,United Kingdom,215.92,False
+4b027f,Switzerland,237.06,False
+a53207,United States,232.52,False
+aae09f,United States,167.19,False
+c81b24,New Zealand,138.48,False
+70472b,Myanmar,138.68,False
+a54535,United States,259.12,False
+782245,China,224.63,False
+aab841,United States,0.0,False
+405636,United Kingdom,221.71,False
+a35ef8,United States,238.65,False
+405631,United Kingdom,215.43,False
+46adfa,Greece,49.84,False
+e4917f,Brazil,228.09,False
+4891b2,Poland,0.0,False
+aa909a,United States,255.08,False
+8016ad,India,197.26,False
+7c6bc5,Australia,0.06,True
+34558f,Spain,242.89,False
+896111,United Arab Emirates,236.1,False
+c8221a,New Zealand,207.82,False
+8016c6,India,109.61,False
+8016c7,India,0.06,True
+8016d2,India,208.2,False
+485779,Kingdom of the Netherlands,113.48,False
+758598,Philippines,127.65,False
+345592,Spain,96.48,False
+8016d4,India,240.12,False
+5001e5,San Marino,0.0,False
+8016be,India,258.77,False
+4b028d,Switzerland,174.62,False
+8016bf,India,211.84,False
+4b028b,Switzerland,263.62,False
+4b028a,Switzerland,96.26,False
+3de6df,Germany,54.87,False
+89610f,United Arab Emirates,0.0,False
+8016d7,India,215.1,False
+4891a6,Poland,0.32,True
+406947,United Kingdom,134.28,False
+a365ae,United States,102.99,False
+4b0294,Switzerland,1.03,True
+4b0293,Switzerland,208.46,False
+4b0291,Switzerland,121.17,False
+345583,Spain,11.32,True
+738bfa,Israel,24.95,False
+471d60,Hungary,255.8,False
+758560,Philippines,4.12,True
+471d61,Hungary,2.06,True
+471d66,Hungary,248.46,False
+471d67,Hungary,167.75,False
+471d64,Hungary,129.91,False
+ac2ba0,United States,142.96,False
+c1ea42,Canada,2.31,True
+84715c,Japan,249.32,False
+3991e3,France,215.81,False
+3991e6,France,239.36,False
+c82268,New Zealand,199.16,False
+ac7b1b,United States,0.0,True
+ad1857,United States,8.23,True
+458d9a,Denmark,134.03,False
+3991e7,France,6.94,True
+75855b,Philippines,267.33,False
+3991e9,France,246.87,False
+471d5a,Hungary,0.06,True
+471d5b,Hungary,129.7,False
+abbe4a,United States,0.0,True
+484411,Kingdom of the Netherlands,263.62,False
+738bf6,Israel,67.08,False
+380a7a,France,0.0,True
+3de6ac,Germany,56.08,False
+a0428a,United States,253.27,False
+4006ee,United Kingdom,242.27,False
+a4cea7,United States,48.19,False
+ad1861,United States,209.14,False
+4246a2,United Kingdom,187.05,False
+40697b,United Kingdom,245.42,False
+75853a,Philippines,0.0,True
+344216,Spain,239.02,False
+344217,Spain,149.06,False
+c1ea31,Canada,9.26,True
+344213,Spain,128.65,False
+c1ea38,Canada,5.4,True
+a12731,United States,245.52,False
+3d108a,Germany,103.63,False
+a12734,United States,246.54,False
+abd6ed,United States,252.47,False
+ae6c1d,United States,128.71,False
+151da9,Russian Federation,208.25,False
+7cb05d,Australia,134.23,False
+aa3b85,United States,270.17,False
+7cb05b,Australia,156.65,False
+7cb065,Australia,6.69,True
+7cb063,Australia,155.3,False
+7cb061,Australia,0.39,True
+a187ba,United States,242.43,False
+89617e,United Arab Emirates,234.81,False
+471d02,Hungary,150.08,False
+3c6523,Germany,232.97,False
+151dc3,Russian Federation,252.13,False
+4a91af,Sweden,232.23,False
+151dc6,Russian Federation,252.46,False
+ada336,United States,0.0,True
+ab60e3,United States,245.14,False
+a842e7,United States,164.78,False
+c0813f,Canada,59.82,False
+151dbe,Russian Federation,244.35,False
+738103,Israel,266.53,False
+3c6522,Germany,251.05,False
+3c7865,Germany,150.65,False
+7c6c9c,Australia,255.38,False
+4b5d57,Switzerland,19.55,True
+7c6c9a,Australia,12.35,True
+3c4b23,Germany,248.44,False
+8a05ac,Indonesia,241.59,False
+89618b,United Arab Emirates,231.6,False
+c031c9,Canada,142.55,False
+86d94a,Japan,287.1,False
+ac337e,United States,12.35,True
+80182a,India,230.3,False
+aa05f6,United States,193.92,False
+7c2530,Australia,53.11,False
+ac2c9c,United States,250.03,False
+7c6ba4,Australia,85.88,False
+a174c8,United States,96.07,False
+896174,United Arab Emirates,274.7,False
+aa421b,United States,95.33,False
+3e4f9b,Germany,59.35,False
+a1277a,United States,239.32,False
+a28dc8,United States,216.91,False
+800521,India,244.37,False
+896182,United Arab Emirates,206.14,False
+896180,United Arab Emirates,215.8,False
+40690d,United Kingdom,201.53,False
+a66576,United States,250.53,False
+40690c,United Kingdom,194.61,False
+801819,India,224.85,False
+a0b7bd,United States,255.85,False
+841c48,Japan,252.46,False
+78220b,China,220.13,False
+aab812,United States,275.68,False
+505d58,Slovakia,218.61,False
+801824,India,230.53,False
+406909,United Kingdom,250.45,False
+84232f,Japan,76.46,False
+781b47,China,216.55,False
+4a91f9,Sweden,219.57,False
+86d90e,Japan,1.54,True
+ad6821,United States,272.65,False
+ab2855,United States,281.68,False
+3e53a8,Germany,215.5,False
+4951d4,Portugal,257.04,False
+4951d8,Portugal,243.05,False
+408000,United Kingdom,159.33,False
+4951d1,Portugal,70.6,False
+4951d2,Portugal,107.09,False
+452198,Bulgaria,241.44,False
+40097f,United Kingdom,233.12,False
+40097c,United Kingdom,199.38,False
+39dd49,France,0.0,True
+c059d2,Canada,263.49,False
+aaee43,United States,240.43,False
+ab285d,United States,41.12,False
+ab0e54,United States,271.44,False
+a12796,United States,85.59,False
+39e405,France,43.22,False
+400981,United Kingdom,203.2,False
+0d0d36,Mexico,0.0,True
+a8e279,United States,248.05,False
+a1277b,United States,245.44,False
+440ca9,Austria,187.25,False
+40095d,United Kingdom,250.29,False
+781afd,China,4.37,True
+abc5b8,United States,280.4,False
+ad18ce,United States,118.16,False
+a34d2f,United States,0.0,True
+478793,Norway,107.5,False
+3c0cb2,Germany,210.63,False
+aadb37,United States,0.0,True
+408041,United Kingdom,215.28,False
+440179,Austria,229.28,False
+aaee71,United States,0.0,True
+7584e4,Philippines,212.19,False
+44015a,Austria,92.6,False
+3e191a,Germany,3.09,True
+ab62d3,United States,62.5,False
+408033,United Kingdom,206.81,False
+440172,Austria,94.76,False
+47878d,Norway,228.7,False
+440171,Austria,272.56,False
+440170,Austria,0.0,True
+478772,Norway,4.12,True
+408026,United Kingdom,239.8,False
+408027,United Kingdom,222.12,False
+392ae6,France,236.44,False
+392ae7,France,186.39,False
+452181,Bulgaria,231.86,False
+39dd57,France,0.0,True
+45caaf,Denmark,133.43,False
+47875a,Norway,136.56,False
+39dd53,France,101.97,False
+392af3,France,186.46,False
+392af1,France,131.19,False
+44017c,Austria,179.56,False
+392af8,France,216.34,False
+45d1c1,Denmark,215.58,False
+408011,United Kingdom,238.55,False
+a22d9f,United States,0.0,False
+4a4eae,Romania,194.45,False
+392aeb,France,177.18,False
+440195,Austria,221.41,False
+00b341,South Africa,152.95,False
+440193,Austria,147.41,False
+392aed,France,1.8,True
+392aee,France,231.82,False
+aa305f,United States,271.21,False
+471dbd,Hungary,205.23,False
+471dbe,Hungary,213.79,False
+151e0b,Russian Federation,215.64,False
+471dbb,Hungary,148.57,False
+471dba,Hungary,225.58,False
+300a87,Italy,210.59,False
+440141,Austria,33.95,True
+75862d,Philippines,47.16,False
+a05646,United States,265.57,False
+440d6f,Austria,193.6,False
+0d12dd,Mexico,3.6,True
+300a7c,Italy,267.58,False
+478747,Norway,68.91,False
+a09cad,United States,141.9,False
+300a7b,Italy,109.77,False
+8018b2,India,154.35,False
+86d9da,Japan,3.09,True
+440128,Austria,144.88,False
+ae2652,United States,176.43,False
+393f0a,France,0.0,False
+393f0c,France,138.01,False
+440d71,Austria,96.66,False
+300a62,Italy,297.08,False
+a82a63,United States,0.0,True
+a05627,United States,265.37,False
+a05626,United States,200.32,False
+a3c9c5,United States,205.73,False
+452138,Bulgaria,245.27,False
+452134,Bulgaria,228.9,False
+471daf,Hungary,0.9,True
+45211e,Bulgaria,280.48,False
+8a0516,Indonesia,244.37,False
+682211,Mongolia,215.04,False
+471db4,Hungary,179.99,False
+471db5,Hungary,264.27,False
+471db8,Hungary,156.13,False
+a33a93,United States,230.3,False
+4bd8c6,Turkey,219.86,False
+452124,Bulgaria,11.83,True
+758628,Philippines,78.74,False
+452122,Bulgaria,161.38,False
+4bb2b2,Turkey,214.67,False
+495292,Portugal,172.57,False
+a6b4ac,United States,64.31,False
+400960,United Kingdom,127.02,False
+4bb2ab,Turkey,126.14,False
+a96411,United States,243.58,False
+7020a6,Bangladesh,7.2,True
+300a3a,Italy,183.97,False
+7020a3,Bangladesh,71.94,False
+440d33,Austria,162.38,False
+ac7088,United States,247.59,False
+4bb2ae,Turkey,216.26,False
+7020ae,Bangladesh,138.04,False
+7c0bb8,Australia,78.8,False
+682276,Mongolia,220.36,False
+3e0687,Germany,42.38,False
+7020b8,Bangladesh,126.56,False
+a31961,United States,287.38,False
+aa9220,United States,1.54,True
+ab6ea5,United States,278.42,False
+440117,Austria,262.25,False
+440115,Austria,185.21,False
+7020bc,Bangladesh,0.0,True
+8018c7,India,5.92,True
+a6a1b4,United States,136.39,False
+a771a8,United States,237.6,False
+ac481d,United States,141.51,False
+a651e1,United States,241.76,False
+a4c492,United States,71.2,False
+846020,Japan,151.3,False
+a126e8,United States,10.29,True
+4bb2a5,Turkey,200.14,False
+4bb2a3,Turkey,212.13,False
+a499a0,United States,210.51,False
+782359,China,158.44,False
+a7cf10,United States,243.37,False
+a41f6c,United States,247.34,False
+a77f2d,United States,149.76,False
+4007ec,United Kingdom,263.05,False
+85e27c,Japan,147.49,False
+e4908e,Brazil,255.26,False
+782367,China,244.43,False
+a1d99b,United States,295.87,False
+a353c8,United States,244.3,False
+8017e5,India,176.23,False
+ab6316,United States,232.37,False
+4baac9,Turkey,245.82,False
+781c93,China,152.97,False
+49521a,Portugal,1.8,True
+4baac8,Turkey,222.67,False
+4baad2,Turkey,250.45,False
+c0473b,Canada,214.99,False
+a603b0,United States,256.78,False
+aa6943,United States,229.11,False
+adc9b6,United States,257.32,False
+a53341,United States,261.63,False
+49520f,Portugal,262.55,False
+8017f2,India,207.34,False
+4892c0,Poland,253.43,False
+4baacd,Turkey,240.02,False
+8017f3,India,215.12,False
+4bb1c3,Turkey,217.81,False
+4baacb,Turkey,192.34,False
+4892c4,Poland,211.93,False
+4baad9,Turkey,255.77,False
+151d94,Russian Federation,225.32,False
+c8210d,New Zealand,67.84,False
+75869f,Philippines,242.4,False
+495211,Portugal,251.32,False
+48455e,Kingdom of the Netherlands,238.59,False
+495214,Portugal,226.62,False
+4baace,Turkey,101.61,False
+4bb1c7,Turkey,226.1,False
+48455f,Kingdom of the Netherlands,250.86,False
+495216,Portugal,1.03,True
+a8e1cc,United States,227.17,False
+c07b8c,Canada,244.12,False
+5000f1,San Marino,213.73,False
+34568c,Spain,246.39,False
+ab00a3,United States,271.21,False
+345699,Spain,184.0,False
+e07246,Argentina,134.88,False
+345691,Spain,116.87,False
+345692,Spain,226.66,False
+896217,United Arab Emirates,0.0,False
+485873,Kingdom of the Netherlands,248.07,False
+485870,Kingdom of the Netherlands,6.17,True
+485871,Kingdom of the Netherlands,147.43,False
+896214,United Arab Emirates,236.3,False
+4091bb,United Kingdom,137.81,False
+aa6914,United States,292.05,False
+84ce9c,Japan,25.85,False
+8a0574,Indonesia,226.48,False
+345687,Spain,142.51,False
+884203,Thailand,146.5,False
+7c005d,Australia,134.19,False
+7380c2,Israel,288.28,False
+7380c1,Israel,157.47,False
+7380c6,Israel,145.87,False
+151d4a,Russian Federation,246.29,False
+ae1f4e,United States,44.5,False
+151d4d,Russian Federation,222.44,False
+7380c3,Israel,253.13,False
+7380c9,Israel,235.89,False
+c81a5a,New Zealand,108.08,False
+c81a5b,New Zealand,131.51,False
+ad1986,United States,209.5,False
+781093,China,214.62,False
+344345,Spain,284.19,False
+ac7023,United States,90.87,False
+a340c0,United States,41.16,False
+8004fa,India,143.91,False
+ae5a21,United States,50.99,False
+c81a91,New Zealand,122.75,False
+ad9ac9,United States,227.01,False
+4ca9c1,Ireland,241.56,False
+4ca9c2,Ireland,162.55,False
+345659,Spain,159.58,False
+4ca9aa,Ireland,117.24,False
+a16ec2,United States,250.18,False
+7c391d,Australia,111.92,False
+846adc,Japan,216.33,False
+a76c79,United States,225.8,False
+7c7fa0,Australia,20.18,False
+484506,Kingdom of the Netherlands,248.41,False
+4ca9d1,Ireland,242.06,False
+4ca9d2,Ireland,225.01,False
+4ca9d3,Ireland,242.53,False
+4ca9d4,Ireland,255.86,False
+4ca9d0,Ireland,192.99,False
+84bac2,Japan,5.92,True
+4785c0,Norway,90.31,False
+8a04ab,Indonesia,188.58,False
+4785c2,Norway,129.73,False
+ab148e,United States,256.44,False
+4785c1,Norway,127.39,False
+ac81d3,United States,248.74,False
+345642,Spain,0.0,True
+4aecc7,Sweden,49.44,False
+c8216e,New Zealand,65.58,False
+7c390b,Australia,91.35,False
+4ca9a9,Ireland,213.7,False
+0a00cc,Algeria,231.24,False
+a9d9f7,United States,118.77,False
+344304,Spain,6.43,True
+344305,Spain,219.96,False
+8a04a4,Indonesia,242.86,False
+8a04a6,Indonesia,67.64,False
+485814,Kingdom of the Netherlands,194.0,False
+781c0d,China,267.03,False
+4b5c36,Switzerland,8.75,True
+a9acb8,United States,87.04,False
+87cd02,Japan,216.84,False
+7c617e,Australia,75.24,False
+840a7c,Japan,92.73,False
+4b5c62,Switzerland,0.64,True
+3dd2d5,Germany,52.89,False
+4b5c66,Switzerland,9.77,True
+e4a3f0,Brazil,135.71,False
+3dd2ca,Germany,41.56,False
+4bb323,Turkey,226.27,False
+7c3981,Australia,107.36,False
+4bb324,Turkey,252.9,False
+c045d1,Canada,148.55,False
+4ca9eb,Ireland,253.55,False
+345613,Spain,76.06,False
+345614,Spain,251.67,False
+345615,Spain,223.52,False
+4ca9ed,Ireland,186.78,False
+7c6cbc,Australia,66.09,False
+4ca9ea,Ireland,260.91,False
+151d9b,Russian Federation,247.75,False
+3dd2c9,Germany,48.97,False
+7c7fe6,Australia,135.54,False
+ae7475,United States,49.48,False
+a34e40,United States,212.48,False
+ab891a,United States,235.24,False
+781001,China,245.56,False
+7c6ca4,Australia,267.09,False
+4aecbf,Sweden,94.78,False
+7c6ca1,Australia,257.28,False
+3f7588,Germany,169.8,False
+a4b0bb,United States,293.66,False
+acf906,United States,7.72,True
+abfa8e,United States,232.13,False
+440bc6,Austria,122.79,False
+7c6ca9,Australia,142.04,False
+4ca9cb,Ireland,8.75,True
+4ca9cc,Ireland,237.68,False
+aaffa2,United States,291.73,False
+7c0c05,Australia,51.44,False
+4aeccc,Sweden,93.86,False
+440bc0,Austria,186.91,False
+4bb321,Turkey,232.69,False
+440bb4,Austria,156.06,False
+78233b,China,136.36,False
+78100a,China,242.73,False
+739527,Israel,26.28,False
+3571d2,Spain,95.1,False
+3451da,Spain,192.4,False
+3571d5,Spain,137.55,False
+3571d4,Spain,89.89,False
+a70f88,United States,256.33,False
+4bab4f,Turkey,117.29,False
+a7032e,United States,5.07,False
+8962ea,United Arab Emirates,262.07,False
+4079f6,United Kingdom,223.12,False
+4079f7,United Kingdom,134.38,False
+a69f88,United States,228.92,False
+a8496e,United States,255.15,False
+4601f5,Finland,102.02,False
+4601f3,Finland,83.67,False
+4601f9,Finland,149.15,False
+4601f7,Finland,104.42,False
+7c6f9b,Australia,28.67,False
+47ba1d,Norway,143.4,False
+4854cb,Kingdom of the Netherlands,230.54,False
+4066b9,United Kingdom,249.85,False
+4854cf,Kingdom of the Netherlands,206.15,False
+4bb266,Turkey,249.47,False
+3451d3,Spain,128.71,False
+3451d5,Spain,182.03,False
+4bb265,Turkey,202.41,False
+4bb263,Turkey,205.14,False
+140ab4,Russian Federation,4.12,False
+3d7b22,Germany,121.4,False
+7c00d2,Australia,57.93,False
+00979b,South Africa,78.37,False
+a68c82,United States,247.49,False
+4079cc,United Kingdom,66.88,False
+47ba0d,Norway,205.85,False
+4867ec,Kingdom of the Netherlands,289.03,False
+4bab2e,Turkey,188.14,False
+845a02,Japan,69.72,False
+020118,Morocco,222.78,False
+4079d2,United Kingdom,221.9,False
+4079d3,United Kingdom,179.48,False
+4841a5,Kingdom of the Netherlands,134.11,False
+4bab47,Turkey,253.16,False
+008487,South Africa,178.43,False
+4bab48,Turkey,247.84,False
+4bab52,Turkey,189.78,False
+abda54,United States,250.6,False
+8962e6,United Arab Emirates,241.63,False
+8962e5,United Arab Emirates,268.9,False
+ae4d2b,United States,1.54,False
+aa7114,United States,39.0,False
+4bb245,Turkey,277.22,False
+847437,Japan,39.85,False
+4854c7,Kingdom of the Netherlands,228.93,False
+a4798f,United States,256.32,False
+a4c96c,United States,254.92,False
+a2be06,United States,215.19,False
+738285,Israel,0.0,True
+738284,Israel,193.33,False
+a6a6b2,United States,48.64,False
+aaba81,United States,206.63,False
+738288,Israel,288.33,False
+4bb293,Turkey,208.45,False
+490d0e,Portugal,246.46,False
+a5d623,United States,3.6,False
+4bb292,Turkey,177.56,False
+490d0f,Portugal,0.0,True
+c038cc,Canada,285.02,False
+a95609,United States,100.57,False
+43ea43,United Kingdom,131.76,False
+4bb28e,Turkey,241.22,False
+4bb28b,Turkey,217.35,False
+39912e,France,185.21,False
+490d09,Portugal,260.0,False
+490d07,Portugal,263.73,False
+c82835,New Zealand,117.47,False
+7585dd,Philippines,11.32,True
+43ea72,United Kingdom,227.55,False
+4bb268,Turkey,194.47,False
+4bb275,Turkey,220.8,False
+4bb276,Turkey,134.06,False
+4bb273,Turkey,238.4,False
+4bb270,Turkey,209.15,False
+c01ee6,Canada,163.64,False
+3df80c,Germany,3.6,False
+4066ce,United Kingdom,256.53,False
+4bb279,Turkey,206.76,False
+3c5b32,Germany,202.86,False
+4bb288,Turkey,148.23,False
+4bb289,Turkey,221.35,False
+4066d0,United Kingdom,235.12,False
+7585f8,Philippines,192.36,False
+a76fe4,United States,5.37,False
+4bb287,Turkey,215.16,False
+4bb285,Turkey,166.74,False
+4bb282,Turkey,256.65,False
+4bb283,Turkey,234.32,False
+758768,Philippines,4.63,True
+758766,Philippines,10.29,True
+a51e24,United States,268.51,False
+84c459,Japan,36.76,False
+896407,United Arab Emirates,181.51,False
+44cdc5,Belgium,254.92,False
+7c39f1,Australia,129.42,False
+020176,Morocco,230.22,False
+758779,Philippines,42.58,False
+aa4932,United States,213.69,False
+702f08,Bangladesh,4.37,False
+702f06,Bangladesh,7.46,False
+702f05,Bangladesh,6.17,False
+467717,Finland,2.31,True
+a5251a,United States,62.13,False
+c038ac,Canada,229.31,False
+7cfa94,Australia,173.37,False
+aa490a,United States,207.42,False
+3c0d0c,Germany,74.85,False
+020140,Morocco,212.76,False
+e49849,Brazil,273.21,False
+84bd31,Japan,32.88,False
+8411a4,Japan,256.71,False
+7822a2,China,94.58,False
+7c5c59,Australia,32.51,False
+70c105,Oman,272.71,False
+70c101,Oman,90.59,False
+c073db,Canada,251.62,False
+a1427f,United States,248.52,False
+75871f,Philippines,33.25,False
+4baac3,Turkey,188.71,False
+4baac2,Turkey,195.02,False
+020124,Morocco,263.23,False
+7c6f77,Australia,146.03,False
+758700,Philippines,60.39,False
+506cab,Slovenia,188.96,False
+7c39fa,Australia,132.66,False
+3de584,Germany,47.56,False
+7c39fc,Australia,131.36,False
+aa8499,United States,224.51,False
+a65800,United States,231.02,False
+8a0841,Indonesia,61.75,False
+34659a,Spain,288.05,False
+a3a8c0,United States,170.44,False
+a37b1c,United States,1.03,True
+7c39f9,Australia,0.0,True
+7c39f5,Australia,151.96,False
+a7037f,United States,0.0,True
+506cb0,Slovenia,105.01,False
+020145,Morocco,274.74,False
+758707,Philippines,244.88,False
+758703,Philippines,135.44,False
+a64578,United States,254.04,False
+345385,Spain,0.0,True
+8005f4,India,235.1,False
+8005f1,India,281.77,False
+781147,China,1.29,True
+a5124c,United States,244.58,False
+345388,Spain,184.35,False
+780a4e,China,219.82,False
+3c1459,Germany,214.17,False
+780a62,China,274.94,False
+485564,Kingdom of the Netherlands,165.94,False
+a955c7,United States,138.52,False
+88436e,Thailand,44.88,False
+88436f,Thailand,36.83,False
+780a66,China,209.88,False
+7c61e1,Australia,54.5,False
+a75238,United States,243.85,False
+e80610,Chile,177.03,False
+acbe34,United States,264.25,False
+7c1471,Australia,214.74,False
+a87e46,United States,53.23,False
+895058,Brunei Darussalam,212.92,False
+34535a,Spain,104.02,False
+7c146f,Australia,201.19,False
+780a6a,China,220.41,False
+ac5b43,United States,225.73,False
+7c146a,Australia,217.44,False
+780a6f,China,43.44,False
+8005d5,India,232.84,False
+346691,Spain,173.31,False
+44ce8d,Belgium,53.05,False
+7c1465,Australia,232.96,False
+46b2b8,Greece,249.56,False
+4c80a5,Cyprus,11.32,True
+ac25eb,United States,63.99,False
+7c1467,Australia,3.34,True
+3dddd3,Germany,58.95,False
+780a7b,China,245.35,False
+e80632,Chile,0.0,True
+780a95,China,0.64,True
+44ce9a,Belgium,41.12,False
+4ca97a,Ireland,239.31,False
+4ca97b,Ireland,284.81,False
+7c6deb,Australia,161.72,False
+32005b,Italy,77.49,False
+c06cdd,Canada,34.16,False
+140b3b,Russian Federation,4.74,False
+780a8d,China,226.41,False
+a2759b,United States,35.82,False
+739602,Israel,90.24,False
+c06cda,Canada,265.18,False
+739604,Israel,128.69,False
+7c6ded,Australia,151.96,False
+320067,Italy,1.15,False
+884341,Thailand,133.78,False
+4bb0f9,Turkey,0.0,True
+4bb0f6,Turkey,278.0,False
+345344,Spain,131.45,False
+89631b,United Arab Emirates,247.27,False
+4bb0f5,Turkey,258.87,False
+4bb0f2,Turkey,229.04,False
+461553,Finland,0.0,True
+40676a,United Kingdom,256.55,False
+4bb0ef,Turkey,235.49,False
+4bb0ec,Turkey,186.54,False
+780a9e,China,155.24,False
+780a9c,China,216.19,False
+486840,Kingdom of the Netherlands,234.15,False
+872f7e,Japan,1.8,True
+02019c,Morocco,166.36,False
+48683f,Kingdom of the Netherlands,212.17,False
+c827a6,New Zealand,82.58,False
+0096c6,South Africa,218.29,False
+c07fb9,Canada,250.12,False
+884364,Thailand,58.27,False
+34530e,Spain,175.42,False
+896304,United Arab Emirates,273.04,False
+896303,United Arab Emirates,240.01,False
+896309,United Arab Emirates,216.87,False
+47c09e,Norway,30.42,False
+75876f,Philippines,245.28,False
+75876b,Philippines,158.84,False
+75876a,Philippines,64.06,False
+346648,Spain,6.43,True
+345318,Spain,233.67,False
+346649,Spain,107.49,False
+345314,Spain,194.75,False
+4bb0e7,Turkey,19.85,False
+3c0d4a,Germany,0.0,True
+406753,United Kingdom,245.81,False
+a4f22e,United States,183.64,False
+758798,Philippines,241.17,False
+406755,United Kingdom,233.87,False
+406754,United Kingdom,252.67,False
+4bb0e2,Turkey,189.21,False
+896318,United Arab Emirates,0.0,False
+486821,Kingdom of the Netherlands,18.55,False
+89630c,United Arab Emirates,241.8,False
+a3828a,United States,228.97,False
+884345,Thailand,88.09,False
+884346,Thailand,123.31,False
+4bb0e9,Turkey,246.93,False
+7c61f8,Australia,16.49,False
+84cefa,Japan,253.41,False
+acb0e7,United States,236.15,False
+86787c,Japan,99.25,False
+70c0cc,Oman,247.64,False
+7c6da0,Australia,2.31,True
+880858,Thailand,185.75,False
+880859,Thailand,200.59,False
+500091,San Marino,149.36,False
+880850,Thailand,139.15,False
+0200ef,Morocco,172.34,False
+7609ee,Pakistan,203.02,False
+a06a5a,United States,0.0,True
+846bfa,Japan,118.45,False
+c06179,Canada,252.49,False
+34660d,Spain,275.21,False
+34660e,Spain,262.53,False
+880844,Thailand,234.65,False
+346614,Spain,65.58,False
+346610,Spain,207.42,False
+4ab822,Sweden,230.26,False
+4ab823,Sweden,221.05,False
+4ab824,Sweden,221.75,False
+4ab825,Sweden,219.96,False
+a417af,United States,264.83,False
+a06a46,United States,114.92,False
+a75da8,United States,0.0,True
+7609f2,Pakistan,230.85,False
+3c0ca3,Germany,199.42,False
+3c0ca7,Germany,241.85,False
+aaf8c6,United States,97.62,False
+3c0ca6,Germany,3.34,True
+7c6de2,Australia,149.34,False
+89639f,United Arab Emirates,235.2,False
+780a0c,China,241.48,False
+4ca8e8,Ireland,130.4,False
+4bb208,Turkey,234.13,False
+a31a57,United States,281.91,False
+4bb209,Turkey,163.6,False
+4bb206,Turkey,188.74,False
+7c6de8,Australia,0.0,True
+4bb207,Turkey,223.7,False
+4bb205,Turkey,299.44,False
+4bb202,Turkey,231.56,False
+7586a0,Philippines,225.21,False
+7c1447,Australia,40.7,False
+4bab27,Turkey,214.63,False
+80073e,India,268.08,False
+7c6dde,Australia,235.59,False
+7c6ddc,Australia,209.75,False
+8a07e8,Indonesia,94.76,False
+4bb20a,Turkey,276.69,False
+7609ad,Pakistan,236.54,False
+780a1d,China,241.18,False
+4bb219,Turkey,237.57,False
+7c6dd8,Australia,14.4,True
+7c74ad,Australia,154.6,False
+4bb215,Turkey,211.1,False
+4ca8df,Ireland,248.79,False
+4ca8db,Ireland,248.14,False
+4bb20f,Turkey,152.8,False
+4bb20e,Turkey,211.52,False
+4bb20b,Turkey,180.53,False
+4bb20c,Turkey,203.09,False
+a6329d,United States,47.33,True
+a20132,United States,56.94,False
+a31a34,United States,5.4,True
+780a46,China,233.61,False
+895062,Brunei Darussalam,238.7,False
+800732,India,210.18,False
+7c6dc9,Australia,216.61,False
+4853f4,Kingdom of the Netherlands,167.77,False
+a13af4,United States,233.23,False
+7c6dbb,Australia,162.96,False
+3571c2,Spain,115.86,False
+780a3f,China,247.6,False
+4ca8d6,Ireland,228.29,False
+84bbbd,Japan,200.1,False
+478383,Norway,26.64,False
+3571c5,Spain,120.38,False
+4ca8d8,Ireland,213.68,False
+3571c4,Spain,100.44,False
+7c6db7,Australia,213.82,False
+7c6db6,Australia,238.32,False
+4ca8d4,Ireland,225.0,False
+800734,India,95.18,False
+800735,India,243.74,False
+7c6db3,Australia,10.29,True
+a07176,United States,253.94,False
+7c6db1,Australia,232.27,False
+780a57,China,2.06,True
+4ca8bd,Ireland,134.61,False
+780a54,China,187.02,False
+a2012d,United States,58.79,False
+3571c9,Spain,94.65,False
+3c7438,Germany,0.19,True
+a44169,United States,5.92,False
+a5aa47,United States,251.3,False
+a44166,United States,264.72,False
+c1e641,Canada,6.69,True
+48a5e9,Poland,120.59,False
+8830f4,Thailand,181.22,False
+4842e4,Kingdom of the Netherlands,5.92,True
+3c0ac5,Germany,0.0,True
+a511f6,United States,250.18,False
+4baa54,Turkey,214.37,False
+3c0ac7,Germany,229.85,False
+845b15,Japan,80.0,False
+8830e9,Thailand,200.16,False
+3c743a,Germany,212.63,False
+4bb144,Turkey,233.57,False
+a31a96,United States,224.8,False
+4baa59,Turkey,188.43,False
+3d44b0,Germany,50.87,False
+00967a,South Africa,68.49,False
+00834d,South Africa,147.58,False
+aa7e7c,United States,225.13,False
+7c4a4f,Australia,184.16,False
+a31a76,United States,286.09,False
+3c0aca,Germany,253.82,False
+7c4a4c,Australia,79.55,False
+4bb104,Turkey,258.78,False
+7cfaaf,Australia,0.0,True
+7cfaac,Australia,33.82,False
+7cfaab,Australia,63.07,False
+7810f6,China,250.88,False
+a0719b,United States,228.55,False
+ab8b7f,United States,218.63,False
+acc5e7,United States,30.97,False
+4bb10b,Turkey,255.89,False
+a7178c,United States,248.06,False
+7cad4a,Australia,215.16,False
+7c01bc,Australia,0.0,True
+7c7799,Australia,10.29,True
+7c7798,Australia,92.35,False
+8678c0,Japan,79.31,False
+4602ef,Finland,95.24,False
+3c0acc,Germany,186.95,False
+3835da,France,0.0,True
+3c0acb,Germany,201.65,False
+424757,United Kingdom,234.63,False
+7c4a54,Australia,230.3,False
+4baa88,Turkey,163.6,False
+a2d92a,United States,251.79,False
+47bb0a,Norway,235.17,False
+a3d1b1,United States,136.33,False
+484ee4,Kingdom of the Netherlands,8.75,True
+3452c8,Spain,182.12,False
+4baa7a,Turkey,232.67,False
+4855d2,Kingdom of the Netherlands,159.43,False
+4855d0,Kingdom of the Netherlands,132.95,False
+8963d7,United Arab Emirates,229.18,False
+8963d6,United Arab Emirates,237.57,False
+4855d1,Kingdom of the Netherlands,171.65,False
+39a5e7,France,124.76,False
+c05c0e,Canada,263.42,False
+a7c7a2,United States,254.07,False
+8963e5,United Arab Emirates,266.24,False
+4baa94,Turkey,240.83,False
+4bb187,Turkey,147.54,False
+4bb185,Turkey,248.33,False
+8963dd,United Arab Emirates,209.59,False
+8963dc,United Arab Emirates,215.43,False
+4bb182,Turkey,257.04,False
+a777bf,United States,206.75,False
+4868f7,Kingdom of the Netherlands,141.89,False
+4baa62,Turkey,241.57,False
+a63df3,United States,263.66,False
+7586fc,Philippines,66.11,False
+3465d9,Spain,137.82,False
+3465d8,Spain,90.85,False
+4bb149,Turkey,272.24,False
+4bb155,Turkey,16.98,True
+aa7e2e,United States,239.39,False
+3cd71c,Germany,166.62,False
+c82726,New Zealand,145.48,False
+4baa76,Turkey,252.72,False
+4067ee,United Kingdom,242.8,False
+3c7426,Germany,237.75,False
+3c6d43,Germany,198.54,False
+400771,United Kingdom,258.83,False
+3465c9,Spain,239.04,False
+4868bc,Kingdom of the Netherlands,0.0,True
+4bb159,Turkey,271.71,False
+4baa6f,Turkey,229.48,False
+467895,Finland,0.0,True
+4067f3,United Kingdom,254.0,False
+8a05ef,Indonesia,234.1,False
+4067f5,United Kingdom,86.67,False
+440b90,Austria,3.86,True
+3c7422,Germany,268.66,False
+4067f0,United Kingdom,219.15,False
+8007b2,India,233.19,False
+440b49,Austria,208.05,False
+8007b0,India,182.03,False
+ab9e12,United States,244.73,False
+896523,United Arab Emirates,260.83,False
+4bb19a,Turkey,272.46,False
+4ac9e2,Sweden,230.61,False
+4ac9e3,Sweden,223.88,False
+4ac9e4,Sweden,211.5,False
+4ac9e5,Sweden,234.84,False
+adcc99,United States,137.67,False
+a2d95e,United States,151.14,False
+add376,United States,5.66,True
+3c618b,Germany,253.16,False
+4b3944,Switzerland,131.28,False
+4ac9f0,Sweden,75.88,False
+a346d0,United States,40.93,False
+896538,United Arab Emirates,178.09,False
+a3962d,United States,0.0,True
+4ac9f2,Sweden,142.78,False
+4ac9f3,Sweden,136.8,False
+4ac9f4,Sweden,223.47,False
+4ac9f5,Sweden,172.27,False
+4ac9f8,Sweden,193.92,False
+4ac9f9,Sweden,258.61,False
+4868b9,Kingdom of the Netherlands,131.07,False
+4868a6,Kingdom of the Netherlands,204.59,False
+4ac9c4,Sweden,258.19,False
+4ac9c5,Sweden,239.89,False
+4ac9c6,Sweden,207.14,False
+845b9c,Japan,237.28,False
+4bb195,Turkey,226.57,False
+ab68e5,United States,63.79,False
+4bb192,Turkey,261.26,False
+ab084e,United States,30.98,False
+47c0fd,Norway,234.13,False
+4bb18d,Turkey,227.9,False
+4bb18b,Turkey,241.28,False
+a63f4e,United States,109.7,False
+02005a,Morocco,154.19,False
+7c01b5,Australia,155.77,False
+7cfaa4,Australia,33.36,False
+4067a4,United Kingdom,204.17,False
+7cad45,Australia,0.0,False
+abf515,United States,26.03,False
+a871d4,United States,128.94,False
+46f06f,Greece,14.92,True
+a3f91e,United States,61.74,False
+7c5d78,Australia,160.33,False
+7c4a48,Australia,233.57,False
+46f06b,Greece,8.75,True
+7c01c0,Australia,146.11,False
+7c4a43,Australia,232.3,False
+46f067,Greece,15.43,True
+a1ecfd,United States,0.0,True
+4ca95e,Ireland,140.99,False
+47c0d9,Norway,170.05,False
+4ac9eb,Sweden,231.65,False
+4ac9ec,Sweden,220.89,False
+4ac9ed,Sweden,229.34,False
+4ac9ee,Sweden,179.45,False
+4ac9ef,Sweden,236.09,False
+45d069,Denmark,221.22,False
+4ca92d,Ireland,209.12,False
+7c4a0f,Australia,116.46,False
+86eb14,Japan,263.45,False
+34538e,Spain,93.43,False
+4ca935,Ireland,243.33,False
+45d065,Denmark,260.44,False
+45d068,Denmark,232.14,False
+7c4a25,Australia,49.56,False
+48436e,Kingdom of the Netherlands,265.69,False
+501e45,Croatia,109.93,False
+4ac9fa,Sweden,241.34,False
+a9a750,United States,267.58,False
+345398,Spain,229.45,False
+45d06e,Denmark,176.28,False
+8007ce,India,201.12,False
+abe212,United States,267.42,False
+758827,Philippines,10.29,True
+ac6f88,United States,175.61,False
+3d09fc,Germany,88.22,False
+896489,United Arab Emirates,268.9,False
+aba64a,United States,47.74,False
+3e0fe5,Germany,48.88,False
+4ca892,Ireland,213.04,False
+a0850e,United States,57.53,False
+45d04d,Denmark,192.04,False
+77058d,Sri Lanka,0.0,False
+4d02c3,Luxembourg,164.39,False
+344158,Spain,221.88,False
+770590,Sri Lanka,232.25,False
+770592,Sri Lanka,245.67,False
+4ca84b,Ireland,156.95,False
+78127c,China,215.24,False
+484f6c,Kingdom of the Netherlands,161.91,False
+4ca84d,Ireland,227.64,False
+4ca84e,Ireland,0.0,True
+872fa0,Japan,251.05,False
+484f6d,Kingdom of the Netherlands,77.36,False
+ac6364,United States,5.66,True
+ab436f,United States,289.63,False
+896477,United Arab Emirates,6.69,True
+4ca854,Ireland,251.53,False
+a44cfd,United States,2.83,True
+a1e0ed,United States,46.79,False
+4ca852,Ireland,0.0,True
+484f73,Kingdom of the Netherlands,60.09,False
+a7668a,United States,576.31,False
+896480,United Arab Emirates,258.89,False
+a89953,United States,96.68,False
+a46828,United States,229.24,False
+a4ec3a,United States,63.67,False
+40688c,United Kingdom,186.61,False
+896453,United Arab Emirates,257.59,False
+40688a,United Kingdom,175.77,False
+a19203,United States,258.03,False
+896458,United Arab Emirates,235.38,False
+896456,United Arab Emirates,228.99,False
+406890,United Kingdom,270.49,False
+896461,United Arab Emirates,251.39,False
+02007a,Morocco,4.12,False
+896465,United Arab Emirates,239.23,False
+89644f,United Arab Emirates,233.26,False
+a06b0b,United States,217.68,False
+87cde5,Japan,57.85,False
+c00d51,Canada,195.95,False
+4d02d7,Luxembourg,0.0,True
+4ca893,Ireland,65.13,False
+7c0280,Australia,49.93,False
+a573ec,United States,119.02,False
+4d02df,Luxembourg,185.02,False
+aa8fd5,United States,84.56,False
+a3e69d,United States,120.84,False
+4005bf,United Kingdom,280.45,False
+4005be,United Kingdom,274.7,False
+4005ba,United Kingdom,265.65,False
+7587fa,Philippines,209.08,False
+75010b,Malaysia,225.9,False
+424691,United Kingdom,170.54,False
+781e1e,China,102.01,False
+738485,Israel,0.0,False
+0d09ec,Mexico,233.63,False
+4b37b7,Switzerland,141.63,False
+781e2a,China,238.25,False
+8963a1,United Arab Emirates,264.74,False
+a18b71,United States,256.86,False
+484f18,Kingdom of the Netherlands,184.54,False
+4676d8,Finland,10.29,True
+4bbd01,Turkey,188.52,False
+c1e589,Canada,9.77,True
+780b22,China,241.17,False
+781e52,China,176.24,False
+484f06,Kingdom of the Netherlands,197.63,False
+a58873,United States,186.71,False
+84c3fc,Japan,100.45,False
+8a06cc,Indonesia,56.7,False
+a262a8,United States,146.28,False
+038227,Côte d'Ivoire,241.47,False
+4baa08,Turkey,218.4,False
+406814,United Kingdom,264.73,False
+4baa12,Turkey,117.22,False
+a2027c,United States,61.2,False
+4ca7d8,Ireland,245.71,False
+781231,China,202.95,False
+a20288,United States,65.85,False
+4bb101,Turkey,254.39,False
+c012f2,Canada,160.49,False
+c80cdf,New Zealand,37.78,False
+490d85,Portugal,0.06,True
+781e93,China,219.98,False
+a51ea9,United States,48.43,False
+76d253,Singapore,234.14,False
+0d09d5,Mexico,215.9,False
+76d256,Singapore,176.15,False
+78123c,China,213.06,False
+501dd0,Croatia,0.0,True
+4bbd14,Turkey,207.34,False
+a4b827,United States,264.73,False
+a658a1,United States,3.34,True
+4ca7b9,Ireland,103.56,False
+4ca7b6,Ireland,90.13,False
+4ca7b3,Ireland,196.57,False
+4bbd0d,Turkey,210.44,False
+86796c,Japan,216.05,False
+c0730e,Canada,255.3,False
+a2c1bd,United States,216.08,False
+3965a2,France,216.0,False
+840caf,Japan,230.15,False
+3965a4,France,283.59,False
+3965a8,France,242.35,False
+ac6baf,United States,73.1,False
+5084a6,Ukraine,239.04,False
+c07f3d,Canada,165.08,False
+a94d20,United States,67.49,False
+501d1d,Croatia,227.8,False
+3965b4,France,284.15,False
+7cae97,Australia,0.06,True
+88815c,Viet Nam,226.63,False
+4ac996,Sweden,222.74,False
+a38ad5,United States,253.29,False
+c023c8,Canada,246.95,False
+4ca6c4,Ireland,258.18,False
+c023c5,Canada,77.5,False
+a641b6,United States,0.0,True
+45b86a,Denmark,52.03,False
+4ca6aa,Ireland,248.61,False
+a271e4,United States,41.18,False
+c023bd,Canada,254.33,False
+a641bf,United States,223.15,False
+ab4bf7,United States,242.03,False
+c023aa,Canada,227.05,False
+a33d68,United States,0.06,True
+3475d9,Spain,0.0,True
+478e69,Norway,69.13,False
+3475d8,Spain,222.42,False
+3475d3,Spain,259.71,False
+acced9,United States,236.24,False
+86eaea,Japan,74.29,False
+4064bb,United Kingdom,227.93,False
+88812c,Viet Nam,187.51,False
+e80492,Chile,273.21,False
+4bb050,Turkey,212.25,False
+c02fb8,Canada,250.54,False
+45b870,Denmark,51.25,False
+3c49ce,Germany,195.29,False
+4bb068,Turkey,204.86,False
+3c49d5,Germany,236.09,False
+4bb065,Turkey,262.7,False
+4bb062,Turkey,212.04,False
+4bb063,Turkey,182.78,False
+49d5ef,Czech Republic,182.68,False
+ac72e4,United States,0.0,True
+8964d4,United Arab Emirates,221.77,False
+888168,Viet Nam,225.19,False
+02a198,Tunisia,280.02,False
+3965ae,France,250.3,False
+a05940,United States,7.46,True
+4077d4,United Kingdom,243.28,False
+c02fd5,Canada,16.98,True
+4bb02b,Turkey,233.27,False
+847628,Japan,224.37,False
+478e27,Norway,239.7,False
+a667e8,United States,213.76,False
+8964e8,United Arab Emirates,258.29,False
+e8043b,Chile,239.47,False
+a21cb8,United States,82.77,False
+448ed2,Belgium,41.06,False
+7c15bf,Australia,142.06,False
+00b094,South Africa,211.75,False
+e8044b,Chile,274.83,False
+388261,France,1.54,False
+86ec40,Japan,260.23,False
+a53612,United States,250.78,False
+4ca806,Ireland,153.95,False
+4ca801,Ireland,219.13,False
+89664c,United Arab Emirates,273.68,False
+e80468,Chile,241.04,False
+885973,Thailand,233.17,False
+e8045c,Chile,208.6,False
+a66935,United States,0.0,True
+780aa4,China,3.6,True
+406567,United Kingdom,250.4,False
+780aa0,China,67.38,False
+896624,United Arab Emirates,0.0,False
+496c89,Portugal,2.31,True
+7cae04,Australia,147.34,False
+e80473,Chile,258.87,False
+4bb074,Turkey,248.37,False
+e80472,Chile,105.07,False
+4bb072,Turkey,221.11,False
+4bb070,Turkey,256.02,False
+7cf07b,Australia,4.12,True
+e8046d,Chile,252.86,False
+780ab7,China,234.85,False
+e8046e,Chile,228.36,False
+4bb06e,Turkey,224.55,False
+780ab3,China,0.0,True
+4bb06b,Turkey,229.96,False
+a4c6b3,United States,265.74,False
+4bb06c,Turkey,214.14,False
+896633,United Arab Emirates,219.45,False
+ab1839,United States,270.87,False
+780ab8,China,235.78,False
+40653a,United Kingdom,96.48,False
+780aaa,China,211.13,False
+896642,United Arab Emirates,222.46,False
+a7fa70,United States,0.0,True
+8008c3,India,234.44,False
+484c97,Kingdom of the Netherlands,0.0,True
+8008c7,India,1.29,True
+780ac8,China,279.77,False
+4ca82f,Ireland,7.2,True
+3e0f76,Germany,54.38,False
+a03387,United States,139.42,False
+ad5817,United States,233.52,False
+4ab5d0,Sweden,137.2,False
+a356f6,United States,244.74,False
+706048,Kuwait,239.87,False
+4ab5d5,Sweden,133.71,False
+780abe,China,211.28,False
+4ca836,Ireland,108.61,False
+4ca837,Ireland,229.98,False
+3008e4,Italy,10.35,False
+e80417,Chile,248.24,False
+c80005,New Zealand,52.93,False
+346386,Spain,278.22,False
+896618,United Arab Emirates,276.18,False
+896617,United Arab Emirates,281.93,False
+7c788b,Australia,148.7,False
+896620,United Arab Emirates,235.1,False
+4b1e44,Switzerland,58.25,False
+4b1e45,Switzerland,77.85,False
+7c5e87,Australia,52.57,False
+7c788d,Australia,1.29,True
+4ca80f,Ireland,88.77,False
+018086,Libyan Arab Jamahiriya,195.33,False
+885972,Thailand,194.12,False
+345041,Spain,191.33,False
+4ca80c,Ireland,0.0,True
+345043,Spain,222.64,False
+85df6e,Japan,62.32,False
+a04692,United States,224.83,False
+7c7887,Australia,235.87,False
+34768d,Spain,95.12,False
+4a52e4,Romania,33.2,False
+7811d7,China,237.63,False
+7811d8,China,87.99,False
+4ca813,Ireland,248.5,False
+484c5a,Kingdom of the Netherlands,158.36,False
+7cae42,Australia,96.7,False
+4a52e7,Romania,37.68,False
+8413fa,Japan,142.06,False
+496c2c,Portugal,7.46,True
+885968,Thailand,78.11,False
+40658a,United Kingdom,186.13,False
+885964,Thailand,213.93,False
+347695,Spain,191.88,False
+484c50,Kingdom of the Netherlands,211.81,False
+347690,Spain,189.46,False
+44c063,Belgium,116.77,False
+4780c7,Norway,228.38,False
+845c8d,Japan,192.51,False
+a1fcc5,United States,284.38,False
+501d18,Croatia,110.41,False
+484c54,Kingdom of the Netherlands,0.0,True
+485f83,Kingdom of the Netherlands,179.57,False
+484c53,Kingdom of the Netherlands,161.85,False
+a0469f,United States,86.88,False
+484c59,Kingdom of the Netherlands,222.23,False
+4ca760,Ireland,98.24,False
+4ca74e,Ireland,290.74,False
+4bcde8,Turkey,257.34,False
+4bcde7,Turkey,231.2,False
+496c26,Portugal,4.12,True
+4bcdf6,Turkey,216.26,False
+4b3792,Switzerland,2.31,True
+461f9a,Finland,124.13,False
+4ca759,Ireland,144.48,False
+4bcdf0,Turkey,251.02,False
+846dc8,Japan,222.29,False
+a2c35b,United States,254.74,False
+781392,China,239.5,False
+394c09,France,243.7,False
+4bcded,Turkey,234.82,False
+486648,Kingdom of the Netherlands,254.65,False
+486649,Kingdom of the Netherlands,257.14,False
+4bcdeb,Turkey,241.95,False
+3009bc,Italy,66.26,False
+a3d039,United States,237.23,False
+40780e,United Kingdom,148.78,False
+abfcb6,United States,194.42,False
+4ca75f,Ireland,181.31,False
+40780d,United Kingdom,223.89,False
+461f9b,Finland,244.0,False
+461f9c,Finland,151.93,False
+4bcdf9,Turkey,255.73,False
+461f9d,Finland,103.99,False
+484c1b,Kingdom of the Netherlands,69.26,False
+a77645,United States,245.36,False
+4ca769,Ireland,97.46,False
+4ca765,Ireland,252.77,False
+4ca766,Ireland,193.27,False
+394c14,France,86.09,False
+48663e,Kingdom of the Netherlands,231.9,False
+4ca762,Ireland,194.55,False
+4ca764,Ireland,256.75,False
+461f6d,Finland,110.74,False
+461f6a,Finland,131.47,False
+4ca737,Ireland,184.85,False
+896596,United Arab Emirates,248.94,False
+3809fc,France,28.3,False
+ab4023,United States,31.14,False
+484c24,Kingdom of the Netherlands,195.83,False
+48af0e,Poland,195.2,False
+3c1248,Germany,0.0,True
+4ca73f,Ireland,226.04,False
+ac1cde,United States,118.08,False
+48af0b,Poland,4.12,False
+506c45,Slovenia,213.68,False
+740822,Jordan,280.35,False
+abaf6e,United States,9.77,True
+3cd5ae,Germany,156.99,False
+78007a,China,103.3,False
+48af19,Poland,241.84,False
+4bcde4,Turkey,251.46,False
+48af12,Poland,175.7,False
+3009b2,Italy,164.5,False
+48af11,Poland,225.72,False
+345107,Spain,222.47,False
+3009b6,Italy,247.76,False
+3b4bff,France,6.43,True
+c02436,Canada,140.25,False
+7cacd7,Australia,139.72,False
+3009b5,Italy,232.14,False
+4ca741,Ireland,222.31,False
+4bcdce,Turkey,200.17,False
+600853,Azerbaijan,0.0,True
+406544,United Kingdom,226.57,False
+345102,Spain,191.59,False
+461f4b,Finland,182.8,False
+e494f7,Brazil,225.39,False
+406540,United Kingdom,212.25,False
+7cf073,Australia,0.13,True
+48af08,Poland,242.75,False
+48af05,Poland,223.44,False
+48af06,Poland,68.57,False
+48af03,Poland,225.61,False
+48af01,Poland,78.01,False
+8a09a7,Indonesia,205.96,False
+48af02,Poland,198.74,False
+461f69,Finland,229.72,False
+48af00,Poland,231.47,False
+461f63,Finland,206.18,False
+44cc43,Belgium,94.57,False
+44cc42,Belgium,180.09,False
+44cc41,Belgium,111.51,False
+447c52,Austria,1.29,True
+461f65,Finland,232.51,False
+89655e,United Arab Emirates,216.17,False
+8a09a1,Indonesia,64.2,False
+461f62,Finland,87.07,False
+407862,United Kingdom,255.92,False
+44cc47,Belgium,265.39,False
+447c41,Austria,13.89,True
+600850,Azerbaijan,213.27,False
+39c940,France,245.55,False
+a7bf22,United States,254.12,False
+4ca782,Ireland,0.0,True
+394c0a,France,6.94,True
+abf0c7,United States,238.7,False
+4bcdfa,Turkey,193.31,False
+7c7802,Australia,186.52,False
+4ca76f,Ireland,74.85,False
+7c7800,Australia,211.33,False
+7500c5,Malaysia,152.02,False
+c01d16,Canada,10.8,True
+3d08c5,Germany,53.0,False
+781ead,China,231.77,False
+449682,Belgium,251.1,False
+449681,Belgium,224.19,False
+ab538b,United States,254.6,False
+896559,United Arab Emirates,262.89,False
+0d1078,Mexico,210.51,False
+405e24,United Kingdom,99.5,False
+461f57,Finland,252.19,False
+461f59,Finland,242.5,False
+405e23,United Kingdom,226.7,False
+407838,United Kingdom,256.71,False
+407837,United Kingdom,234.38,False
+4063de,United Kingdom,220.72,False
+8964b0,United Arab Emirates,267.54,False
+7c0f55,Australia,34.78,False
+461f0c,Finland,256.71,False
+461f0d,Finland,226.58,False
+424334,United Kingdom,158.97,False
+a08e80,United States,49.95,False
+ae01d7,United States,236.83,False
+ae6470,United States,92.92,False
+e48273,Brazil,230.13,False
+7c5caf,Australia,132.07,False
+e4827c,Brazil,1.29,True
+a02bf6,United States,70.6,False
+461f39,Finland,216.51,False
+461f30,Finland,239.18,False
+750245,Malaysia,74.19,False
+400f89,United Kingdom,82.37,False
+75020d,Malaysia,211.66,False
+4063c3,United Kingdom,115.97,False
+4851f7,Kingdom of the Netherlands,282.4,False
+780005,China,229.45,False
+4ac925,Sweden,132.7,False
+addadb,United States,244.79,False
+a7a04c,United States,96.18,False
+ae01cc,United States,197.1,False
+4076e4,United Kingdom,235.84,False
+4076e3,United Kingdom,196.06,False
+43bf42,United Kingdom,11.32,False
+750229,Malaysia,85.47,False
+76cc63,Singapore,213.49,False
+76cc69,Singapore,153.48,False
+780c4e,China,171.93,False
+780011,China,209.41,False
+4864ef,Kingdom of the Netherlands,85.93,False
+76cc72,Singapore,262.57,False
+3c1251,Germany,0.0,True
+840d6e,Japan,132.14,False
+780c5d,China,222.73,False
+02a263,Tunisia,210.67,False
+a2bbac,United States,247.21,False
+502fa9,Latvia,24.7,False
+4b7f3f,Switzerland,233.97,False
+76cc6a,Singapore,0.0,True
+7c76ed,Australia,60.98,False
+76cc6c,Singapore,252.47,False
+4851af,Kingdom of the Netherlands,268.54,False
+47947c,Norway,236.16,False
+76cc82,Singapore,12.73,False
+02a262,Tunisia,200.55,False
+750201,Malaysia,245.04,False
+02a260,Tunisia,177.48,False
+781360,China,264.97,False
+a2256b,United States,43.85,False
+abc948,United States,222.72,False
+781368,China,223.88,False
+7cacb1,Australia,1.8,True
+7cacb0,Australia,261.11,False
+a0cb2e,United States,25.06,False
+4851b3,Kingdom of the Netherlands,245.54,False
+abb624,United States,225.61,False
+47945c,Norway,5.14,True
+7c76e0,Australia,85.1,False
+48adad,Poland,215.66,False
+478d83,Norway,145.12,False
+48adac,Poland,0.0,False
+a1a2a2,United States,269.35,False
+8a09f6,Indonesia,232.84,False
+a14bf6,United States,82.14,False
+a8deb4,United States,233.11,False
+4ab567,Sweden,121.55,False
+4ab568,Sweden,99.04,False
+4ab569,Sweden,147.74,False
+4ca5c8,Ireland,257.78,False
+4853d1,Kingdom of the Netherlands,0.0,True
+4078d9,United Kingdom,64.86,False
+4866ed,Kingdom of the Netherlands,268.17,False
+4ca5c7,Ireland,0.0,True
+3c48f0,Germany,1.54,True
+501c0c,Croatia,242.54,False
+c81cf0,New Zealand,46.31,False
+3c48f1,Germany,199.19,False
+4a524b,Romania,205.08,False
+4853d4,Kingdom of the Netherlands,176.56,False
+507cb1,Uzbekistan,240.23,False
+4853d2,Kingdom of the Netherlands,87.49,False
+4853d3,Kingdom of the Netherlands,238.55,False
+4ab572,Sweden,54.08,False
+a51bf5,United States,0.0,False
+4b854d,Turkey,67.82,False
+3c48ea,Germany,0.0,True
+501c13,Croatia,211.93,False
+4a5243,Romania,206.26,False
+4d0226,Luxembourg,276.3,False
+3c48ee,Germany,60.71,False
+4866df,Kingdom of the Netherlands,262.41,False
+e48e55,Brazil,244.93,False
+4866de,Kingdom of the Netherlands,235.39,False
+507ca9,Uzbekistan,210.84,False
+4ab56f,Sweden,96.02,False
+507ca8,Uzbekistan,230.25,False
+a6ee47,United States,248.71,False
+aa8338,United States,81.19,False
+48c9f3,Poland,156.15,False
+ac2668,United States,47.21,False
+4866f5,Kingdom of the Netherlands,71.2,False
+3859dc,France,42.81,False
+501c16,Croatia,224.64,False
+501c44,Croatia,213.56,False
+840df8,Japan,223.17,False
+501c43,Croatia,189.21,False
+501c42,Croatia,194.94,False
+507cbd,Uzbekistan,171.32,False
+a2bbf2,United States,238.54,False
+c011b6,Canada,211.1,False
+501c49,Croatia,226.15,False
+4bbb22,Turkey,225.47,False
+aa8f5c,United States,39.97,False
+501c2d,Croatia,221.09,False
+a95514,United States,259.32,False
+4ab561,Sweden,146.83,False
+4ab562,Sweden,59.77,False
+4ab563,Sweden,102.07,False
+4ab565,Sweden,96.7,False
+501c38,Croatia,146.59,False
+750282,Malaysia,223.4,False
+a4528f,United States,254.29,False
+76cd06,Singapore,86.89,False
+76e723,Singapore,158.6,False
+501c5e,Croatia,136.15,False
+76e724,Singapore,119.0,False
+76e725,Singapore,89.53,False
+4866c1,Kingdom of the Netherlands,250.02,False
+4078fe,United Kingdom,0.0,True
+7c78ab,Australia,232.34,False
+76cd0a,Singapore,257.96,False
+7c78af,Australia,0.0,True
+49d4cf,Czech Republic,203.64,False
+399c66,France,126.24,False
+7c78ae,Australia,63.5,False
+75027d,Malaysia,214.99,False
+501c4a,Croatia,199.02,False
+750288,Malaysia,194.18,False
+43c6f8,United Kingdom,72.29,False
+7c78a9,Australia,201.6,False
+750264,Malaysia,224.48,False
+750263,Malaysia,280.01,False
+a522b1,United States,231.23,False
+48ea4e,Poland,133.38,False
+7c78b2,Australia,177.34,False
+7c78b1,Australia,140.02,False
+750255,Malaysia,254.73,False
+4078f0,United Kingdom,158.32,False
+48ea66,Poland,65.9,False
+4078da,United Kingdom,79.09,False
+a788d3,United States,239.42,False
+acb0b6,United States,277.25,False
+a402ea,United States,43.33,False
+a642a3,United States,281.14,False
+4bd585,Turkey,82.51,False
+48418a,Kingdom of the Netherlands,198.79,False
+48418d,Kingdom of the Netherlands,137.46,False
+7c5324,Australia,243.36,False
+86da38,Japan,267.14,False
+447caa,Austria,0.19,True
+7c16d6,Australia,51.74,False
+600805,Azerbaijan,204.72,False
+780bb7,China,281.26,False
+780bae,China,217.19,False
+84b495,Japan,195.96,False
+478f0e,Norway,154.3,False
+7caf1a,Australia,186.96,False
+7c530c,Australia,118.36,False
+461fa7,Finland,222.35,False
+461fa9,Finland,199.7,False
+461fa2,Finland,244.46,False
+461fa3,Finland,185.41,False
+461fa4,Finland,262.28,False
+49c1f7,Czech Republic,45.1,False
+ab1946,United States,53.29,False
+461fa0,Finland,244.07,False
+7c5302,Australia,0.0,False
+c81e29,New Zealand,124.34,False
+40666b,United Kingdom,252.09,False
+a3ca01,United States,247.98,False
+40799c,United Kingdom,252.79,False
+40666d,United Kingdom,224.69,False
+484186,Kingdom of the Netherlands,190.91,False
+43bfef,United Kingdom,8.75,True
+40666a,United Kingdom,239.63,False
+406674,United Kingdom,8.75,True
+406673,United Kingdom,193.28,False
+48548d,Kingdom of the Netherlands,85.14,False
+c81e2c,New Zealand,7.72,True
+a104c3,United States,0.0,True
+a21dc4,United States,285.44,False
+7caf15,Australia,0.0,True
+43bff9,United Kingdom,6.43,True
+7caf14,Australia,212.74,False
+40665f,United Kingdom,249.81,False
+a0e4b2,United States,126.73,False
+43bfdc,United Kingdom,7.2,False
+461faa,Finland,110.96,False
+43bfdd,United Kingdom,10.8,True
+4d0285,Luxembourg,223.33,False
+a237d2,United States,40.74,False
+7812bd,China,248.27,False
+471a7b,Hungary,146.32,False
+a895eb,United States,5.66,True
+a2b10d,United States,245.18,False
+4bcda9,Turkey,0.0,True
+4bcda6,Turkey,215.8,False
+4bcda5,Turkey,214.37,False
+4bcda4,Turkey,209.06,False
+845d88,Japan,271.48,False
+4bcda2,Turkey,170.93,False
+4bcdb2,Turkey,181.92,False
+471a80,Hungary,150.84,False
+484162,Kingdom of the Netherlands,232.45,False
+4bcdaa,Turkey,209.87,False
+39908b,France,41.11,False
+4bcdb6,Turkey,252.46,False
+acb193,United States,43.12,False
+4bcdb3,Turkey,216.1,False
+84b451,Japan,158.43,False
+4bcdac,Turkey,202.38,False
+346499,Spain,181.66,False
+8a095b,Indonesia,224.41,False
+ac0c24,United States,247.55,False
+484133,Kingdom of the Netherlands,209.9,False
+780bfa,China,3.09,True
+484132,Kingdom of the Netherlands,0.0,True
+7c5344,Australia,3.86,True
+ab197e,United States,138.18,False
+49d600,Czech Republic,56.39,False
+84c790,Japan,235.4,False
+399074,France,52.07,False
+ada922,United States,86.73,False
+49d617,Czech Republic,220.68,False
+4ca707,Ireland,87.31,False
+4ca708,Ireland,144.11,False
+84b473,Japan,61.77,False
+8a0952,Indonesia,232.6,False
+4ca703,Ireland,265.26,False
+857d90,Japan,167.27,False
+3e0228,Germany,0.0,False
+c81e79,New Zealand,112.05,False
+4ca700,Ireland,105.51,False
+4ca701,Ireland,220.06,False
+89670b,United Arab Emirates,70.59,False
+ae0401,United States,30.35,False
+0201a4,Morocco,298.98,False
+c085d5,Canada,7.72,True
+49d623,Czech Republic,158.62,False
+40660c,United Kingdom,221.35,False
+48676d,Kingdom of the Netherlands,58.12,False
+48676b,Kingdom of the Netherlands,33.03,False
+c87efe,New Zealand,0.0,True
+abfdaf,United States,81.69,False
+c87efd,New Zealand,0.0,True
+48676f,Kingdom of the Netherlands,4.89,True
+a74a12,United States,206.56,False
+345250,Spain,202.62,False
+407943,United Kingdom,262.91,False
+40792f,United Kingdom,131.84,False
+3b77ff,France,127.39,False
+40792e,United Kingdom,245.5,False
+4ca63a,Ireland,1.54,True
+a4fd6f,United States,142.53,False
+4794f2,Norway,233.39,False
+4ca644,Ireland,255.59,False
+4ca645,Ireland,214.93,False
+4ca646,Ireland,224.51,False
+4ca640,Ireland,255.59,False
+780191,China,242.72,False
+7c049c,Australia,89.93,False
+345249,Spain,65.34,False
+407930,United Kingdom,197.54,False
+4bcca9,Turkey,205.35,False
+a2b135,United States,242.91,False
+a2b134,United States,249.7,False
+a331e4,United States,45.0,False
+405f12,United Kingdom,154.53,False
+405f13,United Kingdom,258.01,False
+a38d95,United States,72.51,False
+4b1c6c,Switzerland,0.0,False
+405f11,United Kingdom,210.54,False
+8738d3,Japan,37.27,False
+4bccaa,Turkey,247.68,False
+4ca61e,Ireland,77.48,False
+478df2,Norway,227.67,False
+4ca61f,Ireland,178.1,False
+486742,Kingdom of the Netherlands,263.87,False
+0201b5,Morocco,221.61,False
+c00b35,Canada,148.41,False
+4ca61d,Ireland,145.81,False
+486740,Kingdom of the Netherlands,207.99,False
+abfdf8,United States,73.05,False
+8462c4,Japan,222.6,False
+34654b,Spain,224.55,False
+3c71a7,Germany,284.13,False
+49d653,Czech Republic,140.47,False
+4ca623,Ireland,221.35,False
+407913,United Kingdom,260.14,False
+346555,Spain,248.2,False
+4bccad,Turkey,215.87,False
+7501fa,Malaysia,214.97,False
+346551,Spain,50.78,False
+7c29d8,Australia,239.64,False
+acb10a,United States,4.63,True
+89667d,United Arab Emirates,203.73,False
+406669,United Kingdom,234.4,False
+7501fd,Malaysia,163.34,False
+406668,United Kingdom,177.59,False
+7c16a8,Australia,57.29,False
+406660,United Kingdom,254.69,False
+40797a,United Kingdom,270.94,False
+840e10,Japan,231.45,False
+aa3417,United States,297.03,False
+8880c5,Viet Nam,225.91,False
+345218,Spain,275.95,False
+781fc4,China,251.72,False
+781fc3,China,270.66,False
+345212,Spain,198.44,False
+a08321,United States,189.64,False
+4d00d0,Luxembourg,136.33,False
+a033ae,United States,249.17,False
+40796c,United Kingdom,234.8,False
+a5cdb7,United States,62.64,False
+400ff4,United Kingdom,222.26,False
+345206,Spain,121.41,False
+345207,Spain,118.5,False
+407979,United Kingdom,74.59,False
+44cd73,Belgium,50.15,False
+49d677,Czech Republic,,False
+345205,Spain,110.05,False
+4ca660,Ireland,233.27,False
+a059e3,United States,215.0,False
+400fe3,United Kingdom,245.98,False
+400fda,United Kingdom,210.77,False
+8880e2,Viet Nam,226.69,False
+7c0fa8,Australia,42.1,False
+a6eda7,United States,215.59,False
+400fe2,United Kingdom,4.12,True
+400fe0,United Kingdom,1.03,True
+ad945a,United States,202.69,False
+e493c5,Brazil,232.23,False
+a2b176,United States,251.29,False
+780cb6,China,234.28,False
+76ccc9,Singapore,285.27,False
+a5d4af,United States,102.41,False
+e0b390,Argentina,121.72,False
+76cd49,Singapore,166.82,False
+a1ec32,United States,5.82,False
+8832b5,Thailand,75.5,False
+8832b1,Thailand,244.48,False
+7c77f8,Australia,112.43,False
+7c77f7,Australia,9.77,True
+4d00ed,Luxembourg,239.04,False
+748051,Lebanon,206.02,False
+a6319f,United States,220.19,False
+152068,Russian Federation,5.17,False
+a03fff,United States,228.15,False
+8832cb,Thailand,227.27,False
+a7a17b,United States,257.7,False
+748025,Lebanon,220.23,False
+748028,Lebanon,0.0,False
+8832d5,Thailand,137.49,False
+8832d6,Thailand,142.63,False
+4d00d6,Luxembourg,131.97,False
+8832d0,Thailand,236.4,False
+a07c57,United States,71.4,False
+750333,Malaysia,222.31,False
+152079,Russian Federation,225.21,False
+4d00ca,Luxembourg,86.47,False
+76cd76,Singapore,242.28,False
+404ac6,United Kingdom,49.52,False
+a70f11,United States,253.57,False
+a56c24,United States,206.11,False
+4d00f5,Luxembourg,238.79,False
+a22642,United States,124.61,False
+4d00f3,Luxembourg,98.96,False
+a4790e,United States,54.53,False
+a14cd0,United States,45.3,False
+4d00db,Luxembourg,267.75,False
+4d00da,Luxembourg,156.31,False
+a88467,United States,211.64,False
+e4818a,Brazil,254.02,False
+e4818b,Brazil,246.55,False
+7c045e,Australia,136.89,False
+4852f4,Kingdom of the Netherlands,246.5,False
+781462,China,223.58,False
+15200f,Russian Federation,3.6,True
+4bce0e,Turkey,227.2,False
+a82dff,United States,205.07,False
+4852f5,Kingdom of the Netherlands,118.82,False
+a8e76a,United States,32.41,True
+152030,Russian Federation,248.32,False
+c06c4e,Canada,212.43,False
+15201d,Russian Federation,216.85,False
+a8c121,United States,248.44,False
+4bce1a,Turkey,119.35,False
+152024,Russian Federation,4.12,False
+e4949a,Brazil,258.74,False
+780d8f,China,258.53,False
+15202e,Russian Federation,4.37,False
+7c77fd,Australia,27.27,True
+7c77fc,Australia,229.96,False
+4bce09,Turkey,242.23,False
+c010e6,Canada,252.82,False
+4bce08,Turkey,190.46,False
+3cc1c5,Germany,209.58,False
+a32c3e,United States,18.52,True
+8462ee,Japan,120.38,False
+4bce02,Turkey,74.43,False
+4bce01,Turkey,264.46,False
+ab3a0c,United States,168.43,False
+780d9f,China,235.27,False
+4b1bb6,Switzerland,50.66,False
+3b51ff,France,0.0,True
+15203a,Russian Federation,223.44,False
+e48189,Brazil,299.08,False
+aacaa5,United States,259.37,False
+4bce16,Turkey,218.19,False
+780170,China,258.68,False
+7c5dda,Australia,47.98,False
+a8aac8,United States,125.59,False
+39a182,France,109.3,False
+89906b,Taiwan,56.11,False
+46bc38,Greece,145.22,False
+89906d,Taiwan,201.26,False
+aa5b9f,United States,0.0,False
+abd254,United States,237.19,False
+a07fef,United States,61.79,False
+899081,Taiwan,74.77,False
+a7da2a,United States,250.09,False
+4d0106,Luxembourg,9.26,True
+89907d,Taiwan,235.92,False
+4d0107,Luxembourg,252.51,False
+89907e,Taiwan,226.19,False
+89907b,Taiwan,155.45,False
+4ab44d,Sweden,52.07,False
+3b775e,France,189.03,False
+adc2a7,United States,73.05,False
+899094,Taiwan,6.17,True
+84655a,Japan,198.37,False
+89904e,Taiwan,253.51,False
+89904b,Taiwan,245.8,False
+a1d18f,United States,270.08,False
+008c43,South Africa,7.2,True
+869210,Japan,226.62,False
+3b27ff,France,12.35,True
+e4a012,Brazil,171.15,False
+39a178,France,126.55,False
+89905e,Taiwan,220.15,False
+89905d,Taiwan,183.03,False
+872841,Japan,259.2,False
+04016e,Ethiopia,260.49,False
+899077,Taiwan,145.4,False
+899076,Taiwan,210.65,False
+040172,Ethiopia,228.52,False
+899071,Taiwan,131.5,False
+89902f,Taiwan,225.74,False
+4bcd86,Turkey,200.3,False
+4bcd85,Turkey,167.76,False
+781500,China,241.34,False
+89902c,Taiwan,4.12,True
+4075af,United Kingdom,253.99,False
+4bcd81,Turkey,235.5,False
+8940bf,Bahrain,269.55,False
+0d085c,Mexico,276.79,False
+0d085d,Mexico,228.26,False
+c1e956,Canada,1.8,True
+899040,Taiwan,12.56,False
+4d0131,Luxembourg,271.97,False
+040143,Ethiopia,100.05,False
+a1a970,United States,55.49,False
+c07982,Canada,182.69,False
+c016e5,Canada,0.06,True
+4ca4f5,Ireland,145.6,False
+a00c7a,United States,212.1,False
+4ca4f8,Ireland,9.26,True
+c1e973,Canada,5.4,True
+78150a,China,174.87,False
+a874a4,United States,0.0,True
+040159,Ethiopia,237.28,False
+c0797b,Canada,128.0,False
+c1e968,Canada,10.8,True
+845e39,Japan,53.92,False
+c8195c,New Zealand,140.74,False
+4ca4f0,Ireland,4.89,True
+899053,Taiwan,89.0,False
+4d0112,Luxembourg,293.84,False
+4d0111,Luxembourg,229.91,False
+899019,Taiwan,144.81,False
+8940b5,Bahrain,258.85,False
+89901f,Taiwan,170.83,False
+a02681,United States,0.0,True
+49d3d3,Czech Republic,7.72,True
+a5ad90,United States,127.45,False
+899039,Taiwan,12.78,False
+4d010d,Luxembourg,239.27,False
+4d010c,Luxembourg,211.51,False
+899035,Taiwan,106.47,False
+4ab483,Sweden,157.39,False
+899031,Taiwan,275.96,False
+a5031a,United States,246.56,False
+781ff6,China,237.54,False
+7502da,Malaysia,211.16,False
+346191,Spain,52.06,False
+346193,Spain,215.28,False
+507c85,Uzbekistan,193.56,False
+406f7b,United Kingdom,257.91,False
+781ff8,China,219.81,False
+406f87,United Kingdom,177.95,False
+48ad85,Poland,5.56,False
+48ad81,Poland,222.24,False
+424cbf,United Kingdom,213.81,False
+346185,Spain,3.09,True
+346184,Spain,120.87,False
+407667,United Kingdom,222.97,False
+841709,Japan,21.63,False
+346183,Spain,227.63,False
+346182,Spain,117.06,False
+486491,Kingdom of the Netherlands,160.36,False
+a3999e,United States,194.32,False
+406f74,United Kingdom,284.43,False
+400cd8,United Kingdom,4.12,True
+3e2788,Germany,100.34,False
+7c04d2,Australia,143.75,False
+881b6b,Thailand,136.3,False
+49d3fa,Czech Republic,166.68,False
+780ce3,China,209.76,False
+4791dd,Norway,241.89,False
+3cc158,Germany,229.23,False
+407657,United Kingdom,82.08,False
+3c4906,Germany,247.59,False
+a826bb,United States,29.68,False
+008081,South Africa,72.29,False
+486483,Kingdom of the Netherlands,183.15,False
+406319,United Kingdom,225.5,False
+abde34,United States,269.91,False
+4ca4ee,Ireland,245.49,False
+7502ad,Malaysia,87.18,False
+407642,United Kingdom,249.94,False
+7c6746,Australia,44.04,False
+7502d9,Malaysia,245.67,False
+a5fc34,United States,33.14,False
+7c6749,Australia,61.17,False
+48645e,Kingdom of the Netherlands,56.59,False
+43e9d1,United Kingdom,224.44,False
+7c673a,Australia,92.4,False
+84657c,Japan,202.59,False
+ad385f,United States,248.3,False
+485123,Kingdom of the Netherlands,254.55,False
+347481,Spain,211.38,False
+39a0c4,France,41.16,False
+3ccd47,Germany,249.55,False
+a8aaff,United States,194.88,False
+346147,Spain,44.24,True
+7800d0,China,252.16,False
+872863,Japan,246.72,False
+7502b2,Malaysia,226.16,False
+7502b1,Malaysia,230.09,False
+3006b5,Italy,203.28,False
+34745a,Spain,221.58,False
+498421,Czech Republic,209.14,False
+40768c,United Kingdom,232.18,False
+40768d,United Kingdom,217.25,False
+40768a,United Kingdom,227.91,False
+5140e1,Georgia,202.99,False
+40768b,United Kingdom,223.65,False
+0d0804,Mexico,139.29,False
+459a63,Denmark,174.99,False
+34744c,Spain,174.52,False
+34744d,Spain,225.49,False
+4409c0,Austria,221.68,False
+7c678d,Australia,122.64,False
+851bfe,Japan,75.88,False
+347459,Spain,152.28,False
+407687,United Kingdom,0.0,True
+4791ac,Norway,234.36,False
+347454,Spain,209.84,False
+407688,United Kingdom,245.02,False
+48ad0f,Poland,0.64,True
+48ad0d,Poland,199.18,False
+407689,United Kingdom,217.8,False
+872885,Japan,230.46,False
+7c6785,Australia,51.44,True
+34610f,Spain,218.13,False
+702702,Bangladesh,101.94,False
+48ad10,Poland,184.44,False
+a310bb,United States,207.61,False
+a06e11,United States,0.06,True
+400ceb,United Kingdom,233.39,False
+ac52e2,United States,203.47,False
+502daa,Latvia,221.76,False
+502dac,Latvia,88.74,False
+48ad09,Poland,223.49,False
+8463b4,Japan,219.24,False
+48ad08,Poland,202.01,False
+47a743,Norway,2.31,True
+48ad02,Poland,230.75,False
+851c20,Japan,236.89,False
+448134,Belgium,15.95,True
+502db2,Latvia,216.48,False
+c04adc,Canada,214.62,False
+7c52fc,Australia,8.75,True
+ac404f,United States,262.53,False
+448163,Belgium,6.43,True
+c818c9,New Zealand,62.32,False
+3c496a,Germany,250.38,False
+a3e8c2,United States,211.96,False
+a158c9,United States,262.79,False
+346204,Spain,235.22,False
+4684b5,Greece,59.77,False
+851c42,Japan,214.85,False
+50840a,Ukraine,212.74,False
+76cda3,Singapore,146.37,False
+4ab2a5,Sweden,53.62,False
+76cda1,Singapore,148.86,False
+4ab2a7,Sweden,50.39,False
+76cda6,Singapore,234.49,False
+44813d,Belgium,6.69,True
+76cda9,Singapore,239.81,False
+ac538f,United States,253.13,False
+acf0da,United States,185.68,False
+407631,United Kingdom,227.62,False
+76cdb0,Singapore,3.6,True
+34750a,Spain,219.05,False
+ab58b2,United States,269.42,False
+76cdb5,Singapore,176.47,False
+76cdb3,Singapore,189.86,False
+394a02,France,260.69,False
+76cdb7,Singapore,304.56,False
+a0757f,United States,0.0,True
+8881e1,Viet Nam,82.99,False
+347518,Spain,285.11,False
+394a09,France,269.73,False
+780db4,China,223.23,False
+c0174d,Canada,260.34,False
+7c17b8,Australia,82.87,False
+7c17b9,Australia,78.91,False
+c0174f,Canada,268.83,False
+c0041d,Canada,0.0,True
+76cdc3,Singapore,72.02,False
+c0175a,Canada,266.43,False
+4ca565,Ireland,177.35,False
+4ca564,Ireland,219.63,False
+347502,Spain,45.79,False
+347501,Spain,187.34,False
+4ca569,Ireland,184.42,False
+4afb4e,Sweden,10.29,True
+7814b6,China,235.96,False
+c05da4,Canada,261.61,False
+300878,Italy,137.41,False
+400d5b,United Kingdom,86.94,False
+780217,China,224.01,False
+3c70ca,Germany,112.7,False
+780e69,China,222.63,False
+49d590,Czech Republic,116.21,False
+750493,Malaysia,251.1,False
+750495,Malaysia,43.74,False
+750496,Malaysia,52.51,False
+a3c2be,United States,266.26,False
+780220,China,292.44,False
+750492,Malaysia,195.19,False
+8940a0,Bahrain,255.43,False
+8966ed,United Arab Emirates,102.33,False
+8966ef,United Arab Emirates,254.88,False
+5082f0,Ukraine,226.3,False
+ac6622,United States,168.51,False
+a4f5cc,United States,141.02,False
+a0629a,United States,52.18,False
+040235,Ethiopia,230.26,False
+c01725,Canada,257.33,False
+a0c581,United States,133.11,False
+aac3a9,United States,0.0,True
+a43e60,United States,254.54,False
+394a0c,France,250.12,False
+a9d37b,United States,117.82,False
+780231,China,0.0,True
+4ca56d,Ireland,6.94,True
+c0173a,Canada,275.9,False
+a44540,United States,247.38,False
+39b415,France,0.06,True
+8966bc,United Arab Emirates,258.77,False
+4074b2,United Kingdom,189.48,False
+4ca56b,Ireland,200.65,False
+780e85,China,19.72,False
+4074b8,United Kingdom,249.69,False
+4074b6,United Kingdom,196.19,False
+ac16bb,United States,230.38,False
+48c5e8,Poland,150.75,False
+c01755,Canada,184.86,False
+8966d3,United Arab Emirates,0.0,True
+a74ecc,United States,0.0,True
+341391,Spain,228.06,False
+ad36c8,United States,227.44,False
+750470,Malaysia,215.73,False
+8966cf,United Arab Emirates,238.82,False
+8966ce,United Arab Emirates,0.19,True
+45a256,Denmark,45.09,False
+78024f,China,168.87,False
+abefdd,United States,234.58,False
+7c52f8,Australia,164.81,False
+851c64,Japan,0.13,True
+a4f5a0,United States,0.0,True
+3c70b4,Germany,147.71,False
+75043c,Malaysia,209.24,False
+ac6668,United States,73.51,False
+750449,Malaysia,219.41,False
+aca309,United States,0.0,True
+395184,France,95.75,False
+8966c4,United Arab Emirates,274.06,False
+750444,Malaysia,6.43,True
+300812,Italy,47.43,False
+3c70c2,Germany,238.4,False
+3c70c7,Germany,227.67,False
+3473cd,Spain,64.54,False
+06e028,Rwanda,94.35,False
+a9703f,United States,141.14,False
+a98386,United States,240.67,False
+47921c,Norway,158.2,False
+84b3eb,Japan,223.2,False
+8966a9,United Arab Emirates,226.36,False
+479227,Norway,224.98,False
+39b44e,France,239.72,False
+7caed9,Australia,0.0,True
+502d10,Latvia,6.17,True
+3474da,Spain,111.4,False
+4ba9ec,Turkey,106.42,False
+4481dd,Belgium,7.72,True
+4cafc4,Ireland,225.88,False
+4cafc0,Ireland,221.69,False
+4cafc2,Ireland,248.26,False
+48ada8,Poland,58.71,False
+48ada2,Poland,4.12,False
+48ada0,Poland,174.49,False
+48ada1,Poland,148.51,False
+aa5078,United States,215.18,False
+4cafcd,Ireland,249.59,False
+4cafce,Ireland,225.93,False
+4481cc,Belgium,6.94,True
+4cafcf,Ireland,0.0,True
+846680,Japan,80.29,False
+4cafd8,Ireland,204.16,False
+4c0662,Serbia,132.61,False
+a18dd3,United States,255.24,False
+4cafd7,Ireland,120.12,False
+780f16,China,0.0,True
+4481d9,Belgium,1.8,True
+4cafd2,Ireland,225.1,False
+4ab345,Sweden,53.51,False
+4481d8,Belgium,6.94,True
+851cca,Japan,134.41,False
+400f02,United Kingdom,241.44,False
+4ba9cf,Turkey,4.12,False
+44d1a5,Belgium,207.0,False
+4ba9ca,Turkey,247.44,False
+89916d,Taiwan,220.86,False
+c079a1,Canada,264.52,False
+4b8349,Turkey,33.6,False
+44d1b4,Belgium,249.63,False
+4ba9e6,Turkey,236.63,False
+71c010,Republic of Korea,217.66,False
+4ba9e2,Turkey,182.38,False
+aa637b,United States,53.03,False
+4ba9e1,Turkey,235.21,False
+502d23,Latvia,76.48,False
+872968,Japan,204.54,False
+89917e,Taiwan,250.95,False
+502d0d,Latvia,116.82,False
+502d0f,Latvia,195.15,False
+502d0e,Latvia,117.51,False
+71c004,Republic of Korea,73.85,False
+71c006,Republic of Korea,211.44,False
+502d29,Latvia,171.44,False
+4cafb5,Ireland,104.1,False
+4ba9f6,Turkey,213.56,False
+40649f,United Kingdom,215.67,False
+851cec,Japan,118.51,False
+4076cc,United Kingdom,143.28,False
+89914f,Taiwan,134.51,False
+89914a,Taiwan,108.26,False
+a2a41e,United States,109.56,False
+502d3f,Latvia,10.8,True
+406fdb,United Kingdom,252.46,False
+a5c899,United States,214.23,False
+a5c895,United States,0.0,True
+4481a1,Belgium,5.14,True
+502d59,Latvia,62.33,False
+47a7a8,Norway,0.0,True
+502d44,Latvia,240.6,False
+780f3b,China,232.99,False
+04002f,Ethiopia,285.25,False
+8403a4,Japan,168.56,False
+0100dd,Egypt,262.74,False
+44d1a2,Belgium,251.41,False
+406fd8,United Kingdom,202.69,False
+7c67d3,Australia,36.59,False
+502d79,Latvia,178.17,False
+89912b,Taiwan,0.39,True
+89912c,Taiwan,221.02,False
+4076b1,United Kingdom,156.39,False
+4076b0,United Kingdom,177.27,False
+899144,Taiwan,132.65,False
+400f2b,United Kingdom,53.41,False
+899142,Taiwan,84.01,False
+406fc7,United Kingdom,247.94,False
+a06dfd,United States,166.17,False
+49d2b7,Czech Republic,148.56,False
+89913b,Taiwan,128.6,False
+c80548,New Zealand,47.63,False
+89913e,Taiwan,143.25,False
+c004ea,Canada,258.0,False
+4481ab,Belgium,5.4,True
+a3871e,United States,235.89,False
+0c21e0,Panama,248.69,False
+502d5e,Latvia,149.93,False
+0100ff,Egypt,85.82,False
+75049f,Malaysia,139.58,False
+502d5f,Latvia,0.0,True
+502d5a,Latvia,251.29,False
+4481b0,Belgium,1.29,True
+502d5b,Latvia,199.99,False
+4caff7,Ireland,242.25,False
+009e06,South Africa,221.67,False
+3964ec,France,184.75,False
+407798,United Kingdom,210.2,False
+01024d,Egypt,261.94,False
+407796,United Kingdom,221.68,False
+3964ef,France,204.29,False
+8990a4,Taiwan,283.58,False
+3964ee,France,287.55,False
+3007ef,Italy,0.0,True
+484b8f,Kingdom of the Netherlands,215.74,False
+407793,United Kingdom,91.37,False
+407794,United Kingdom,252.94,False
+40777c,United Kingdom,233.78,False
+71c072,Republic of Korea,184.85,False
+71c070,Republic of Korea,209.25,False
+a684b5,United States,194.51,False
+71c075,Republic of Korea,240.65,False
+484b90,Kingdom of the Netherlands,130.87,False
+aad981,United States,251.55,False
+86803d,Japan,137.36,False
+3cc005,Germany,206.97,False
+86803a,Japan,11.83,True
+780df2,China,109.75,False
+7c4224,Australia,69.85,False
+86803e,Japan,239.15,False
+7801b6,China,10.29,True
+71c069,Republic of Korea,79.0,False
+7814e7,China,216.63,False
+40643a,United Kingdom,117.46,False
+7801b7,China,11.83,True
+40643d,United Kingdom,268.41,False
+3951e4,France,127.59,False
+a3d78d,United States,259.07,False
+399a69,France,54.39,False
+010245,Egypt,203.06,False
+8990aa,Taiwan,226.62,False
+71c062,Republic of Korea,228.05,False
+71c060,Republic of Korea,202.14,False
+aad988,United States,276.88,False
+39aded,France,8.23,True
+7801b9,China,7.2,True
+406442,United Kingdom,196.92,False
+01026c,Egypt,224.61,False
+406445,United Kingdom,189.08,False
+406444,United Kingdom,236.44,False
+7801ad,China,190.61,False
+406446,United Kingdom,232.48,False
+a564eb,United States,114.59,False
+346297,Spain,64.84,False
+33ffc0,Italy,229.78,False
+840508,Japan,199.47,False
+010281,Egypt,210.17,False
+010283,Egypt,236.82,False
+40775c,United Kingdom,3.34,True
+3964e4,France,1.03,True
+7801c6,China,5.92,True
+3964e8,France,250.17,False
+71c095,Republic of Korea,97.77,False
+48ae85,Poland,182.79,False
+48ae82,Poland,160.41,False
+01026b,Egypt,394.29,False
+48ae81,Poland,225.08,False
+aaac4a,United States,259.85,False
+01025f,Egypt,211.44,False
+7c4203,Australia,137.25,False
+3964f1,France,219.39,False
+3007f1,Italy,204.44,False
+3ce690,Germany,0.0,False
+3964f4,France,216.16,False
+3964f3,France,260.72,False
+3007f2,Italy,166.01,False
+3951c2,France,257.07,False
+3964f9,France,246.72,False
+40641d,United Kingdom,153.15,False
+3964f8,France,276.88,False
+3964f7,France,223.04,False
+ac9c45,United States,49.6,False
+71c082,Republic of Korea,183.3,False
+4a2836,Romania,41.08,False
+49d2ee,Czech Republic,190.58,False
+4c18c2,Serbia,53.47,False
+7503c4,Malaysia,218.67,False
+ac9c50,United States,135.46,False
+c06709,Canada,207.75,False
+71c030,Republic of Korea,102.92,False
+7503ac,Malaysia,181.26,False
+06a30c,Qatar,251.93,False
+7801dc,China,6.17,True
+33fff0,Italy,158.95,False
+7503d6,Malaysia,156.1,False
+33fff9,Italy,206.98,False
+86dc60,Japan,234.05,False
+01022d,Egypt,0.0,True
+01022f,Egypt,8.76,False
+484b2a,Kingdom of the Netherlands,224.04,False
+359645,Spain,115.49,False
+359646,Spain,132.84,False
+868041,Japan,202.7,False
+4b8ed2,Turkey,11.32,True
+c06724,Canada,233.64,False
+484b30,Kingdom of the Netherlands,3.75,False
+71c046,Republic of Korea,233.97,False
+4792d3,Norway,77.31,False
+868038,Japan,203.28,False
+48520b,Kingdom of the Netherlands,256.1,False
+48520d,Kingdom of the Netherlands,183.36,False
+48520c,Kingdom of the Netherlands,150.88,False
+485207,Kingdom of the Netherlands,212.79,False
+485209,Kingdom of the Netherlands,241.94,False
+346355,Spain,232.92,False
+346350,Spain,261.95,False
+39c801,France,44.92,False
+4b1a23,Switzerland,190.29,False
+a59a9a,United States,12.0,False
+75050a,Malaysia,21.12,False
+75050c,Malaysia,239.57,False
+4792a6,Norway,199.95,False
+8464d2,Japan,237.39,False
+48ae26,Poland,258.01,False
+ac5488,United States,248.77,False
+a266bf,United States,41.83,False
+48ae22,Poland,253.14,False
+48ae23,Poland,229.53,False
+a33952,United States,41.49,False
+479ee7,Norway,8.23,False
+845dee,Japan,206.85,False
+45a2c2,Denmark,79.13,False
+ac3a83,United States,247.98,False
+4b1a2e,Switzerland,278.52,False
+4b1a2f,Switzerland,6.43,True
+851120,Japan,224.68,False
+a67f04,United States,153.07,False
+502cc6,Latvia,201.08,False
+60183d,Turkmenistan,243.51,False
+49d403,Czech Republic,245.06,False
+4b1a2c,Switzerland,187.73,False
+06a2ed,Qatar,237.49,False
+4b1a37,Switzerland,196.01,False
+485e30,Kingdom of the Netherlands,290.82,False
+a92dfc,United States,237.26,False
+a55f31,United States,242.17,False
+4b1a1d,Switzerland,0.0,True
+4b1a1e,Switzerland,166.49,False
+4b1a1a,Switzerland,177.78,False
+4b1a1b,Switzerland,261.11,False
+4b1a24,Switzerland,1.29,True
+4b1a25,Switzerland,272.77,False
+4b1a28,Switzerland,270.1,False
+4b1a29,Switzerland,190.43,False
+347646,Spain,264.54,False
+780ec3,China,193.53,False
+502ccf,Latvia,180.99,False
+507c49,Uzbekistan,213.68,False
+a2a3b6,United States,237.02,False
+4b1a66,Switzerland,271.51,False
+4b1a67,Switzerland,266.62,False
+7c683e,Australia,0.9,True
+3cc04e,Germany,0.0,True
+aa74ff,United States,0.0,True
+780ec7,China,117.17,False
+502ce6,Latvia,237.91,False
+40773b,United Kingdom,241.13,False
+502ce5,Latvia,193.6,False
+502ce7,Latvia,166.12,False
+502ce3,Latvia,69.21,False
+400dae,United Kingdom,219.02,False
+a3396b,United States,235.63,False
+40772f,United Kingdom,215.12,False
+7c6843,Australia,258.28,False
+502cc8,Latvia,0.64,True
+7815af,China,240.27,False
+34761a,Spain,277.66,False
+502cd7,Latvia,68.41,False
+40772d,United Kingdom,255.9,False
+502cd0,Latvia,227.17,False
+40772e,United Kingdom,210.03,False
+407739,United Kingdom,238.1,False
+39ae32,France,233.44,False
+c00558,Canada,49.39,False
+601800,Turkmenistan,61.77,False
+c04bf9,Canada,232.45,False
+a2ec14,United States,132.74,False
+a7f4e9,United States,255.68,False
+478096,Norway,110.61,False
+400db1,United Kingdom,143.73,False
+478094,Norway,94.81,False
+478091,Norway,116.19,False
+a31f51,United States,47.96,False
+405d11,United Kingdom,231.25,False
+461e21,Finland,222.98,False
+a0bf5d,United States,33.68,False
+76ceec,Singapore,276.8,False
+347610,Spain,43.32,False
+461e1d,Finland,7.46,True
+461e1e,Finland,0.0,True
+461e1f,Finland,238.21,False
+507c56,Uzbekistan,217.72,False
+461e1b,Finland,220.24,False
+47808f,Norway,107.17,False
+347609,Spain,239.04,False
+47808b,Norway,0.0,True
+347601,Spain,256.09,False
+502d95,Latvia,151.55,False
+780f6a,China,0.0,True
+4850f5,Kingdom of the Netherlands,250.53,False
+a05087,United States,94.25,False
+899118,Taiwan,236.94,False
+899121,Taiwan,289.11,False
+899120,Taiwan,131.54,False
+c05ec7,Canada,241.48,False
+4075f3,United Kingdom,262.06,False
+502d88,Latvia,161.15,False
+0101d3,Egypt,252.77,False
+c078ba,Canada,270.88,False
+a67f81,United States,246.51,False
+4075df,United Kingdom,3.34,True
+ac17e6,United States,244.3,False
+7c66dc,Australia,2.83,True
+461e17,Finland,1.54,True
+461e18,Finland,222.88,False
+ad1da9,United States,0.06,False
+ac6744,United States,243.98,False
+502d7c,Latvia,66.46,False
+461e14,Finland,4.12,False
+502d7b,Latvia,252.24,False
+899132,Taiwan,2.57,True
+502d7d,Latvia,233.46,False
+461e16,Finland,254.12,False
+899134,Taiwan,246.44,False
+899131,Taiwan,130.51,False
+a120fe,United States,257.11,False
+4075e0,United Kingdom,257.37,False
+478057,Norway,69.63,False
+a2a3d2,United States,226.62,False
+ac4d43,United States,160.93,False
+75056c,Malaysia,222.67,False
+75056d,Malaysia,236.6,False
+ac9aa1,United States,61.5,False
+a06399,United States,191.17,False
+899105,Taiwan,287.89,False
+750593,Malaysia,84.76,False
+e47fa6,Brazil,233.95,False
+44a8a6,Belgium,261.68,False
+400e4a,United Kingdom,252.77,False
+899109,Taiwan,191.13,False
+845f30,Japan,73.95,False
+4075c3,United Kingdom,243.78,False
+e1765a,Argentina,76.35,False
+0c20f5,Panama,230.31,False
+899116,Taiwan,196.6,False
+a67f8a,United States,221.22,False
+7c4cb8,Australia,43.46,False
+7c4cac,Australia,136.1,False
+a2a3af,United States,242.29,False
+750585,Malaysia,233.18,False
+750586,Malaysia,72.2,False
+750561,Malaysia,227.93,False
+ad8766,United States,251.83,False
+ac3a38,United States,148.71,False
+ac9ac3,United States,60.5,False
+8691aa,Japan,247.87,False
+4ba9c8,Turkey,231.3,False
+4ba9c1,Turkey,353.91,False
+750552,Malaysia,210.22,False
+750555,Malaysia,238.28,False
+84048e,Japan,76.71,False
+4ba9d3,Turkey,269.57,False
+aaaae6,United States,294.95,False
+4ba9d4,Turkey,177.95,False
+3461cf,Spain,0.0,True
+3461ce,Spain,225.61,False
+ac9ae9,United States,74.71,False
+4ba9a8,Turkey,226.03,False
+46bc4d,Greece,116.08,False
+46bc4a,Greece,96.05,False
+46bc4e,Greece,6.43,True
+46bc4f,Greece,126.4,False
+7c068b,Australia,73.87,False
+4075ff,United Kingdom,127.69,False
+4075fd,United Kingdom,253.78,False
+4075fe,United Kingdom,236.48,False
+46bc49,Greece,116.8,False
+c078b2,Canada,254.02,False
+3ebe12,Germany,78.35,False
+acb772,United States,30.63,False
+39ae97,France,4.89,True
+7c68b8,Australia,192.99,False
+33fd36,Italy,65.25,False
+8511a8,Japan,161.15,False
+7c68b6,Australia,171.92,False
+7504a6,Malaysia,43.24,False
+7c68ae,Australia,4.63,False
+33fd43,Italy,10.91,False
+e48799,Brazil,234.0,False
+a67b81,United States,237.68,False
+7c68a5,Australia,77.77,False
+7c68a4,Australia,0.26,True
+4b8e45,Turkey,216.06,False
+4caead,Ireland,162.05,False
+781717,China,226.6,False
+ab30e6,United States,270.33,False
+4aab34,Sweden,68.7,False
+84b772,Japan,253.94,False
+a07dc9,United States,272.93,False
+7c68b1,Australia,216.34,False
+4caeb6,Ireland,208.83,False
+4ba8f2,Turkey,3.29,False
+503f13,Lithuania,36.31,False
+4caeb1,Ireland,275.58,False
+4ba8f3,Turkey,5.54,False
+a43b85,United States,252.95,False
+86e40e,Japan,103.02,False
+400aff,United Kingdom,210.06,False
+400afc,United Kingdom,204.81,False
+400afb,United Kingdom,243.29,False
+ae566b,United States,20.83,False
+a44257,United States,253.21,False
+c05d7b,Canada,267.37,False
+c06472,Canada,46.17,False
+406d8e,United Kingdom,243.37,False
+ae5662,United States,32.77,False
+406d92,United Kingdom,208.01,False
+84b77f,Japan,219.56,False
+406d90,United Kingdom,212.25,False
+406d95,United Kingdom,179.75,False
+aa733b,United States,215.94,False
+407fc2,United Kingdom,250.84,False
+a81e38,United States,0.0,True
+407fc1,United Kingdom,1.54,True
+407fc7,United Kingdom,246.39,False
+407faf,United Kingdom,241.36,False
+a1574e,United States,257.86,False
+407fad,United Kingdom,237.11,False
+407fae,United Kingdom,245.78,False
+4caee6,Ireland,234.31,False
+4caee8,Ireland,84.59,False
+4caee4,Ireland,127.42,False
+4caee5,Ireland,260.63,False
+76bd47,Singapore,180.89,False
+76bd49,Singapore,1.03,True
+71ba13,Republic of Korea,145.89,False
+71ba12,Republic of Korea,213.39,False
+71ba11,Republic of Korea,151.12,False
+71ba17,Republic of Korea,138.77,False
+71ba16,Republic of Korea,134.83,False
+a07dcd,United States,248.13,False
+34728c,Spain,245.65,False
+4caee0,Ireland,89.21,False
+71ba05,Republic of Korea,248.95,False
+71ba04,Republic of Korea,6.17,True
+4caeca,Ireland,158.52,False
+4caecb,Ireland,0.0,True
+a01112,United States,257.02,False
+a68e7c,United States,81.09,False
+7c68d4,Australia,209.17,False
+4caed8,Ireland,0.0,True
+4caed3,Ireland,169.11,False
+7815de,China,200.88,False
+347288,Spain,187.66,False
+7c4351,Australia,50.25,False
+347287,Spain,186.13,False
+aa6ba4,United States,1.03,True
+347283,Spain,108.04,False
+3e120c,Germany,68.87,False
+a01164,United States,86.58,False
+8991be,Taiwan,171.29,False
+39bdac,France,223.1,False
+39bdaf,France,10.29,True
+86dd90,Japan,243.89,False
+48b228,Poland,238.74,False
+7815ec,China,211.69,False
+7802bb,China,266.96,False
+8466a0,Japan,244.57,False
+46d2f2,Greece,72.1,False
+406d1a,United Kingdom,256.58,False
+39bda2,France,220.61,False
+8991a7,Taiwan,191.91,False
+4ca2c9,Ireland,251.14,False
+39bda0,France,218.12,False
+a36a10,United States,210.67,False
+4ca2c1,Ireland,266.51,False
+406d27,United Kingdom,234.92,False
+4ca2c0,Ireland,160.79,False
+7c5669,Australia,48.88,False
+4ca2ad,Ireland,204.44,False
+8991a9,Taiwan,207.96,False
+a14452,United States,78.21,False
+8991b5,Taiwan,222.32,False
+39bdb4,France,0.0,True
+347258,Spain,178.03,False
+4ca2cb,Ireland,255.69,False
+39bdb7,France,115.83,False
+39bdb8,France,0.0,True
+8991b3,Taiwan,175.38,False
+39bdb0,France,109.67,False
+a26436,United States,140.78,False
+8991ab,Taiwan,242.13,False
+39bda9,France,76.17,False
+485b43,Kingdom of the Netherlands,265.39,False
+485b44,Kingdom of the Netherlands,285.97,False
+86e496,Japan,87.17,False
+7504fe,Malaysia,243.57,False
+347247,Spain,287.38,False
+aa1e03,United States,193.85,False
+3c8207,Germany,1.8,True
+aa98a4,United States,239.58,False
+405a4a,United Kingdom,229.18,False
+c1e5fd,Canada,14.92,False
+7802ff,China,224.82,False
+a441ac,United States,4.63,True
+ad495b,United States,187.77,False
+407463,United Kingdom,116.91,False
+406133,United Kingdom,252.68,False
+405a49,United Kingdom,169.67,False
+405a48,United Kingdom,222.59,False
+a12a9d,United States,158.48,False
+a24a65,United States,40.67,False
+33fca2,Italy,5.14,True
+7504c1,Malaysia,47.84,False
+c1e5dc,Canada,1.54,True
+7504c4,Malaysia,188.9,False
+ae06d8,United States,139.25,False
+7504aa,Malaysia,134.03,False
+7c436c,Australia,48.23,False
+348547,Spain,211.79,False
+348544,Spain,186.5,False
+406d4c,United Kingdom,270.68,False
+348541,Spain,224.74,False
+ac1675,United States,253.11,False
+a12a7d,United States,9.26,True
+347206,Spain,236.94,False
+7c19c4,Australia,13.89,True
+85120e,Japan,214.19,False
+4caf26,Ireland,59.73,False
+4caf27,Ireland,211.74,False
+7c4f13,Australia,44.83,False
+4caf29,Ireland,237.92,False
+7c4f0a,Australia,63.87,False
+4caf20,Ireland,131.26,False
+4ba94f,Turkey,187.83,False
+347319,Spain,116.86,False
+008df8,South Africa,150.47,False
+c05bd6,Canada,260.92,False
+a88774,United States,232.6,False
+4caf34,Ireland,137.53,False
+4caf35,Ireland,238.1,False
+851230,Japan,247.45,False
+440890,Austria,259.19,False
+008de8,South Africa,75.76,False
+c1e5d1,Canada,7.46,True
+a3c192,United States,0.0,True
+008de4,South Africa,6.43,True
+347306,Spain,231.18,False
+424b86,United Kingdom,0.0,True
+a8bd1b,United States,243.72,False
+7c19a0,Australia,0.06,True
+4c16a9,Serbia,247.99,False
+1506ac,Russian Federation,205.23,False
+a09947,United States,0.06,True
+400b84,United Kingdom,248.0,False
+780fbc,China,240.4,False
+503eaa,Lithuania,250.99,False
+4caf16,Ireland,176.65,False
+adba0a,United States,228.41,False
+4ba949,Turkey,262.79,False
+4caf12,Ireland,186.92,False
+4caf14,Ireland,256.91,False
+a9a7d0,United States,0.0,True
+7cf480,Australia,0.9,True
+a01ca5,United States,91.31,False
+8990e9,Taiwan,142.13,False
+8990e4,Taiwan,235.25,False
+a5277d,United States,297.09,False
+8990e0,Taiwan,228.76,False
+348603,Spain,93.15,False
+4d23bb,Malta,206.77,False
+a44f0d,United States,0.0,True
+7c561d,Australia,180.06,False
+a1f622,United States,1.29,True
+8990f5,Taiwan,6.17,True
+ac01fc,United States,224.18,False
+868094,Japan,235.03,False
+4d23c3,Malta,206.43,False
+44083c,Austria,177.62,False
+44083b,Austria,176.75,False
+881059,Thailand,223.62,False
+8990eb,Taiwan,204.53,False
+8990ea,Taiwan,69.3,False
+881057,Thailand,235.82,False
+8990ec,Taiwan,220.72,False
+503efe,Lithuania,5.66,True
+a5b1b5,United States,174.27,False
+4ba975,Turkey,165.27,False
+8990c1,Taiwan,256.19,False
+8990bc,Taiwan,96.43,False
+8990be,Taiwan,187.13,False
+4caf2b,Ireland,228.34,False
+a3c163,United States,235.84,False
+503eee,Lithuania,5.66,True
+aef42d,United States,44.58,False
+503eea,Lithuania,11.32,True
+8990d7,Taiwan,255.89,False
+503eec,Lithuania,4.63,True
+503eeb,Lithuania,4.12,True
+44b8b9,Belgium,0.0,True
+43e859,United Kingdom,126.47,False
+4d23a4,Malta,113.43,False
+7c19cd,Australia,88.17,False
+4d23a7,Malta,220.05,False
+7c4f1e,Australia,80.03,False
+a48a8f,United States,245.39,False
+a5c4de,United States,244.67,False
+4ca302,Ireland,230.42,False
+8990ca,Taiwan,257.37,False
+a6e4c2,United States,52.14,False
+780457,China,120.37,False
+7c3ad6,Australia,116.03,False
+4d23f9,Malta,252.64,False
+78044e,China,229.74,False
+4d23f8,Malta,249.84,False
+4d23ea,Malta,200.08,False
+a32f7b,United States,59.73,False
+a526e6,United States,2.83,True
+514005,Georgia,0.0,True
+514004,Georgia,74.59,True
+c05086,Canada,243.27,False
+3d5453,Germany,91.84,False
+4d23fa,Malta,225.24,False
+4d23fc,Malta,199.67,False
+4d23fd,Malta,135.98,False
+ad9712,United States,195.72,False
+aa7f23,United States,248.28,False
+300618,Italy,0.0,True
+4d23e1,Malta,0.0,False
+3b61ff,France,3.09,True
+a81f1f,United States,0.0,True
+4caf82,Ireland,211.25,False
+a406c9,United States,0.26,False
+424b12,United Kingdom,92.47,False
+400b00,United Kingdom,233.7,False
+0d08eb,Mexico,138.98,False
+49d369,Czech Republic,195.81,False
+3d547a,Germany,140.06,False
+407eb2,United Kingdom,87.67,False
+440827,Austria,205.32,False
+440825,Austria,73.54,False
+a21679,United States,214.03,False
+8a0a89,Indonesia,227.37,False
+440820,Austria,0.0,True
+7c67dd,Australia,52.51,False
+47a3b0,Norway,209.87,False
+ab3d41,United States,164.56,False
+4d23f0,Malta,234.37,False
+4caf94,Ireland,263.79,False
+44081e,Austria,232.55,False
+44081d,Austria,207.77,False
+48e9f5,Poland,241.05,False
+780492,China,4.63,True
+48e9f3,Poland,92.97,False
+0d08fd,Mexico,200.19,False
+48e9f1,Poland,7.72,True
+4caf7e,Ireland,231.21,False
+aa7f05,United States,259.43,False
+aa7f01,United States,247.87,False
+40123f,United Kingdom,140.66,False
+e498f0,Brazil,225.97,False
+a44f9c,United States,236.63,False
+3d04a7,Germany,231.43,False
+45ac54,Denmark,214.48,False
+400b4b,United Kingdom,20.58,True
+401240,United Kingdom,241.23,False
+39be89,France,0.0,True
+4072c8,United Kingdom,247.33,False
+8a0a4a,Indonesia,237.54,False
+a779b0,United States,234.88,False
+7cf451,Australia,6.69,True
+3d4d4c,Germany,102.89,False
+45d96f,Denmark,231.9,False
+45ac30,Denmark,188.57,False
+3c81a8,Germany,1.29,True
+3cdde1,Germany,94.59,False
+7cf43c,Australia,5.4,True
+45ac33,Denmark,219.46,False
+a32367,United States,0.06,True
+39b221,France,244.0,False
+7cf442,Australia,3.86,True
+8a0a43,Indonesia,154.58,False
+7cf444,Australia,8.23,True
+45ac50,Denmark,196.22,False
+7cf440,Australia,6.43,True
+a8bd6a,United States,157.03,False
+c05060,Canada,174.62,False
+4072a4,United Kingdom,226.58,False
+4072a5,United Kingdom,157.49,False
+e4999f,Brazil,243.13,False
+a8cffd,United States,222.8,False
+3485d2,Spain,224.0,False
+39a04c,France,55.23,False
+a098f6,United States,249.51,False
+a81f7b,United States,279.13,False
+4b44a1,Switzerland,5.47,False
+780504,China,275.93,False
+a7ff72,United States,1.8,False
+45c86b,Denmark,232.36,False
+45c86c,Denmark,233.55,False
+71c220,Republic of Korea,209.49,False
+86d215,Japan,261.3,False
+71c256,Republic of Korea,236.94,False
+a8c3a2,United States,0.0,True
+71c258,Republic of Korea,68.24,False
+71c259,Republic of Korea,191.15,False
+a80c87,United States,3.34,True
+71c252,Republic of Korea,126.9,False
+c1e84b,Canada,1.54,True
+406279,United Kingdom,12.86,True
+781852,China,102.35,False
+a79046,United States,244.23,False
+34250a,Spain,179.85,False
+71c247,Republic of Korea,233.06,False
+86d200,Japan,211.05,False
+503e44,Lithuania,218.1,False
+780531,China,219.72,False
+4cadbd,Ireland,276.94,False
+4cadbe,Ireland,222.76,False
+4cadbf,Ireland,230.7,False
+503e2e,Lithuania,40.98,False
+4cadbb,Ireland,256.48,False
+4cadbc,Ireland,147.54,False
+744841,Jordan,254.69,False
+4cadc7,Ireland,241.66,False
+4cadc8,Ireland,247.9,False
+a38527,United States,0.0,True
+4cadc1,Ireland,87.02,False
+c05218,Canada,270.89,False
+4cade0,Ireland,236.21,False
+48506b,Kingdom of the Netherlands,218.44,False
+4cade2,Ireland,212.04,False
+48506c,Kingdom of the Netherlands,7.72,True
+4408de,Austria,135.67,False
+34608f,Spain,196.65,False
+adbaca,United States,247.53,False
+a5502b,United States,249.44,False
+a5ac3b,United States,243.2,False
+7cf617,Australia,3.09,True
+7cf618,Australia,4.89,True
+503e61,Lithuania,253.89,False
+a12b0e,United States,248.27,False
+c82953,New Zealand,223.07,False
+a6f993,United States,251.72,False
+346091,Spain,195.11,False
+040248,Ethiopia,219.0,False
+040247,Ethiopia,164.46,False
+ab2c04,United States,235.75,False
+040240,Ethiopia,263.0,False
+4cada4,Ireland,223.04,False
+48ac82,Poland,216.93,False
+48ac81,Poland,86.47,False
+45c822,Denmark,239.68,False
+c06558,Canada,97.86,False
+4cadc0,Ireland,196.28,False
+346088,Spain,180.36,False
+71c209,Republic of Korea,231.37,False
+346082,Spain,241.29,False
+4408fb,Austria,247.82,False
+4cadb8,Ireland,184.09,False
+4cadb9,Ireland,187.09,False
+a7f308,United States,255.16,False
+4cadb7,Ireland,234.54,False
+406222,United Kingdom,179.78,False
+3c7a47,Germany,287.94,False
+4cadfd,Ireland,256.55,False
+4cadff,Ireland,112.11,False
+a43bc6,United States,244.3,False
+4bd159,Turkey,62.38,False
+40753c,United Kingdom,220.74,False
+406e66,United Kingdom,218.12,False
+406e69,United Kingdom,266.7,False
+40753f,United Kingdom,230.64,False
+503cf5,Lithuania,215.63,False
+e47f21,Brazil,242.96,False
+34604b,Spain,73.28,False
+34604d,Spain,202.73,False
+34604c,Spain,148.23,False
+4cadf0,Ireland,237.05,False
+347388,Spain,284.96,False
+a24b40,United States,141.57,False
+407535,United Kingdom,233.03,False
+7cf4aa,Australia,0.13,False
+4caddd,Ireland,195.19,False
+4cadde,Ireland,152.25,False
+4cadda,Ireland,248.75,False
+7cf4b0,Australia,6.43,True
+40751c,United Kingdom,210.52,False
+4cade7,Ireland,224.68,False
+4cade9,Ireland,211.95,False
+4cade3,Ireland,264.65,False
+4cade4,Ireland,242.11,False
+3c7a4c,Germany,252.98,False
+4cade5,Ireland,287.91,False
+4cade6,Ireland,195.67,False
+346047,Spain,144.95,False
+406e2e,United Kingdom,241.12,False
+4cadef,Ireland,223.49,False
+3c8152,Germany,1.29,True
+4cadf8,Ireland,63.08,False
+4cadf9,Ireland,256.5,False
+86d288,Japan,87.66,False
+4cadf4,Ireland,252.08,False
+4cadf7,Ireland,238.73,False
+485009,Kingdom of the Netherlands,204.5,False
+4ba915,Turkey,205.27,False
+405b6a,United Kingdom,227.58,False
+33fda8,Italy,145.44,False
+40624e,United Kingdom,163.59,False
+40757f,United Kingdom,257.87,False
+abca08,United States,274.39,False
+71c273,Republic of Korea,166.96,False
+aad780,United States,252.1,False
+405b66,United Kingdom,172.88,False
+aa3923,United States,133.14,False
+40756e,United Kingdom,64.66,False
+405b67,United Kingdom,180.84,False
+86d222,Japan,141.37,False
+40756c,United Kingdom,224.18,False
+405b64,United Kingdom,4.63,True
+347349,Spain,247.75,False
+347344,Spain,210.28,False
+407575,United Kingdom,239.79,False
+86d259,Japan,198.13,False
+407573,United Kingdom,147.82,False
+407574,United Kingdom,222.47,False
+40622b,United Kingdom,213.56,False
+4408a6,Austria,155.02,False
+40622f,United Kingdom,232.46,False
+407567,United Kingdom,249.16,False
+3b1dff,France,7.2,False
+407568,United Kingdom,132.53,False
+407569,United Kingdom,249.72,False
+3423c4,Spain,8.75,True
+3423c3,Spain,222.19,False
+400be5,United Kingdom,4.89,True
+7c4487,Australia,113.53,False
+406231,United Kingdom,215.96,False
+aaaa64,United States,255.7,False
+ad2445,United States,250.16,False
+71c285,Republic of Korea,220.66,False
+71c286,Republic of Korea,213.88,False
+71c284,Republic of Korea,199.59,False
+ad7e6f,United States,250.09,False
+4cae05,Ireland,268.58,False
+3424d4,Spain,191.41,False
+3424d1,Spain,3.09,True
+ac5e8d,United States,208.93,False
+4cae00,Ireland,249.65,False
+c050c5,Canada,0.0,True
+86efd4,Japan,143.57,False
+424c98,United Kingdom,220.74,False
+448c63,Belgium,43.95,False
+ab92ed,United States,254.05,False
+ac523c,United States,236.73,False
+c063ce,Canada,111.8,False
+c063cc,Canada,88.9,False
+4cae19,Ireland,137.22,False
+4cae15,Ireland,185.06,False
+4cae11,Ireland,174.35,False
+a18d29,United States,275.56,False
+0aca5e,Colombia,248.04,False
+a05a25,United States,249.74,False
+adc238,United States,247.91,False
+7804a0,China,212.85,False
+7817d8,China,234.65,False
+85134a,Japan,155.56,False
+3c09f2,Germany,138.63,False
+347403,Spain,48.92,False
+7434c8,Jordan,62.21,False
+33fcea,Italy,33.68,False
+a5b2b0,United States,204.17,False
+a12ac3,United States,177.23,False
+3c816a,Germany,6.94,True
+c1e6b7,Canada,1.29,True
+4cae57,Ireland,252.45,False
+4cae58,Ireland,210.32,False
+4d22b0,Malta,220.78,False
+4cae59,Ireland,232.08,False
+4d22b1,Malta,233.95,False
+4cae52,Ireland,228.32,False
+4cae53,Ireland,223.84,False
+4cae54,Ireland,237.76,False
+424c60,United Kingdom,198.82,False
+4cae51,Ireland,281.07,False
+7c4428,Australia,93.85,False
+acfbfd,United States,257.68,False
+8991e8,Taiwan,251.24,False
+4cae29,Ireland,4.37,True
+8991e6,Taiwan,225.52,False
+851f4e,Japan,198.64,False
+7c4418,Australia,225.7,False
+8991dc,Taiwan,181.06,False
+a74e7a,United States,256.15,False
+ac1701,United States,239.82,False
+8991db,Taiwan,1.54,True
+8991da,Taiwan,221.9,False
+300780,Italy,195.64,False
+3c818f,Germany,3.09,True
+4cae34,Ireland,225.56,False
+ad727c,United States,256.97,False
+4cae33,Ireland,253.28,False
+c828e9,New Zealand,48.04,False
+3939e4,France,0.0,True
+4cae1c,Ireland,265.64,False
+4cae1d,Ireland,177.49,False
+a0c427,United States,32.41,False
+84b807,Japan,218.1,False
+4ca243,Ireland,176.51,False
+503e82,Lithuania,246.76,False
+c828ea,New Zealand,135.2,False
+406cd2,United Kingdom,234.69,False
+7c42e2,Australia,223.37,False
+4cae83,Ireland,251.64,False
+4cae84,Ireland,222.25,False
+46ba85,Greece,5.14,True
+39ac25,France,196.42,False
+4cae6c,Ireland,244.9,False
+4cae6d,Ireland,225.86,False
+4cae8c,Ireland,219.05,False
+4d22f5,Malta,224.98,False
+761487,Pakistan,242.58,False
+a67d2e,United States,248.84,False
+407ff1,United Kingdom,153.9,False
+4cae97,Ireland,248.27,False
+4cae98,Ireland,221.71,False
+39b324,France,56.54,False
+4cae92,Ireland,248.84,False
+4cae93,Ireland,123.55,False
+407fda,United Kingdom,254.45,False
+4073a1,United Kingdom,224.3,False
+503e6a,Lithuania,201.64,False
+4cae91,Ireland,228.58,False
+4ca246,Ireland,270.65,False
+4ca245,Ireland,203.03,False
+ac28be,United States,0.06,True
+a31120,United States,122.71,False
+4cae7d,Ireland,206.64,False
+8418cc,Japan,9.26,True
+4d22ae,Malta,199.75,False
+4d22af,Malta,254.41,False
+a12ae8,United States,255.04,False
+4d22ad,Malta,133.8,False
+4cae67,Ireland,242.75,False
+4cae68,Ireland,247.33,False
+4d22c1,Malta,221.12,False
+300738,Italy,0.0,True
+4cae64,Ireland,231.51,False
+4cae65,Ireland,0.0,True
+4cae66,Ireland,101.92,False
+4d22b6,Malta,232.92,False
+4cae60,Ireland,227.74,False
+4d22b7,Malta,163.51,False
+407fcc,United Kingdom,263.77,False
+4cae61,Ireland,76.48,False
+4cae62,Ireland,259.85,False
+4d22b9,Malta,227.31,False
+407fca,United Kingdom,160.87,False
+a69760,United States,0.0,True
+4cae4a,Ireland,228.92,False
+4ca217,Ireland,253.98,False
+4cae4c,Ireland,221.31,False
+a12ae5,United States,0.0,True
+4cae6a,Ireland,247.76,False
+704011,Myanmar,234.67,False
+4cae6b,Ireland,64.19,False
+407fd2,United Kingdom,255.85,False
+704010,Myanmar,243.79,False
+4d22bc,Malta,243.84,False
+4d22bd,Malta,240.35,False
+34258f,Spain,213.09,False
+78059b,China,252.89,False
+c0293e,Canada,72.88,False
+4d22c8,Malta,233.95,False
+4cae72,Ireland,222.78,False
+45a14c,Denmark,26.68,False
+44093e,Austria,174.42,False
+4d22c3,Malta,12.86,True
+4d22c4,Malta,6.43,True
+4d22c6,Malta,197.94,False
+4ca225,Ireland,246.55,False
+a33766,United States,241.69,False
+407fc9,United Kingdom,244.92,False
+4ca281,Ireland,252.69,False
+4ca280,Ireland,230.23,False
+33fe12,Italy,109.97,False
+ab321c,United States,248.5,False
+4ca294,Ireland,259.86,False
+4621e0,Finland,92.92,False
+3472cc,Spain,234.2,False
+342582,Spain,227.59,False
+4ca295,Ireland,203.42,False
+e497e7,Brazil,231.07,False
+4ca27b,Ireland,189.77,False
+4ca27c,Ireland,191.57,False
+3aafff,France,6.17,True
+49d275,Czech Republic,0.0,True
+4cae9b,Ireland,183.59,False
+4073ce,United Kingdom,271.83,False
+4cae9c,Ireland,0.0,True
+4cae9d,Ireland,229.17,False
+39b331,France,56.41,False
+4cae9e,Ireland,237.56,False
+4ca264,Ireland,214.8,False
+4ca263,Ireland,184.07,False
+4cae9a,Ireland,249.14,False
+4ca24f,Ireland,242.43,False
+4ca24e,Ireland,199.35,False
+479d40,Norway,182.12,False
+4ca256,Ireland,0.0,True
+4cae8e,Ireland,224.09,False
+ad48ea,United States,34.07,False
+4cae8f,Ireland,252.27,False
+4d22ff,Malta,237.0,False
+407fff,United Kingdom,230.64,False
+ac5e6e,United States,239.59,False
+8418b4,Japan,200.12,False
+39b32f,France,28.41,False
+aac8a4,United States,268.22,False
+406b90,United Kingdom,255.11,False
+781945,China,132.8,False
+86d310,Japan,144.71,False
+406b80,United Kingdom,128.05,False
+781953,China,125.14,False
+407267,United Kingdom,228.39,False
+48607f,Kingdom of the Netherlands,215.34,False
+406b6d,United Kingdom,132.17,False
+406b6c,United Kingdom,8.23,True
+a1244d,United States,104.02,False
+71c346,Republic of Korea,141.69,False
+a3c73a,United States,51.41,False
+7c57c1,Australia,192.3,False
+78061f,China,225.01,False
+868338,Japan,267.53,False
+471841,Hungary,205.31,False
+503d00,Lithuania,223.11,False
+880c43,Thailand,217.04,False
+406b5a,United Kingdom,241.05,False
+880c45,Thailand,205.68,False
+a8b5fc,United States,253.3,False
+71c378,Republic of Korea,177.35,False
+a91e9a,United States,151.44,False
+86d31d,Japan,209.19,False
+86d334,Japan,244.3,False
+00c8a2,South Africa,32.83,False
+407e7b,United Kingdom,228.87,False
+45884d,Denmark,0.9,True
+486071,Kingdom of the Netherlands,275.61,False
+71c364,Republic of Korea,186.67,False
+486072,Kingdom of the Netherlands,85.78,False
+a1242d,United States,250.86,False
+a5ed02,United States,134.39,False
+407e82,United Kingdom,67.19,False
+781986,China,75.62,False
+a7cb53,United States,246.93,False
+71c317,Republic of Korea,150.43,False
+78197c,China,229.23,False
+71c308,Republic of Korea,67.52,False
+71c300,Republic of Korea,215.11,False
+4d230d,Malta,290.09,False
+420e4a,United Kingdom,239.71,False
+ab120b,United States,151.91,False
+71c302,Republic of Korea,70.81,False
+34838b,Spain,194.97,False
+4cacb6,Ireland,239.74,False
+a65b99,United States,63.63,False
+4cacb4,Ireland,211.08,False
+503d40,Lithuania,244.52,False
+4405ab,Austria,5.92,False
+71c334,Republic of Korea,71.27,False
+503d48,Lithuania,236.13,False
+4d2303,Malta,241.3,False
+4d2304,Malta,73.27,False
+090020,Angola,141.63,False
+4d2300,Malta,265.61,False
+4d2302,Malta,235.81,False
+e49c01,Brazil,244.9,False
+71c323,Republic of Korea,243.1,False
+71c327,Republic of Korea,212.24,False
+ad4b05,United States,243.77,False
+a50725,United States,297.56,False
+406b91,United Kingdom,217.85,False
+06a066,Qatar,263.16,False
+868316,Japan,139.28,False
+39ceb3,France,238.56,False
+3c56ef,Germany,197.29,False
+39ceb4,France,220.91,False
+3c56ee,Germany,221.1,False
+3c56ed,Germany,264.8,False
+39ceb5,France,170.99,False
+850e14,Japan,13.89,True
+a6aab5,United States,216.31,False
+39ceb7,France,271.21,False
+47a32e,Norway,102.03,False
+800b57,India,259.26,False
+4680d1,Greece,197.75,False
+a9873d,United States,137.35,False
+4d234b,Malta,264.11,False
+39ceb0,France,198.61,False
+39ceb1,France,201.41,False
+4cacdf,Ireland,216.23,False
+8468d0,Japan,64.75,False
+407e33,United Kingdom,0.13,True
+3c56f6,Germany,231.86,False
+407e32,United Kingdom,145.66,False
+3c56f5,Germany,5.92,True
+3e2316,Germany,107.18,False
+a674e4,United States,301.63,False
+a05f31,United States,0.0,True
+a794e1,United States,89.51,False
+8468cc,Japan,235.63,False
+3c56eb,Germany,148.67,False
+4d2369,Malta,239.77,False
+47a31a,Norway,239.76,False
+a3514f,United States,0.0,True
+a4d483,United States,0.0,True
+39ceaa,France,222.25,False
+39ceab,France,256.0,False
+a5ed66,United States,290.68,False
+a34a87,United States,37.58,False
+4d234d,Malta,250.33,False
+4d234e,Malta,134.38,False
+48e95f,Poland,227.36,False
+48e95d,Poland,237.7,False
+4d2362,Malta,64.42,False
+48e95a,Poland,216.76,False
+a661c7,United States,156.55,False
+348358,Spain,139.21,False
+7c2b59,Australia,3.34,True
+4cacbd,Ireland,265.58,False
+a4c164,United States,202.7,False
+3985a3,France,65.54,False
+3985a4,France,210.49,False
+ab10d4,United States,261.61,False
+ab7376,United States,253.59,False
+48e94b,Poland,29.33,False
+7cf5d0,Australia,5.66,True
+3985a7,France,1.8,True
+4cace0,Ireland,248.91,False
+39cea2,France,212.13,False
+4d2349,Malta,262.37,False
+39cea4,France,90.17,False
+39cea5,France,184.49,False
+48e958,Poland,240.12,False
+348342,Spain,195.33,False
+39cea7,France,127.46,False
+4d2346,Malta,183.1,False
+a6147f,United States,0.0,True
+4d232c,Malta,255.63,False
+7c455d,Australia,6.17,True
+ac30c0,United States,254.01,False
+7c2b51,Australia,71.06,False
+406b49,United Kingdom,0.06,False
+880c4a,Thailand,225.67,False
+4d2390,Malta,276.01,False
+71c395,Republic of Korea,199.09,False
+407e74,United Kingdom,115.03,False
+4d2392,Malta,8.75,True
+407e5f,United Kingdom,250.7,False
+3b7f69,France,105.42,False
+86835a,Japan,191.53,False
+4d239a,Malta,159.28,False
+4d239c,Malta,244.46,False
+a59d63,United States,236.02,False
+71c386,Republic of Korea,133.7,False
+ad1697,United States,154.84,False
+407e63,United Kingdom,2.57,True
+71c382,Republic of Korea,249.32,False
+407e60,United Kingdom,0.0,True
+407e61,United Kingdom,259.55,False
+800b78,India,246.84,False
+407e4e,United Kingdom,223.08,False
+348310,Spain,246.3,False
+4d2378,Malta,10.29,True
+4d236a,Malta,185.63,False
+46dca2,Greece,189.55,False
+407e53,United Kingdom,243.7,False
+407e54,United Kingdom,233.77,False
+4d235d,Malta,134.54,False
+348308,Spain,38.24,False
+407e3a,United Kingdom,158.68,False
+86837c,Japan,243.74,False
+800b81,India,110.86,False
+781939,China,94.98,False
+3c56f3,Germany,267.53,False
+3c56f1,Germany,215.37,False
+a06646,United States,142.54,False
+300393,Italy,174.32,False
+4d2384,Malta,190.89,False
+881354,Thailand,53.84,False
+4d2385,Malta,219.07,False
+78192f,China,218.44,False
+a8f28f,United States,194.11,False
+348412,Spain,214.48,False
+a5b923,United States,223.45,False
+c82c15,New Zealand,47.73,False
+a1cf6b,United States,0.0,True
+3f4368,Germany,135.31,False
+862d50,Japan,254.93,False
+ac69b6,United States,152.6,False
+30047d,Italy,220.76,False
+04c21a,Kenya,134.63,False
+3cd063,Germany,232.41,False
+86ddb2,Japan,219.05,False
+7805b5,China,219.88,False
+3cd061,Germany,101.9,False
+7805aa,China,278.93,False
+7c8098,Australia,60.8,False
+850d8c,Japan,0.0,True
+a6893e,United States,250.58,False
+a4dfd2,United States,227.54,False
+8681ba,Japan,198.19,False
+c82009,New Zealand,147.84,False
+ada167,United States,260.75,False
+440667,Austria,240.99,False
+440665,Austria,78.65,False
+8681b3,Japan,252.18,False
+862d72,Japan,272.99,False
+8681b9,Japan,236.54,False
+8681b7,Japan,154.86,False
+a1cf48,United States,278.74,False
+8681aa,Japan,203.88,False
+8681ad,Japan,216.81,False
+8681ab,Japan,256.16,False
+47a1ef,Norway,257.34,False
+8681ac,Japan,222.84,False
+44065c,Austria,0.0,True
+a639f5,United States,220.22,False
+4cad28,Ireland,233.2,False
+4cad29,Ireland,241.49,False
+440614,Austria,269.01,False
+440611,Austria,91.75,False
+aa51fe,United States,184.07,False
+4cad0f,Ireland,226.95,False
+85d7c0,Japan,6.94,True
+440609,Austria,105.71,False
+0d0ea9,Mexico,220.81,False
+398600,France,251.36,False
+398601,France,127.39,False
+398602,France,63.49,False
+398603,France,243.55,False
+440605,Austria,4.15,False
+4cad39,Ireland,215.88,False
+440604,Austria,218.44,False
+398604,France,168.08,False
+ab23b5,United States,9.26,True
+a924fc,United States,249.6,False
+84b7d8,Japan,10.29,True
+7805f9,China,153.75,False
+503cbe,Lithuania,229.96,False
+46815d,Greece,28.53,False
+4070eb,United Kingdom,10.8,True
+4070ec,United Kingdom,252.09,False
+a30f85,United States,204.88,False
+440630,Austria,187.2,False
+4070ef,United Kingdom,233.97,False
+4070ee,United Kingdom,259.71,False
+3cd051,Germany,201.47,False
+48c1a9,Poland,237.07,False
+48c1a7,Poland,1452.44,False
+48c1a6,Poland,215.46,False
+ac096a,United States,241.95,False
+48c1a4,Poland,239.57,False
+48c1a1,Poland,1.03,True
+48c1a2,Poland,263.88,False
+0d0ec8,Mexico,241.71,False
+4070f0,United Kingdom,222.97,False
+440625,Austria,227.63,False
+4cad13,Ireland,165.21,False
+4b9dec,Turkey,191.78,False
+4cad11,Ireland,236.51,False
+4cad12,Ireland,281.96,False
+4070e9,United Kingdom,226.09,False
+4b9df5,Turkey,244.33,False
+44061d,Austria,194.89,False
+44061b,Austria,203.37,False
+4070e2,United Kingdom,236.45,False
+4070e3,United Kingdom,246.56,False
+0d0ed6,Mexico,285.62,False
+40104f,United Kingdom,237.65,False
+4070e1,United Kingdom,249.16,False
+4070e6,United Kingdom,244.53,False
+4070e5,United Kingdom,233.96,False
+4b447c,Switzerland,75.78,False
+7c8032,Australia,141.25,False
+503d62,Lithuania,270.41,False
+7cf674,Australia,0.0,True
+4cad64,Ireland,218.63,False
+468158,Greece,41.98,False
+45aa59,Denmark,136.31,False
+7cf65f,Australia,1.8,True
+468156,Greece,35.69,False
+a613e0,United States,63.17,False
+468152,Greece,41.65,False
+468151,Greece,35.0,False
+06a078,Qatar,269.44,False
+846954,Japan,212.59,False
+300401,Italy,72.74,False
+7cf669,Australia,0.13,True
+4c01e5,Serbia,188.43,False
+ac07fd,United States,222.68,False
+ad27f3,United States,7.2,True
+7cf661,Australia,0.77,True
+86d1f3,Japan,187.22,False
+4d21c9,Malta,186.2,False
+3ceee1,Germany,182.23,False
+4c01f3,Serbia,197.03,False
+ad14aa,United States,218.07,False
+86d1de,Japan,102.61,False
+4cad5c,Ireland,73.4,False
+7c801e,Australia,106.29,False
+4b449c,Switzerland,0.51,False
+3c4587,Germany,254.09,False
+49d10f,Czech Republic,165.18,False
+71bd33,Republic of Korea,225.94,False
+39cf07,France,262.76,False
+06a07f,Qatar,80.26,False
+8406d0,Japan,257.52,False
+4cad44,Ireland,233.95,False
+7cf63d,Australia,1.54,True
+3482d8,Spain,198.78,False
+7cf63e,Australia,1.54,True
+4cad41,Ireland,230.46,False
+84b940,Japan,191.75,False
+7cf63b,Australia,5.66,True
+3c4581,Germany,110.06,False
+3c4582,Germany,252.18,False
+151fff,Russian Federation,1.8,True
+3949e8,France,287.86,False
+a5a690,United States,267.49,False
+4cad2b,Ireland,223.78,False
+a733e6,United States,248.5,False
+503d74,Lithuania,216.42,False
+151ff1,Russian Federation,83.35,False
+45aa50,Denmark,184.85,False
+4d21b1,Malta,217.72,False
+503d71,Lithuania,250.84,False
+3c458e,Germany,267.04,False
+4cad54,Ireland,215.12,False
+a7d31b,United States,36.54,False
+3c458f,Germany,139.83,False
+3c458c,Germany,249.71,False
+39cf10,France,294.17,False
+4cad51,Ireland,158.24,False
+4d21a2,Malta,208.88,False
+aca760,United States,177.15,False
+45aa46,Denmark,158.78,False
+4cad3f,Ireland,235.07,False
+4cad3a,Ireland,237.68,False
+3c4596,Germany,237.91,False
+4cad3b,Ireland,223.81,False
+4cad3c,Ireland,247.02,False
+4cad3d,Ireland,241.67,False
+a4ccba,United States,276.47,False
+4cad9f,Ireland,118.07,False
+4d21ef,Malta,231.06,False
+4ca14e,Ireland,242.98,False
+acf4e8,United States,232.23,False
+e4a2d5,Brazil,238.19,False
+7c806c,Australia,218.4,False
+4d21ec,Malta,3.09,True
+4d21ed,Malta,126.72,False
+846910,Japan,223.99,False
+4d21ea,Malta,275.85,False
+4083ad,United Kingdom,245.6,False
+7c8067,Australia,265.18,False
+862d94,Japan,228.38,False
+a79625,United States,247.77,False
+4d21fc,Malta,193.38,False
+503d8a,Lithuania,90.02,False
+4d21fe,Malta,124.5,False
+a54343,United States,99.38,False
+86ddf0,Japan,203.89,False
+4cad7c,Ireland,238.59,False
+4cad7d,Ireland,2.83,True
+4c01eb,Serbia,117.78,False
+151fc3,Russian Federation,213.48,False
+4c01ed,Serbia,161.51,False
+7cf693,Australia,4.63,False
+151fc5,Russian Federation,223.73,False
+4cad86,Ireland,221.6,False
+4cad88,Ireland,230.43,False
+4cad89,Ireland,200.86,False
+4cad80,Ireland,174.52,False
+407caf,United Kingdom,243.46,False
+aa5f41,United States,239.53,False
+151fbd,Russian Federation,221.28,False
+407cb4,United Kingdom,223.7,False
+49d174,Czech Republic,175.56,True
+407cb2,United Kingdom,168.37,False
+407cb3,United Kingdom,257.05,False
+7cf687,Australia,4.12,True
+aaea8c,United States,69.31,False
+4cad97,Ireland,123.47,False
+407cb0,United Kingdom,208.32,False
+4cad98,Ireland,235.68,False
+4d21f1,Malta,256.57,False
+4d21f2,Malta,202.27,False
+4cad93,Ireland,219.24,False
+7cf66f,Australia,0.06,True
+4cad94,Ireland,262.08,False
+a1b092,United States,0.0,True
+4cad96,Ireland,169.11,False
+4cad92,Ireland,249.66,False
+4d21e9,Malta,233.86,False
+4d21db,Malta,191.1,False
+4d21dc,Malta,59.9,False
+7cf66a,Australia,0.64,True
+4cad7f,Ireland,232.39,False
+ac0906,United States,64.21,False
+45d965,Denmark,246.49,False
+4010ea,United Kingdom,256.82,False
+45d961,Denmark,251.28,False
+45d962,Denmark,221.54,False
+4010ed,United Kingdom,204.47,False
+4010eb,United Kingdom,131.18,False
+881427,Thailand,235.81,False
+7c2ba8,Australia,1.54,True
+39bd97,France,58.92,False
+881423,Thailand,95.95,False
+800c01,India,103.44,False
+39c494,France,270.82,False
+4010dd,United Kingdom,234.64,False
+a54ed7,United States,95.48,False
+a4e840,United States,0.13,True
+800c07,India,247.14,False
+45d970,Denmark,256.51,False
+0d0f5f,Mexico,83.02,False
+a22b45,United States,37.4,False
+4b9e45,Turkey,236.14,False
+a4d520,United States,69.78,False
+406c80,United Kingdom,222.78,False
+406c83,United Kingdom,79.88,False
+0ac95a,Colombia,226.72,False
+a3b557,United States,216.01,False
+3f9c84,Germany,0.0,True
+51016a,Belarus,241.62,False
+76b444,Singapore,237.23,False
+76b446,Singapore,238.74,False
+4d20fd,Malta,226.98,False
+406c71,United Kingdom,69.74,False
+4d20ff,Malta,160.87,False
+a47e06,United States,53.2,False
+3003af,Italy,1.03,True
+aa4195,United States,280.13,False
+151efa,Russian Federation,220.6,False
+a24591,United States,241.96,False
+4b9e4a,Turkey,199.17,False
+76b44b,Singapore,183.59,False
+485a82,Kingdom of the Netherlands,265.04,False
+485a83,Kingdom of the Netherlands,250.89,False
+800c43,India,136.0,False
+c04599,Canada,0.06,True
+485a86,Kingdom of the Netherlands,219.35,False
+485a84,Kingdom of the Netherlands,247.98,False
+4b9e55,Turkey,284.36,False
+a1bbf6,United States,63.45,False
+485a85,Kingdom of the Netherlands,241.99,False
+c03261,Canada,278.36,False
+4d2208,Malta,244.9,False
+800c11,India,127.62,False
+7c2baf,Australia,210.75,False
+71aa48,Republic of Korea,95.34,False
+800c0c,India,229.48,False
+71bd62,Republic of Korea,170.49,False
+8514f8,Japan,261.7,False
+862dd8,Japan,218.83,False
+a4ce11,United States,239.3,False
+0c43aa,Dominican Republic,212.68,False
+a4ce15,United States,0.0,True
+ac8ce5,United States,241.13,False
+71bd60,Republic of Korea,140.11,False
+0d0f49,Mexico,74.44,False
+abcfec,United States,56.25,False
+4d2237,Malta,169.49,False
+7c3381,Australia,38.08,False
+4d2238,Malta,188.18,False
+4cabd1,Ireland,244.36,False
+4d2239,Malta,217.34,False
+4cabd2,Ireland,290.5,False
+4d2233,Malta,221.99,False
+4d2234,Malta,69.25,False
+4d222a,Malta,176.68,False
+3986e0,France,233.13,False
+acca19,United States,250.91,False
+800c70,India,262.83,False
+4d221e,Malta,229.89,False
+3986e6,France,217.95,False
+4d221f,Malta,180.78,False
+3986e8,France,137.87,False
+3986e1,France,229.79,False
+4d221a,Malta,244.32,False
+3986e2,France,180.2,False
+4d2244,Malta,136.44,False
+4d2245,Malta,157.66,False
+4d2246,Malta,147.4,False
+4d2247,Malta,264.58,False
+4c0261,Serbia,220.67,False
+4d223a,Malta,0.64,True
+4c0263,Serbia,5.14,True
+4d223b,Malta,84.61,False
+407f43,United Kingdom,1.54,True
+a72e6c,United States,251.95,False
+4d222b,Malta,222.4,False
+4d222c,Malta,248.62,False
+4d222e,Malta,78.19,False
+4d2242,Malta,182.09,False
+4cabd4,Ireland,256.63,False
+a422f7,United States,233.22,False
+7c80ac,Australia,145.43,False
+4d2218,Malta,185.19,False
+4d2211,Malta,174.15,False
+485a32,Kingdom of the Netherlands,241.93,False
+4d2213,Malta,260.54,False
+800c4b,India,228.15,False
+3c088d,Germany,9.26,True
+485a35,Kingdom of the Netherlands,0.0,True
+abaa43,United States,256.71,False
+407f1f,United Kingdom,223.81,False
+7cf6f1,Australia,5.92,True
+a6abea,United States,183.53,False
+4d2229,Malta,71.43,False
+4d2224,Malta,211.53,False
+4d2225,Malta,176.64,False
+0d0f00,Mexico,239.74,False
+0d0f03,Mexico,224.87,False
+0d0f07,Mexico,159.85,False
+4c0243,Serbia,61.24,False
+4d220a,Malta,238.87,False
+4d220c,Malta,120.41,False
+407f0e,United Kingdom,233.09,False
+4d2220,Malta,216.01,False
+4d2221,Malta,210.11,False
+7cf6e0,Australia,3.86,True
+7c80b9,Australia,139.47,False
+a47e89,United States,211.47,False
+407356,United Kingdom,82.6,False
+4d226b,Malta,200.95,False
+4d226c,Malta,229.74,False
+4d226e,Malta,226.5,False
+adfd72,United States,136.63,False
+407f8c,United Kingdom,232.32,False
+4d226a,Malta,277.02,False
+a6bebf,United States,95.51,False
+40600e,United Kingdom,237.54,False
+407f96,United Kingdom,244.9,False
+40600d,United Kingdom,0.0,True
+4d225f,Malta,240.84,False
+4d2273,Malta,242.73,False
+4d2274,Malta,110.16,False
+4d2275,Malta,169.92,False
+407f94,United Kingdom,226.07,False
+c05858,Canada,250.62,False
+4d2271,Malta,192.56,False
+4d2272,Malta,184.08,False
+39bcf7,France,215.42,False
+406016,United Kingdom,233.92,False
+348443,Spain,48.77,False
+7c80ff,Australia,128.74,False
+406015,United Kingdom,130.86,False
+406018,United Kingdom,255.28,False
+348441,Spain,223.42,False
+406017,United Kingdom,1.29,True
+7c80fc,Australia,119.5,False
+3c4ec7,Germany,170.76,False
+4d227c,Malta,244.64,False
+80139b,India,68.37,False
+4d227d,Malta,270.94,False
+4d227e,Malta,215.1,False
+4d227a,Malta,142.82,False
+406012,United Kingdom,211.79,False
+407f7a,United Kingdom,257.7,False
+a84e0c,United States,224.83,False
+406011,United Kingdom,213.09,False
+407f85,United Kingdom,148.18,False
+a8b82a,United States,271.8,False
+3e4801,Germany,212.61,False
+4d2280,Malta,257.02,False
+4d2259,Malta,237.82,False
+800c99,India,126.41,False
+a89ba6,United States,140.84,False
+3434c9,Spain,143.57,False
+4d2255,Malta,223.83,False
+4d2257,Malta,184.83,False
+4d2258,Malta,254.33,False
+463434,Finland,144.12,False
+3c55c2,Germany,180.58,False
+4cabda,Ireland,232.6,False
+406c43,United Kingdom,250.55,False
+407f79,United Kingdom,220.92,False
+4d223f,Malta,237.93,False
+4d2251,Malta,5.66,True
+a65bbc,United States,0.0,True
+a0541b,United States,217.45,False
+4d2268,Malta,198.03,False
+4d2269,Malta,207.21,False
+4d225a,Malta,188.41,False
+a65be3,United States,61.82,False
+4d225b,Malta,248.33,False
+4d225c,Malta,238.26,False
+407f65,United Kingdom,171.7,False
+34840a,Spain,239.05,False
+407f63,United Kingdom,205.48,False
+3c55c3,Germany,238.36,False
+4d224d,Malta,181.25,False
+406c39,United Kingdom,246.81,False
+4d224f,Malta,191.01,False
+a5e229,United States,210.57,False
+4d2262,Malta,90.51,False
+4d2263,Malta,170.31,False
+407f62,United Kingdom,0.45,True
+800c9c,India,215.8,False
+407f60,United Kingdom,256.27,False
+4d2261,Malta,89.05,False
+323232,Italy,38.74,False
+71005a,Saudi Arabia,248.07,False
+85c5dc,Japan,73.51,False
+851580,Japan,7.46,True
+4d218f,Malta,150.35,False
+400a7d,United Kingdom,128.51,False
+a65d06,United States,223.27,False
+a39a13,United States,99.65,False
+850e9c,Japan,90.7,False
+7c5950,Australia,137.32,False
+c08081,Canada,200.88,False
+861b47,Japan,118.33,False
+493299,Portugal,0.0,True
+400a79,United Kingdom,128.92,False
+4b19c0,Switzerland,206.42,False
+400a75,United Kingdom,128.62,False
+c008c6,Canada,250.86,False
+a3ade9,United States,237.36,False
+4b19ef,Switzerland,74.94,False
+462d15,Finland,188.81,False
+4071d0,United Kingdom,0.0,True
+348509,Spain,153.53,False
+4b19f4,Switzerland,162.84,False
+862248,Japan,243.37,False
+406ae8,United Kingdom,207.63,False
+861b64,Japan,90.17,False
+406ae2,United Kingdom,245.62,False
+5100fa,Belarus,27.88,False
+7c3f0a,Australia,8.23,True
+a0546c,United States,157.82,False
+300554,Italy,104.49,False
+4cac07,Ireland,116.13,False
+850e58,Japan,219.25,False
+300557,Italy,158.85,False
+440735,Austria,195.24,False
+300558,Italy,158.54,False
+7c3340,Australia,57.11,False
+4cac00,Ireland,7.46,True
+86351c,Japan,0.0,True
+ab6101,United States,231.5,False
+3e4896,Germany,6.94,True
+300564,Italy,172.07,False
+a71b82,United States,346.67,False
+4cac16,Ireland,219.58,False
+a41121,United States,175.61,False
+4b19fd,Switzerland,198.2,False
+4b19fe,Switzerland,104.4,False
+4b19ff,Switzerland,229.29,False
+861b03,Japan,95.02,False
+a1b12a,United States,242.2,False
+a364e7,United States,0.06,True
+710051,Saudi Arabia,212.31,False
+3c42fa,Germany,2.57,True
+40117f,United Kingdom,51.94,False
+48c2ad,Poland,217.97,False
+48c2ae,Poland,152.0,False
+7c3314,Australia,45.51,False
+850e7a,Japan,137.68,False
+7cf6a6,Australia,0.77,True
+86220c,Japan,8.75,True
+48c2b7,Poland,241.59,False
+a3adaa,United States,133.92,False
+48c2b8,Poland,135.51,False
+48c2b3,Poland,176.53,False
+48c2b1,Poland,228.08,False
+48c2b0,Poland,180.97,False
+342396,Spain,199.32,False
+71be35,Republic of Korea,218.67,False
+71be34,Republic of Korea,216.0,False
+71c517,Republic of Korea,202.55,False
+48e8fe,Poland,136.69,False
+71c515,Republic of Korea,234.12,False
+886283,Thailand,157.08,False
+ac3e5d,United States,126.24,False
+48c2a8,Poland,220.78,False
+a854d0,United States,248.91,False
+48c2a4,Poland,193.92,False
+7c7a71,Australia,0.0,True
+48c2a2,Poland,149.16,False
+48c2a3,Poland,258.28,False
+48c2a0,Poland,89.06,False
+71be20,Republic of Korea,4.37,True
+71be21,Republic of Korea,227.87,False
+4cac54,Ireland,83.4,False
+4cac55,Ireland,135.18,False
+4cac56,Ireland,219.34,False
+7c7a4d,Australia,222.59,False
+4cac53,Ireland,110.59,False
+a5449a,United States,261.7,False
+a66484,United States,47.85,False
+71be16,Republic of Korea,193.31,False
+ac3e80,United States,216.98,False
+7c7a65,Australia,0.0,True
+86d2fb,Japan,129.1,False
+45ab4f,Denmark,232.85,False
+850dae,Japan,243.85,False
+7c8130,Australia,0.06,True
+45ab4d,Denmark,187.21,False
+440713,Austria,182.62,False
+a6b470,United States,258.11,False
+4cac23,Ireland,224.4,False
+4cac24,Ireland,240.93,False
+71c531,Republic of Korea,191.82,False
+7c7a58,Australia,46.03,False
+71c535,Republic of Korea,220.8,False
+45ab53,Denmark,215.74,False
+71c536,Republic of Korea,232.69,False
+7bb133,China,219.34,False
+4cac0c,Ireland,0.0,False
+4cac0a,Ireland,212.77,False
+343694,Spain,77.48,False
+7c2ad4,Australia,204.98,False
+7c7a49,Australia,272.47,False
+71c524,Republic of Korea,228.53,False
+71c522,Republic of Korea,258.17,False
+71c523,Republic of Korea,258.05,False
+71be38,Republic of Korea,231.75,False
+4cac1f,Ireland,198.89,False
+71be37,Republic of Korea,259.68,False
+4cac7a,Ireland,231.69,False
+4632af,Finland,161.23,False
+4cac87,Ireland,6.94,True
+4cac89,Ireland,246.63,False
+4d20e2,Malta,230.8,False
+4cac86,Ireland,71.67,False
+86d2cc,Japan,222.99,False
+4d20cd,Malta,253.57,False
+406ac4,United Kingdom,214.96,False
+4cac8a,Ireland,230.42,False
+7c7a8f,Australia,55.6,False
+406ac3,United Kingdom,235.18,False
+885b48,Thailand,165.28,False
+4d20f3,Malta,219.85,False
+885b43,Thailand,221.83,False
+885b42,Thailand,113.05,False
+a614d7,United States,34.59,False
+4071a2,United Kingdom,73.5,False
+49d034,Czech Republic,215.11,False
+39c424,France,242.12,False
+407de4,United Kingdom,96.47,False
+0d5bdc,Mexico,46.66,False
+39c428,France,249.61,False
+400a25,United Kingdom,115.45,False
+71be10,Republic of Korea,237.34,False
+3e47b1,Germany,179.78,False
+4d20c0,Malta,252.42,False
+39c40e,France,93.11,False
+7c8168,Australia,63.77,False
+a199ef,United States,48.94,False
+00af2e,South Africa,2.31,True
+ad5269,United States,176.14,False
+c04fe4,Canada,256.87,False
+4632b0,Finland,229.87,False
+71be02,Republic of Korea,6.94,True
+7c8163,Australia,0.39,True
+4d20bf,Malta,71.83,False
+503c92,Lithuania,75.57,False
+4cac79,Ireland,212.21,False
+0d0e9c,Mexico,245.8,False
+c04fdd,Canada,277.38,False
+45ab27,Denmark,221.93,False
+45ab22,Denmark,18.01,True
+407dbf,United Kingdom,75.74,False
+00af30,South Africa,190.03,False
+4632b2,Finland,128.81,False
+800d10,India,142.17,False
+800d13,India,234.06,False
+407031,United Kingdom,0.0,True
+861bec,Japan,122.49,False
+a5a38e,United States,224.28,False
+71c597,Republic of Korea,67.1,False
+86e86e,Japan,0.0,True
+4403a5,Austria,135.88,False
+71c590,Republic of Korea,214.3,False
+a8fc73,United States,7.72,True
+71c593,Republic of Korea,181.81,False
+71c592,Republic of Korea,237.0,False
+780863,China,178.33,False
+71c586,Republic of Korea,198.52,False
+71c587,Republic of Korea,236.99,False
+71c584,Republic of Korea,211.48,False
+789205,China,1.29,True
+7c3fe7,Australia,5.75,False
+a38836,United States,0.0,True
+a2551d,United States,88.39,False
+40833c,United Kingdom,214.35,False
+a7f684,United States,248.06,False
+a2551a,United States,209.41,False
+ad61de,United States,10.29,True
+408346,United Kingdom,0.06,True
+47b499,Norway,46.86,False
+348197,Spain,61.95,False
+789206,China,8.75,True
+348191,Spain,42.71,False
+48c12f,Poland,121.25,False
+48c12d,Poland,92.5,False
+48c12b,Poland,4.12,False
+af04fc,United States,44.31,False
+40832b,United Kingdom,267.08,False
+a850dc,United States,256.98,False
+48c139,Poland,198.66,False
+800d01,India,208.05,False
+78920c,China,74.17,False
+48c138,Poland,0.0,True
+789218,China,5.66,True
+48c134,Poland,273.64,False
+48c132,Poland,109.77,False
+acf48c,United States,259.09,False
+40831a,United Kingdom,83.85,False
+800d08,India,175.38,False
+0c20df,Panama,261.56,False
+800d52,India,114.29,False
+0c20dd,Panama,213.91,False
+ab3625,United States,134.41,False
+86e844,Japan,251.92,False
+78921d,China,239.89,False
+ac4f29,United States,74.08,False
+a062ec,United States,0.06,True
+48c124,Poland,179.75,False
+789228,China,56.92,False
+71c559,Republic of Korea,240.07,False
+48c123,Poland,66.97,False
+a062ef,United States,241.29,False
+48c121,Poland,151.6,False
+789234,China,143.37,False
+a8bfeb,United States,240.94,False
+801441,India,34.98,True
+7c33f1,Australia,102.39,False
+789232,China,274.34,False
+801445,India,232.6,False
+789236,China,87.46,True
+801446,India,96.92,False
+71c556,Republic of Korea,217.83,False
+7c7c76,Australia,228.19,False
+a610c8,United States,169.77,False
+ac3c01,United States,46.27,False
+861ba8,Japan,72.89,False
+71c549,Republic of Korea,0.9,True
+789245,China,235.88,False
+71c543,Republic of Korea,198.44,False
+71c541,Republic of Korea,212.34,False
+71c546,Republic of Korea,235.85,False
+789248,China,206.87,False
+789249,China,3.6,True
+40837b,United Kingdom,233.39,False
+0d0645,Mexico,253.07,False
+a1cbd1,United States,73.68,False
+861bb0,Japan,89.29,False
+a5b691,United States,49.4,False
+86e866,Japan,143.64,False
+80140b,India,253.11,False
+489789,Poland,195.36,False
+489788,Poland,145.17,False
+801422,India,232.98,False
+801420,India,89.84,False
+86e84c,Japan,272.46,False
+71c578,Republic of Korea,4.37,True
+80140e,India,215.75,False
+51009b,Belarus,27.82,False
+acffb4,United States,11.83,True
+71c572,Republic of Korea,192.6,False
+75808c,Philippines,2.06,True
+0c20ab,Panama,222.73,False
+78924c,China,2.83,True
+ad8935,United States,0.0,True
+801427,India,104.58,False
+801432,India,0.19,True
+407c88,United Kingdom,172.05,False
+789265,China,80.05,False
+801431,India,195.29,False
+0c20b6,Panama,214.76,False
+789269,China,307.52,False
+7c33c6,Australia,23.75,False
+80141f,India,178.67,False
+861bd2,Japan,257.77,False
+4691c7,Greece,215.0,False
+80146f,India,129.13,False
+4691c5,Greece,0.0,True
+4691c3,Greece,3.6,True
+4691c1,Greece,194.67,False
+e8c061,Peru,143.01,False
+a48e7b,United States,106.49,False
+710110,Saudi Arabia,251.61,False
+4caaa8,Ireland,191.02,False
+a23b89,United States,41.97,False
+4d2127,Malta,6.69,True
+0c218d,Panama,38.07,True
+0c218b,Panama,229.16,False
+a445ee,United States,237.39,False
+801499,India,251.9,False
+3444cf,Spain,182.62,False
+3444cb,Spain,119.6,False
+801495,India,102.7,False
+44047d,Austria,71.65,False
+0c2189,Panama,235.78,False
+a59b5e,United States,253.91,False
+a445f0,United States,248.48,False
+010154,Egypt,231.5,False
+3444d0,Spain,162.98,False
+3444d1,Spain,180.95,False
+aa0325,United States,32.74,False
+a7dba2,United States,0.0,True
+a1d2dc,United States,198.66,False
+800d6a,India,96.83,False
+801460,India,132.61,False
+80145d,India,225.44,False
+348102,Spain,120.54,False
+80145f,India,69.63,False
+0c2179,Panama,5.92,True
+3444c9,Spain,7.46,True
+7c81d6,Australia,95.92,False
+71010f,Saudi Arabia,237.68,False
+7c479f,Australia,235.59,False
+801470,India,214.4,False
+408329,United Kingdom,107.64,False
+abba43,United States,247.48,False
+4d214b,Malta,213.92,False
+4c0176,Serbia,129.6,False
+4caada,Ireland,154.39,False
+4c0177,Serbia,108.14,False
+4c0179,Serbia,145.11,False
+a74505,United States,0.0,True
+86d594,Japan,61.19,False
+408314,United Kingdom,0.06,True
+39ccc7,France,60.94,False
+86d57f,Japan,138.61,False
+4d215c,Malta,218.93,False
+407c23,United Kingdom,75.24,False
+ac8a52,United States,62.59,False
+aa76a8,United States,219.0,False
+407c0b,United Kingdom,254.18,False
+e4a202,Brazil,242.04,False
+407c0a,United Kingdom,241.48,False
+80148f,India,234.59,False
+01010b,Egypt,0.0,False
+a54bab,United States,223.64,False
+3c54a1,Germany,192.08,False
+4d2132,Malta,4.63,True
+44046e,Austria,235.83,False
+44046d,Austria,206.79,False
+a6e8ae,United States,1.54,True
+440469,Austria,206.91,False
+3c54a5,Germany,162.72,False
+3c54a4,Germany,283.58,False
+3c54a2,Germany,273.17,False
+ac8a78,United States,17.48,False
+39364c,France,65.79,False
+ac41f3,United States,231.14,False
+4caad8,Ireland,150.33,False
+4081bf,United Kingdom,140.44,False
+440417,Austria,81.44,False
+06a1b3,Qatar,65.07,False
+39d2ab,France,282.76,False
+4081bb,United Kingdom,137.64,False
+4b18b9,Switzerland,204.12,False
+0c210e,Panama,232.6,False
+0c210d,Panama,225.24,False
+4081c0,United Kingdom,250.64,False
+a7459d,United States,233.78,False
+a3bda6,United States,3.09,False
+4d207a,Malta,137.88,False
+4081aa,United Kingdom,228.74,False
+4d2081,Malta,248.36,False
+4b18a3,Switzerland,202.39,False
+a014c9,United States,128.3,False
+440432,Austria,110.71,False
+407ac3,United Kingdom,87.58,False
+44042f,Austria,208.97,False
+4081a3,United Kingdom,212.04,False
+45c292,Denmark,46.2,False
+4081a1,United Kingdom,189.16,False
+a8ae7f,United States,90.03,False
+4d2068,Malta,239.45,False
+06a1e9,Qatar,190.01,False
+440425,Austria,282.33,False
+4b18ba,Switzerland,254.92,False
+407ab0,United Kingdom,80.53,False
+39d2a2,France,273.27,False
+0c2166,Panama,231.82,False
+4bb848,Turkey,206.08,False
+4bb847,Turkey,174.16,False
+4bb843,Turkey,213.28,False
+4b18f1,Switzerland,206.96,False
+4b18f2,Switzerland,251.56,False
+06a1ec,Qatar,232.71,False
+800bc0,India,214.9,False
+711486,Saudi Arabia,5.4,True
+4b18f0,Switzerland,272.47,False
+4bb855,Turkey,215.68,False
+a28a2c,United States,238.65,False
+4bb856,Turkey,219.34,False
+c1e9fd,Canada,6.17,True
+a4340e,United States,120.14,False
+ab8411,United States,271.95,False
+4bb84e,Turkey,215.41,False
+4bb84b,Turkey,216.36,False
+a96b14,United States,282.41,False
+7c7ab8,Australia,130.84,False
+343386,Spain,157.61,False
+343385,Spain,285.18,False
+7c1a1d,Australia,45.8,False
+a24de8,United States,5.66,True
+a59b9c,United States,0.0,True
+7c7ab1,Australia,0.9,True
+3b21ff,France,7.2,True
+7c7ab2,Australia,66.19,False
+7c7aac,Australia,234.65,False
+800ba0,India,109.97,False
+4d2092,Malta,174.95,False
+3e3463,Germany,161.09,False
+4d2096,Malta,199.74,False
+7c7aa4,Australia,239.59,False
+7c7aa6,Australia,4.89,True
+7c7aa7,Australia,0.0,True
+407af3,United Kingdom,250.09,False
+aa75ef,United States,268.28,False
+4b18fc,Switzerland,141.86,False
+407af5,United Kingdom,263.33,False
+862338,Japan,118.76,False
+a254d7,United States,1.03,True
+344697,Spain,187.82,False
+344699,Spain,216.34,False
+800bef,India,8.23,True
+4bb87a,Turkey,223.91,False
+a4caba,United States,253.34,False
+344694,Spain,72.03,False
+46a5e2,Greece,100.94,False
+46a5e1,Greece,211.75,False
+46a5e3,Greece,173.01,False
+c01970,Canada,233.37,False
+71bf55,Republic of Korea,233.11,False
+71bf53,Republic of Korea,8.75,True
+4cc52b,Iceland,87.97,False
+a5b769,United States,2.57,True
+a54137,United States,8.23,True
+504e59,Republic of Moldova,128.34,False
+75818a,Philippines,45.32,False
+4402f1,Austria,93.57,False
+4402f0,Austria,232.97,False
+789289,China,4.12,True
+7c7b81,Australia,0.0,True
+600012,Armenia,225.86,False
+a2915f,United States,149.53,False
+789284,China,215.08,False
+c01968,Canada,0.0,True
+a12f09,United States,0.0,True
+7c7b87,Australia,58.26,False
+8515c4,Japan,134.2,False
+86e822,Japan,253.11,False
+4bb869,Turkey,201.64,False
+7100b0,Saudi Arabia,208.9,False
+acb84d,United States,245.7,False
+4bb863,Turkey,220.65,False
+7c7b78,Australia,47.18,False
+789297,China,238.56,False
+4bb870,Turkey,217.66,False
+c066f4,Canada,0.0,True
+504e6c,Republic of Moldova,238.87,False
+789296,China,223.67,False
+789294,China,205.12,False
+abf8ff,United States,133.97,False
+4bb876,Turkey,225.74,False
+e4a18e,Brazil,240.35,False
+7c7b69,Australia,43.52,False
+71bf57,Republic of Korea,206.46,False
+3cf3a9,Germany,2.83,True
+adc532,United States,234.42,False
+a12f2a,United States,254.24,False
+aab2d6,United States,158.25,False
+ac4237,United States,250.12,False
+71bf06,Republic of Korea,231.9,False
+504e88,Republic of Moldova,227.92,False
+a26934,United States,25.12,False
+46b8b4,Greece,1.54,True
+46b8b5,Greece,199.13,False
+46b8b2,Greece,229.9,False
+46b8b3,Greece,183.73,False
+46b8b6,Greece,215.91,False
+adab31,United States,7.46,True
+71bf26,Republic of Korea,185.27,False
+4402e8,Austria,178.1,False
+46b8aa,Greece,168.28,False
+71bf25,Republic of Korea,195.8,False
+a4347b,United States,232.65,False
+87304a,Japan,173.65,False
+8a026a,Indonesia,212.65,False
+47a05e,Norway,216.76,False
+46b8a6,Greece,220.0,False
+46b8a9,Greece,216.23,False
+3c5642,Germany,289.39,False
+4402d3,Austria,70.03,False
+a504dd,United States,279.16,False
+4b1939,Switzerland,193.75,False
+4b191c,Switzerland,246.02,False
+801524,India,211.04,False
+06a113,Qatar,286.56,False
+7c1ab8,Australia,226.27,False
+06a110,Qatar,271.48,False
+a35c0b,United States,0.0,True
+a29cbf,United States,1.03,True
+4b191a,Switzerland,278.67,False
+48c26c,Poland,227.95,False
+adc5ff,United States,256.12,False
+801526,India,218.96,False
+c04394,Canada,257.22,False
+7c34ab,Australia,53.79,False
+406a59,United Kingdom,82.63,False
+06a126,Qatar,98.01,False
+a699b0,United States,237.31,False
+06a121,Qatar,289.5,False
+7c7d1a,Australia,74.99,False
+4caa5c,Ireland,76.68,False
+a4cc00,United States,62.68,False
+406a3e,United Kingdom,197.36,False
+06a11f,Qatar,272.83,False
+4caa5a,Ireland,244.41,False
+398577,France,61.73,False
+8850b8,Thailand,244.11,False
+a43fa0,United States,259.36,False
+4b193f,Switzerland,199.05,False
+4caa60,Ireland,7.46,True
+3edd45,Germany,40.38,False
+4caa61,Ireland,251.43,False
+4b193a,Switzerland,213.35,False
+407d74,United Kingdom,243.36,False
+06a12d,Qatar,192.71,False
+451dbd,Bulgaria,253.91,False
+7c47ba,Australia,246.0,False
+06a12a,Qatar,291.01,False
+407d5b,United Kingdom,205.94,False
+3e2ade,Germany,205.81,False
+7c47bc,Australia,168.84,False
+a91d8e,United States,259.32,False
+468d07,Greece,185.55,False
+4caa5f,Ireland,235.48,False
+71bf93,Republic of Korea,5.14,False
+06a13c,Qatar,245.72,False
+406a9c,United Kingdom,238.61,False
+a48321,United States,52.97,False
+801562,India,78.71,False
+ab1d30,United States,257.61,False
+86d61c,Japan,249.43,False
+40717c,United Kingdom,225.2,False
+40717d,United Kingdom,248.92,False
+48c22f,Poland,221.13,False
+40717a,United Kingdom,249.72,False
+48c22c,Poland,211.35,False
+801560,India,220.14,False
+40717e,United Kingdom,264.62,False
+a36f7e,United States,229.06,False
+40717f,United Kingdom,234.57,False
+80155c,India,243.17,False
+86d629,Japan,229.7,False
+71bf83,Republic of Korea,225.03,False
+71bf82,Republic of Korea,264.59,False
+85c970,Japan,215.73,False
+48c239,Poland,248.73,False
+71bf86,Republic of Korea,198.32,False
+407182,United Kingdom,227.95,False
+48c234,Poland,241.64,False
+a48315,United States,254.66,False
+4b194f,Switzerland,1.8,False
+7c6a54,Australia,147.48,False
+7c6a53,Australia,130.35,False
+407180,United Kingdom,247.66,False
+801579,India,54.58,False
+407181,United Kingdom,244.31,False
+a5417e,United States,271.75,False
+801578,India,236.13,False
+406a92,United Kingdom,120.67,False
+4b194d,Switzerland,195.35,False
+09011c,Angola,72.51,False
+4b194e,Switzerland,118.27,False
+09011d,Angola,158.27,False
+aafd1f,United States,265.52,False
+407179,United Kingdom,226.73,False
+a13687,United States,130.65,False
+406a91,United Kingdom,260.19,False
+48c225,Poland,96.05,False
+48c226,Poland,69.5,False
+48c223,Poland,0.0,True
+48c224,Poland,232.14,False
+06a15a,Qatar,248.06,False
+407177,United Kingdom,149.02,False
+407178,United Kingdom,227.23,False
+7c711b,Australia,45.42,False
+47a249,Norway,53.15,False
+4404a4,Austria,197.68,False
+868688,Japan,233.04,False
+80153e,India,142.21,False
+a97dcb,United States,259.75,False
+86cf4d,Japan,223.88,False
+090143,Angola,252.88,False
+a6b140,United States,25.0,False
+7c1ac1,Australia,220.89,False
+7c1abd,Australia,243.28,False
+7c1aba,Australia,217.61,False
+80158d,India,73.41,False
+407d0c,United Kingdom,43.3,False
+498b26,Czech Republic,49.41,False
+abd536,United States,244.0,False
+80158b,India,217.93,False
+80158c,India,253.95,False
+80158a,India,213.74,False
+3c66c4,Germany,272.55,False
+407d10,United Kingdom,267.63,False
+3c66c3,Germany,169.48,False
+4692da,Greece,184.7,False
+48ce42,Poland,30.63,False
+0c2083,Panama,239.3,False
+a7f6b9,United States,229.52,False
+4d2007,Malta,231.65,False
+a66cf7,United States,226.16,False
+4047b7,United Kingdom,30.39,False
+3c66e1,Germany,191.7,False
+3ff197,Germany,58.73,False
+a6399c,United States,137.73,False
+47a218,Norway,86.86,False
+3e5930,Germany,207.55,False
+3432c5,Spain,123.33,False
+801584,India,131.23,False
+3c66e5,Germany,190.14,False
+861e56,Japan,209.26,False
+a540e3,United States,267.4,False
+ac088e,United States,0.0,True
+78090e,China,223.22,False
+0c2064,Panama,212.63,False
+85186a,Japan,173.61,False
+4692d7,Greece,0.0,True
+c03003,Canada,91.18,False
+4692d6,Greece,217.56,False
+4692d4,Greece,191.63,False
+a446eb,United States,5.14,True
+ab1bfb,United States,228.56,False
+801596,India,127.92,False
+4692cc,Greece,207.81,False
+801590,India,126.59,False
+3c66eb,Germany,9.26,True
+801591,India,209.42,False
+863861,Japan,36.83,False
+7c47b9,Australia,217.47,False
+348212,Spain,276.9,False
+7c47b8,Australia,234.9,False
+4d2038,Malta,207.57,False
+440582,Austria,167.33,False
+4d201e,Malta,236.09,False
+ac42e0,United States,282.91,False
+a04b24,United States,0.0,True
+3c79b8,Germany,238.52,False
+4b9056,Turkey,45.28,False
+3c79b9,Germany,244.73,False
+44056b,Austria,245.54,False
+ad1560,United States,250.87,False
+a11ba0,United States,136.17,False
+7c47a9,Australia,231.58,False
+348204,Spain,172.65,False
+3e31ea,Germany,179.05,False
+7c47a4,Australia,129.3,False
+407d45,United Kingdom,0.0,True
+407d46,United Kingdom,6.43,True
+440570,Austria,184.2,False
+00afad,South Africa,69.39,False
+407d44,United Kingdom,199.66,False
+851826,Japan,251.18,False
+a5198f,United States,76.43,False
+3d1f23,Germany,89.64,False
+4b906c,Turkey,116.23,False
+3c66b0,Germany,219.04,False
+c04f53,Canada,82.95,False
+3c66a4,Germany,193.53,False
+3c66a7,Germany,148.96,False
+3c66a6,Germany,283.66,False
+c019eb,Canada,115.61,False
+a18504,United States,0.06,True
+a028e5,United States,258.03,False
+780969,China,228.93,False
+4d200f,Malta,171.09,False
+440592,Austria,170.84,False
+4d200c,Malta,73.76,False
+3c66b8,Germany,125.34,False
+4d200d,Malta,73.87,False
+a3ac77,United States,13.38,True
+4d200e,Malta,245.8,False
+4d2020,Malta,229.99,False
+851848,Japan,203.21,False
+4b9068,Turkey,213.33,False
+885111,Thailand,9.26,True
+885105,Thailand,252.84,False
+7892a2,China,147.77,False
+7892a5,China,148.99,False
+7c2e45,Australia,0.0,True
+7c2e48,Australia,157.27,False
+7892a4,China,98.22,False
+4082cc,United Kingdom,262.88,False
+4082cd,United Kingdom,242.13,False
+4082cb,United Kingdom,232.65,False
+8a0131,Indonesia,56.82,False
+7c1b0c,Australia,131.65,False
+8a0134,Indonesia,125.78,False
+7892a9,China,228.04,False
+ace0d3,United States,44.56,False
+7892a8,China,28.41,False
+407bdd,United Kingdom,58.5,False
+a9605b,United States,251.02,False
+c819dd,New Zealand,66.21,False
+c819de,New Zealand,3.09,True
+06a0b4,Qatar,281.92,False
+4082bb,United Kingdom,192.62,False
+c819e0,New Zealand,82.54,False
+a12ee0,United States,258.57,False
+300347,Italy,77.31,False
+4082ac,United Kingdom,238.49,False
+a11bc6,United States,5.66,True
+a2b8b8,United States,217.08,False
+4082ab,United Kingdom,249.96,False
+88510a,Thailand,0.0,True
+4598cb,Denmark,42.63,False
+a242e5,United States,112.86,False
+7c3581,Australia,50.23,False
+0c2047,Panama,1.03,True
+800ce4,India,207.02,False
+86e7c4,Japan,6.69,True
+a6b0c5,United States,217.18,False
+342189,Spain,226.31,False
+680009,Bhutan,208.46,False
+342188,Spain,0.0,True
+7c7beb,Australia,66.06,False
+800ce0,India,120.27,False
+68000a,Bhutan,212.03,False
+68000c,Bhutan,240.97,False
+a72c78,United States,1293.27,False
+7c3574,Australia,44.6,False
+155bca,Russian Federation,249.94,False
+8013cc,India,144.84,False
+800cf7,India,62.64,False
+4acaa1,Sweden,164.68,False
+ac9e23,United States,125.53,False
+4acaa2,Sweden,187.25,False
+4acaa5,Sweden,145.55,False
+8013a3,India,218.3,False
+7c3561,Australia,32.68,False
+155bfa,Russian Federation,2098.95,False
+800cc2,India,112.17,False
+7cf8f3,Australia,71.36,False
+7c355d,Australia,31.49,False
+abe82c,United States,245.06,False
+4b17f8,Switzerland,0.0,True
+4b17f9,Switzerland,0.0,True
+8013b2,India,213.63,False
+7c7bc7,Australia,186.35,False
+a1d546,United States,244.13,False
+a6b0bd,United States,241.75,False
+800cc9,India,223.27,False
+4082f8,United Kingdom,218.83,False
+4b17e6,Switzerland,213.35,False
+0d0ff8,Mexico,255.02,False
+ad1fcf,United States,265.5,False
+71c759,Republic of Korea,238.22,False
+aafc36,United States,7.72,True
+86cf09,Japan,219.95,False
+4b17fc,Switzerland,121.15,False
+4b17fd,Switzerland,65.34,False
+a41b5b,United States,96.06,False
+71c741,Republic of Korea,210.71,False
+850fe7,Japan,26.56,False
+3481c3,Spain,42.48,False
+7c704a,Australia,71.11,False
+71c742,Republic of Korea,206.64,False
+88516e,Thailand,253.07,False
+4a3496,Romania,31.21,False
+4acaa6,Sweden,3.6,True
+7c7c7a,Australia,130.8,False
+3e8e41,Germany,23.12,False
+c03abc,Canada,146.55,False
+4a81f9,Sweden,221.48,False
+4acab0,Sweden,183.24,False
+800cff,India,97.95,False
+8013f6,India,204.7,False
+86d607,Japan,148.52,False
+86cf16,Japan,219.28,False
+4acaaf,Sweden,209.89,False
+4acac1,Sweden,206.8,False
+abd3c7,United States,237.43,False
+407bc7,United Kingdom,247.23,False
+abd3cf,United States,188.69,False
+8a017c,Indonesia,132.21,False
+71c719,Republic of Korea,246.16,False
+4a2181,Romania,258.99,False
+ab236a,United States,253.62,False
+342107,Spain,220.87,False
+342105,Spain,221.0,False
+342104,Spain,229.17,False
+398566,France,224.28,False
+a12429,United States,257.52,False
+47bfb3,Norway,172.49,False
+71c702,Republic of Korea,114.25,False
+4403bb,Austria,192.2,False
+4caa57,Ireland,186.16,False
+71c709,Republic of Korea,184.38,False
+4caa59,Ireland,237.92,False
+4cc45a,Iceland,269.08,False
+a81815,United States,0.0,False
+7808d1,China,195.51,False
+4caa53,Ireland,113.66,False
+39bb25,France,227.03,False
+4caa54,Ireland,53.79,False
+a1240a,United States,98.25,False
+4caa55,Ireland,157.34,False
+71c700,Republic of Korea,223.61,False
+a1373d,United States,157.66,False
+39bb23,France,63.28,False
+4b1918,Switzerland,254.27,False
+a41b8d,United States,40.33,False
+39ce24,France,251.22,False
+75824e,Philippines,222.52,False
+a79531,United States,54.62,False
+a625d8,United States,55.8,False
+4403f0,Austria,179.41,False
+4b1904,Switzerland,256.35,False
+704458,Myanmar,197.62,False
+a6d83c,United States,246.25,False
+85793c,Japan,36.61,False
+c067ae,Canada,0.0,True

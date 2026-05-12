@@ -15,6 +15,7 @@ services:
   airflow-init:
     image: apache/airflow:2.9.3
     container_name: airflow-init
+    # user: "${AIRFLOW_UID}:0"
     depends_on:
       - postgres
     environment:
@@ -33,6 +34,7 @@ services:
   airflow-webserver:
     image: apache/airflow:2.9.3
     container_name: airflow-webserver
+    # user: "${AIRFLOW_UID}:0"
     restart: always
     depends_on:
       - airflow-init
@@ -54,6 +56,7 @@ services:
   airflow-scheduler:
     image: apache/airflow:2.9.3
     container_name: airflow-scheduler
+    # user: "${AIRFLOW_UID}:0"
     restart: always
     depends_on:
       - airflow-init
